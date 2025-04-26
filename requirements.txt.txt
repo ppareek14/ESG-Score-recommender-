@@ -1,0 +1,11 @@
+pymupdf
+pytesseract
+pdfminer.six
+easyocr
+openai
+langchain
+faiss-cpu
+streamlit
+pandas
+numpy
+scikit-learn
