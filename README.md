@@ -3,53 +3,58 @@ Forced Labour Risk ESG Assistant
 A GenAI-powered tool to analyze, score, and explain the risk of forced labour practices in companies based on their ESG and sustainability reports, helping investors make responsible and data-driven investment decisions.
 
 Project Overview
-This project builds a Retrieval-Augmented Generation (RAG) pipeline and a forced labour risk scoring model by:
+This project implements a Retrieval-Augmented Generation (RAG) pipeline combined with a forced labour risk scoring model. It is designed to:
 
-Extracting both native text and image-based text (OCR) from ESG documents.
+Extract both native text and image-based text (OCR) from ESG and sustainability documents.
 
-Using semantic search and prompted LLM reasoning to answer investment questions.
+Use semantic search and prompted Large Language Model (LLM) reasoning to answer critical investment risk questions.
 
-Scoring companies based on global standards (GRI 409, ESRS S2, SFDR).
+Score companies based on global regulatory standards, including GRI 409 (Forced or Compulsory Labour), ESRS S2 (Value Chain Workers), and SFDR (Sustainable Finance Disclosure Regulation).
 
-Explaining recommendations with citations from original reports.
+Generate transparent investment recommendations with citations from original reports.
 
-Visualizing forced labour risk using a dashboard and risk reports.
+Visualize forced labour risk across companies using interactive dashboards and risk reports.
 
 Key Features
-Parse and understand complex ESG reports (text + scanned images)
+Parse and analyze complex ESG and sustainability reports, including both text and scanned images.
 
-Use LLMs (like GPT-4) to retrieve and reason over ESG disclosures
+Leverage Large Language Models (LLMs) to retrieve contextually relevant disclosures from long documents.
 
-Assign a forced labour risk score (0–100) per company
+Assign a forced labour risk score (scale of 0–100) for each company based on disclosure quality and risk mitigation.
 
-Generate invest / watchlist / avoid recommendations
+Generate clear investment recommendations categorized as Invest, Watchlist, or Avoid.
 
-Provide transparent justifications with quotes from ESG reports
+Provide auditable justifications with direct quotations from official ESG documents.
 
-Visualize risk via charts, scorecards, and downloadable reports
+Visualize risk scores, metrics, and flagged disclosures through a professional dashboard.
 
 How It Works
-PDF Extraction:
+1. PDF Extraction
+Extracts both native digital text and applies Optical Character Recognition (OCR) to image-based sections of ESG and sustainability reports.
 
-Extract native text and OCR text from ESG reports.
+2. Chunking and Embedding
+Splits extracted content into manageable chunks and generates semantic embeddings for efficient retrieval.
 
-Chunking & Embedding:
+3. Vector Database Storage
+Stores the document chunks in a vector database (e.g., FAISS) for scalable, high-performance semantic search.
 
-Split extracted text into chunks and create semantic embeddings.
+4. Prompted Retrieval
+Applies structured prompts to retrieve relevant sections and answer investment-related questions, such as:
 
-Vector Database Storage:
+"Does the company audit suppliers for forced labour risks?"
 
-Store document chunks for efficient retrieval using FAISS.
+5. Risk Scoring
+Applies a structured scoring model aligned with recognized ESG frameworks to evaluate the company's disclosures and practices.
 
-Prompted Retrieval:
+Calculates an overall risk score and categorizes companies into investment recommendation tiers.
 
-Use RAG to answer investment-related queries like:
-“Does the company audit suppliers for forced labour risks?”
+6. Visualization
+Presents risk scores, key flagged disclosures, and investment recommendations through an interactive Streamlit dashboard.
 
-Risk Scoring:
+Enables generation of downloadable, audit-ready risk reports.
 
-Apply a structured ESG metric framework to generate risk scores.
 
-Visualization:
 
-Use Streamlit to display risk levels, citations, and company comparisons.
+
+
+
