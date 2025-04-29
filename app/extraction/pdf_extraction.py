@@ -1,9 +1,9 @@
-# --- extract_text_from_pdf.py (Final Production Version) ---
+# --- pdf_extraction.py ---
 
 from pathlib import Path
 import fitz  # PyMuPDF
 import pytesseract
-from PIL import Image
+from PIL import Image, ImageOps, ImageEnhance
 import os
 
 def extract_text_from_pdf(pdf_path):
@@ -19,9 +19,15 @@ def extract_text_from_pdf(pdf_path):
         try:
             page_text = page.get_text()
             if not page_text.strip():
-                # If no text found, fallback to OCR
-                pix = page.get_pixmap(dpi=300)
+                # If no text found, fallback to enhanced OCR
+                pix = page.get_pixmap(dpi=400)  # Higher DPI
                 img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+
+                # Preprocess image for better OCR
+                img = ImageOps.grayscale(img)
+                img = ImageOps.autocontrast(img)
+                img = ImageEnhance.Sharpness(img).enhance(2.0)
+
                 ocr_text = pytesseract.image_to_string(img)
                 full_text += ocr_text + "\n"
             else:
@@ -32,21 +38,19 @@ def extract_text_from_pdf(pdf_path):
     return full_text
 
 if __name__ == "__main__":
-    # Set project root dynamically based on this script location
     extraction_script_path = Path(__file__).resolve()
-    app_folder = extraction_script_path.parent  # Navigate one level up to 'app'
+    app_folder = extraction_script_path.parent  # Assuming inside `/extraction/`
 
-    data_folder = app_folder / "data"
-    output_folder = app_folder / "extracted_texts"
+    data_folder = app_folder.parent / "data"
+    output_folder = app_folder.parent / "extracted_texts"
     output_folder.mkdir(parents=True, exist_ok=True)
 
-    for pdf_file in data_folder.rglob("*.pdf"):  # Recursive search
+    for pdf_file in data_folder.rglob("*.pdf"):
         company_name = pdf_file.parent.name.replace(" ", "_")
         pdf_name = pdf_file.stem.replace(" ", "_")
         output_filename = f"{company_name}_{pdf_name}.txt"
         output_file = output_folder / output_filename
 
-        # Check if text already extracted
         if output_file.exists():
             print(f"Skipping already extracted file: {output_filename}")
             continue
