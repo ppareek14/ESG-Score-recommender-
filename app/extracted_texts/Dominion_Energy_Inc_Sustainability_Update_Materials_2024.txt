@@ -1,0 +1,1198 @@
+Sustainability Update 
+Materials
+November 2024
+
+Important note for investors
+2
+This presentation contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 regarding Dominion Energy. The statements relate to, among other things, expectations, 
+estimates and projections concerning the business and operations of Dominion Energy. We have used the words “path”, "anticipate", "believe", "could", "estimate", "expect", "intend", "may", "plan", “outlook”, "predict", "project", 
+“should”, “strategy”, “target”, "will“, “potential” and similar terms and phrases to identify forward-looking statements in this presentation. Such forward-looking statements, including operating earnings per share information and 
+guidance, projected dividends, projected debt and equity issuances, projected cash flow, capital expenditures, operating expenses and debt information, shareholder return, and long-term growth or value, are subject to various risks 
+and uncertainties. As outlined in our SEC filings, factors that could cause actual results to differ include, but are not limited to: the direct and indirect impacts of implementing recommendations from the business review concluded in 
+March 2024; unusual weather conditions and their effect on energy sales to customers and energy commodity prices; extreme weather events and other natural disasters; extraordinary external events, such as the pandemic health 
+event resulting from COVID-19; federal, state and local legislative and regulatory developments; changes to regulated rates collected by Dominion Energy; risks associated with entities in which Dominion Energy shares ownership with 
+third parties, such as a 50% noncontrolling interest in the Coastal Virginia Offshore Wind (CVOW) Commercial Project, including risks that result from lack of sole decision making authority, disputes that may arise between Dominion 
+Energy and third party participants and difficulties in exiting these arrangements; timing and receipt of regulatory approvals necessary for planned construction or expansion projects and compliance with conditions associated with 
+such regulatory approvals; the inability to complete planned construction projects within time frames initially anticipated; risks and uncertainties that may impact the ability to construct the CVOW Commercial Project within the 
+currently proposed timeline, or at all, and consistent with current cost estimates along with the ability to recover such costs from customers; risks and uncertainties associated with the timely receipt of future capital contributions, 
+including optional capital contributions, if any, from the noncontrolling financing partner associated with the construction of the CVOW Commercial Project; changes to federal, state and local environmental laws and regulations, 
+including those related to climate change; cost of environmental strategy and compliance, including cost related to climate change; changes in implementation and enforcement practices of regulators relating to environmental 
+standards and litigation exposure for remedial activities; changes in operating, maintenance and construction costs; the availability of nuclear fuel, natural gas, purchased power or other materials utilized by Dominion Energy to 
+provide electric generation, transmission and distribution and/or gas distribution services; additional competition in Dominion Energy’s industries; changes in demand for Dominion Energy’s services; risks and uncertainties associated 
+with increased energy demand or significant accelerated growth in demand due to new data centers, including the concentration of data centers primarily in Loudoun County, Virginia and the ability to obtain regulatory approvals, 
+environmental and other permits to construct new facilities in a timely manner; the technological and economic feasibility of large-scale battery storage, carbon capture and storage, small modular reactors, hydrogen and/or other 
+clean energy technologies; receipt of approvals for, and timing of, closing dates for acquisitions and divestitures; impacts of acquisitions, divestitures, transfers of assets by Dominion Energy to joint ventures, and retirements of assets 
+based on asset portfolio reviews; adverse outcomes in litigation matters or regulatory proceedings; fluctuations in interest rates; the effectiveness to which existing economic hedging instruments mitigate fluctuations in currency 
+exchange rates of the Euro and Danish Krone associated with certain fixed price contracts for the major offshore construction and equipment components of the CVOW Commercial Project; changes in rating agency requirements or 
+credit ratings and their effect on availability and cost of capital; and capital market conditions, including the availability of credit and the ability to obtain financing on reasonable terms. Other risk factors are detailed from time to time 
+in Dominion Energy’s quarterly reports on Form 10-Q and most recent annual report on Form 10-K filed with the U.S. Securities and Exchange Commission. 
+The information in this presentation was prepared as of November 4, 2024. Dominion Energy undertakes no obligation to update any forward-looking information statement to reflect developments after the statement is made. 
+Projections or forecasts shown in this document are based on the assumptions listed in this document and are subject to change at any time.
+This presentation shall not constitute an offer to sell or the solicitation of an offer to buy securities. Any offers to sell or solicitations of offers to buy securities will be made in accordance with the requirements of the Securities Act of 
+1933, as amended. This presentation has been prepared primarily for security analysts and investors in the hope that it will serve as a convenient and useful reference document. The format of this document may change in the future as 
+we continue to try to meet the needs of security analysts and investors. This document is not intended for use in connection with any sale, offer to sell or solicitation of any offer to buy securities. This presentation includes certain 
+financial measures that have not been prepared in accordance with U.S. generally accepted accounting principles (GAAP). In providing projections, estimates or guidance of operating earnings per share guidance (non-GAAP) and FFO to 
+debt (non-GAAP), the company notes that there could be differences between such non-GAAP financial measures and the GAAP equivalents of reported net income per share and reported net cash provided by operating activities to 
+reported long-term debt, short-term debt, supplement credit facility borrowings and securities due within one year, respectively. Reconciliations of such non-GAAP measures to their GAAP equivalents are not provided, because the 
+company cannot, without unreasonable effort, estimate or predict with certainty various components of net income, net cash provided by operating activities, long-term debt, short-term debt, supplemental credit facility borrowings or 
+securities due within one year. 
+Please continue to regularly check Dominion Energy’s website at www.dominionenergy.com/investors.
+
+90% 
+State-regulated 
+utility operations
+▪
+Simple strategy: Operate exceptional utilities in 
+the Southeast U.S. 
+― Reliable and affordable service
+― Stable and constructive regulatory frameworks
+― Attractive resiliency, sustainability, and demand 
+growth drivers
+▪
+Compelling financial profile: Durable and high-
+quality growth
+― Secure dividend + attractive dividend yield
+― Robust and sustainable credit profile
+― Attractive rate base growth 
+― O&M discipline
+― Enhanced disclosure and transparency
+3
+¹ 2025E—2029E; Figures above include impact of 50% non-controlling equity partner funding 50% of CVOW project costs ² As of 11/1/2024 ³ Year-end 2024E through year-end 2029E  4 Expected 
+consolidated average annual FFO to debt between 2025 and 2029
+Strategic and financial profile
+Strategic and financial metrics
+$43B
+Five-year capital 
+investment plan¹
+15%
+Consolidated
+FFO to debt4
+5%—7%
+Annual operating
+EPS growth rate¹
+~4.5%  
+dividend yield²
+~9.5%—11.5%
+Total shareholder 
+return
+The business review has delivered a comprehensively positive result
+Repositioned to provide compelling long-term value for shareholders, customers & employees
+7.5%
+Consolidated 
+rate base CAGR³
++
+=
+
+Dominion Energy 
+Letter from the Chair¹
+4
+¹ https://sustainability.dominionenergy.com/scr-report/letter-from-the-chair/ 
+“Sustainability is at the core of Dominion Energy’s mission of 
+providing the reliable, affordable, and increasingly clean 
+energy that powers our customers every day. Our company’s 
+core values — Safety, Ethics, Excellence, Embrace Change, 
+and One Dominion Energy (our term for teamwork) — 
+inform our dedication to sustainability.”
+Robert M. Blue
+Chair, President, and Chief Executive Officer
+September 24, 2024
+
+Dominion Energy
+Sustainability highlights 
+5
+¹ DEV rate as of October 2024; DESC rate as of October 2024; and US average rate per EIA August 2024 estimates, table 5.6. ² As of year-end 2023
+DEV and DESC 
+customers had 
+power
+ 99.98% 
+of the time in 
+2023
+Reliability
+DEV rates are 
+14% below 
+the national 
+average
+DESC rates are 
+11% below 
+the national 
+average
+Affordability¹
+53% reduction 
+in Scope 1 carbon 
+emissions from 
+electric operations 
+since 2005¹ 
+80% 
+of 5-year capital plan 
+is in zero-carbon 
+generation and wires
+Increasingly 
+clean
+0.45 
+OSHA recordable 
+incident rate
+$46.7M 
+contributed to social 
+betterment
+37.7% 
+diverse workforce
+$1.43B 
+diverse supplier spend
+Communities 
+and people²
+Continued best 
+practice of 
+Board and 
+committee 
+refreshment 
+95.7
+2024 CPA-Zicklin 
+Index 
+“Trendsetter”
+Governance
+Our mission is to deliver the reliable, affordable, and increasingly clean energy
+that powers our customers every day
+
+Dominion Energy
+Sustainability reporting 
+6
+Topic
+Overview
+Latest published & link
+Sustainability and 
+Corporate 
+Responsibility 
+▪“Flagship” sustainability disclosure with detailed reporting on sustainability strategy 
+including governance, performance, comprehensive methane and carbon metrics, 
+and focus areas; maps to GRI, SASB, UNSDG
+▪Includes EEI and AGA templates with key GHG emissions and portfolio metrics
+2023 SCR Report
+Diversity & 
+Inclusion (D&I) 
+▪Within the SCR Report, voluntary D&I reporting highlighting progress and initiatives 
+towards building a more diverse and inclusive workforce
+▪Includes EEO-1 demographic workforce data 
+2023 workforce metrics
+2023 EEO-1 data
+CDP
+▪Responses report into the world’s largest environmental dataset for climate 
+information
+2023 Climate CDP
+2023 Water CDP
+Integrated Resource 
+Plans (IRP)
+▪State-regulated utility filings disclose long-term system planning details
+2024 VA IRP
+2024 SC IRP
+Sustainability 
+website 
+▪Comprehensive repository of sustainability reporting including:
+― EEI and AGA templates and GHG inventory assurance
+― Selected policies including Human Rights, Env. Justice, and Supplier Code of Ethics
+― A link to the leadership and governance website
+Sustainability website
+
+Governance
+Board of Directors
+▪
+December 2023: Added two new independent directors, Vanessa Allen Sutherland and Paul M. Dabbar
+▪
+May 2024: New independent Lead Director, Susan Story, former CEO of American Water
+▪
+June 2024: Refreshed Board committee structure
+― Board conducted a holistic review of committees’ responsibilities considering current governance trends, best 
+practices, and evolving regulatory requirements
+― Committees include¹:
+― Several Board members rotated to different committees to provide fresh perspectives, align their expertise with 
+the adjusted committee responsibilities, and balance time commitments among the directors
+7
+Recent updates
+¹ For a full description of the Board Committees and their oversight responsibilities, please see the Board Committee Charters, linked here: https://www.dominionenergy.com/our-company/leadership-
+and-governance/board-committees-and-charters 
+Nominating, 
+Governance, and 
+Sustainability 
+Safety, 
+Technology, 
+Nuclear, and 
+Operations
+Compensation 
+and Talent 
+Development 
+Finance
+Audit
+
+3
+4
+4
+<58 yrs
+58-63 yrs
+>63 yrs
+4
+4
+1
+2
+0-3 yrs 4-8 yrs 9-11 yrs 12+ yrs
+8
+Note: All data as of October 1, 2024
+Board expertise (% of directors)
+Diversity, tenure & age
+Governance
+Board of Directors
+Best practices
+✓
+Independent: 10 of 11 directors (incl. lead) and 100% of Committee members
+✓
+Performance Assessments: Annually at Board and Committee level
+✓
+Ownership: Robust director and executive share ownership guidelines
+✓
+Annual Election of Directors: Majority vote standard
+✓
+Refreshed Committee Structure: Adopted in 2024, following a holistic review
+✓
+Refreshment: Six new directors added since 2019
+✓
+Proxy Access: Adopted in 2015 
+✓
+Say on Pay: Annual advisory vote
+✓
+Right to call special meeting: 15% threshold
+100%
+100%
+100%
+100%
+91%
+91%
+82%
+73%
+64%
+45%
+Leadership
+Financial or accounting
+Risk management
+Human capital/talent management
+Corporate governance
+Customer and community
+Innovation and technology
+Government, public policy or legal
+Environmental
+Industry
+45%
+36%
+27%
+Diverse
+Female
+Racial/Ethnic
+7.3 
+years avg 
+tenure
+62
+avg 
+age
+
+Governance
+Responding to shareholder feedback: recent updates to executive compensation 
+9
+▪Since 2023, 100% of CEO Long-Term Incentive Program (LTIP) is performance based
+▪For 2023, 94% of CEO LTIP payout was based on TSR, with a 65th percentile target payout
+▪For 2024, 65% of CEO LTIP payout is based on TSR, with a 65th percentile target payout
+▪Eliminated opportunity for CEO to earn a portion of LTIP payout based on relative P/E ratio
+▪At CEO’s request, the CTD Committee exercised negative discretion for his 2021 performance 
+grant payout, lowering payout to $0, despite goal achievement of 51.2%
+What we heard
+How we responded
+Use of the LTIP P/E ratio 
+modifier 
+Mix between equity and 
+performance awards in 
+Long-Term Incentive 
+Program (LTIP) 
+Support for alignment 
+between CEO pay and 
+financial performance
+▪For 2024, cash performance grant for officers replaced with performance share units, to 
+further align compensation with shareholder outcomes
+▪For 2024, LTIP grant for officers attributable to restricted stock has been reduced from 40% to 
+30%, with 70% attributable to the new PSU grant
+▪Our CEO received a performance share award in lieu of the restricted stock portion of his 2024 
+LTIP
+▪The ability to earn any payout based on our relative P/E ratio modifier was eliminated from the 
+CEO’s 2023 LTIP and has been eliminated for all officers starting with the 2024 LTIP
+
+Reliability
+40%
+Compliance
+25%
+Safety
+25%
+Customer Experience
+10%
+All employees share four common goal categories and 
+funding level is based on consolidated operating EPS
+▪We believe that continuing to focus incentive goals on 
+our business strategy will result in higher long-term 
+returns (including stock price performance) for 
+shareholders
+▪Thus, higher than sector average officer stock 
+ownership requirements create alignment between 
+management financial interests and successful 
+execution of our business strategy
+▪Require significant stock ownership, including 6x base 
+salary for our CEO, 4x base salary for our Executive 
+Vice Presidents and 3x base salary for our other 
+Named Executive Officers
+Governance
+Accountability driven by aligned incentives focusing on business strategy
+Short-term incentive scoring criteria
+Robust stock-ownership requirements for officers
+10
+
+11% Salary
+14% Annual Incentive
+75% Long-Term Incentive
+Governance
+Pay for performance, placing a substantial portion of CEO compensation at risk
+CEO target direct compensation mix (2024)
+CEO long-term incentive compensation (2024)  
+89% 
+Performance-
+based 
+compensation 
+11
+65% TSR
+28% EPS
+7% Non-Carbon Emitting Generating Capacity
+LTIP is 100%
+performance-
+based
+
+30% Restricted Stock
+35% TSR
+28% EPS
+  7% Non-Carbon Emitting Generation Capacity
+LTIP is 70%
+performance-
+based
+26% Salary
+23% Annual Incentive
+51% Long-Term Incentive
+Governance
+Pay for performance, placing a substantial portion of NEO¹ compensation at risk
+NEO target direct compensation mix (2024)
+NEO long-term incentive compensation (2024)  
+¹ Named Executive Officer
+74% 
+Performance-
+based 
+compensation 
+12
+
+Political participation and contributions 
+▪
+Actively participate at local, state and national levels 
+▪
+Contribute to activities affecting our business and customers 
+consistent with our corporate values and strategies 
+▪
+Abide by the letter and spirit of the law
+13
+▪
+Voluntarily report political and lobbying contributions on our 
+website including:
+― 527 tax-exempt political organizations 
+― 501(c)(4) tax-exempt organizations appearing to use funds 
+for political purposes 
+― Trade associations for amounts $50K+¹
+― 501(c)(3) tax-exempt organizations for amounts $50K+2
+― Report all political contributions by PACs monthly 
+Participation
+Transparency
+▪
+Formal guidelines govern lobbying decision-making process
+▪
+Annual management report to Board on the company’s political 
+and lobbying activities, expenditures, and policies
+▪
+Lobbying and political contributions policy posted on website
+▪
+Oversight by Nominating, Governance and Sustainability 
+Committee
+▪
+Pre and post donation vetting
+▪
+Published report on trade association alignment
+Oversight and alignment
+¹ For trade associations and other tax-exempt organizations to which we contribute $50,000 or more, the portions of our payments attributable to lobbying are reported ² Payments greater than $50,000 in 
+the aggregate to national 501(c)(3) tax-exempt organizations whose predominate purpose is to provide venues for the exchange of ideas on matters of public policy
+87.1
+91.4
+91.4
+91.4
+94.3
+94.3
+95.7
+95.7
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+“Trendsetter” = score 90+
+Average utility sector score (2024) = 87.9
+CPA-Zicklin Index Scores
+
+Awards¹
+2023
+Best Employers 
+in Virginia and 
+South Carolina
+2023
+America’s Best 
+Large Employers
+Since 2022
+America’s Best 
+Employers for 
+Women
+2023
+Most Trusted 
+Utility Brands
+Since 2023
+America’s Most 
+Responsible 
+Companies 
+Since 2010
+Best for Vets: 
+Employers
+14
+¹ Complete DE awards page: https://careers.dominionenergy.com/content/Awards/?locale=en_US ² 2024 White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity 
+through HBCUs - Private Partnership Award
+Since 2020
+Best Place to Work 
+for Disability 
+Inclusion
+2024 Private 
+Partnership 
+Award
+Since 2012
+“Best of the 
+Best”
+Forbes
+Forbes
+Forbes
+Military 
+Times
+U.S. Veterans 
+Magazine
+White House 
+Initiative on 
+HBCU²
+Escalent
+Disability 
+Equality Index
+Newsweek
+2023
+Water Award
+Power 
+Magazine
+
+Increasingly clean
+Emissions reductions progress
+15
+Scope 1 carbon emissions from power generation
+Note: All environmental and other related metrics are inclusive of assets owned in 2023. Please see our 2023 Summary Annual Report and Form 10-K for a description of assets owned in 2023.
+57.4
+27.0
+2005 Baseline
+2023
+CO2 emissions MMT (million metric tons)
+(53%)
+Continued reduction in Scope 1 carbon emissions from 
+power generation in 2023 was driven by an increase in 
+renewable generation and a decrease in coal-fired 
+generation:
+▪
+Added 200 MW of solar to the system in 2023
+▪
+~12,000 MW of renewable generation in service or 
+in development as of early 2024
+▪
+With expected completion in 2026, the Coastal 
+Virginia Offshore Wind commercial project’s 176 
+turbines will have a capacity of up to 2,600 MW
+▪
+Retired ~1,000 MW of coal-fired power generation at 
+Chesterfield in 2023
+
+Increasingly clean
+GHG emissions reporting 
+▪
+Comprehensive annual corporate inventory of greenhouse gas emissions 
+― Includes sources beyond those required to be reported to the EPA
+― Emissions are calculated consistent with GHG Protocol, EPA Part 98, and industry specific protocols 
+▪
+Scope 1, 2, and 3 emissions have been independently verified by a global assurance provider¹
+― Reasonable assurance Scope 1 and 2
+― Limited assurance Scope 3 
+▪
+Annual GHG emissions are disclosed publicly via various external reports, including:
+― CDP
+― EEI and AGA templates
+― SCR Report
+― Annual Report on Form 10-K
+16
+Annual corporate GHG inventory
+¹ 2023 GHG Assurance Statement can be found here: https://sustainability.dominionenergy.com/2023-GHG-Assurance-Statement.pdf 
+
+Increasingly clean
+Net Zero commitments: Enterprise-wide Net Zero (NZ) Scope 1, 2, and 3 by 2050¹
+17
+Description
+Select strategies
+Scope 1: Direct 
+51% of 2023 NZ inventory
+▪Owned power generation 
+▪Fugitive natural gas emissions from compression, 
+venting and leaks 
+▪Fuels from vehicle use
+✓Clean energy diversity – investing in solar, wind, 
+zero-carbon nuclear, and renewable-enabling 
+storage 
+✓Innovation – large-scale battery storage, hydrogen 
+and advanced nuclear technology
+✓Infrastructure modernization 
+✓Conservation and energy efficiency
+Scopes 2 and 3: Upstream and downstream indirect
+49% of 2023 NZ inventory
+▪Purchased power and fuel for power generation
+▪Natural gas purchased to serve our customers
+▪Facility use of electric power
+▪Customer use of natural gas, including residential 
+heating, cooking, commercial and manufacturing
+▪Electric T&D line loss
+✓Clean energy diversity – cleaner generation mix 
+reduces fossil fuel for power generation 
+✓Supplier engagement 
+✓Among other outcomes from the comprehensive 
+business review, exited all regulated gas 
+distribution operations, except for those at DESC
+¹ Our Net Zero commitment includes carbon and methane emissions within our direct control (known as Scope 1 emissions), as well as Scope 2 and material categories of Scope 3 emissions, including: 
+electricity purchased to power the grid, fossil fuel purchased for our power stations and gas distribution systems, and consumption of gas sold to our end-use customers.
+
+Increasingly clean
+2024 DEV and DESC Integrated Resource Plans
+18
+Recent updates
+▪
+October 2024: Dominion Energy Virginia filed its 2024 Integrated Resource Plan  
+― The need for additional in-state resources to generate, transmit, and distribute power reliably is acute — 
+demand is forecasted to increase 5.5% annually over the next decade and double by 2039 in Dominion Energy’s 
+delivery zone within PJM
+― Nearly 80% of the plan’s incremental power generation over the next 15 years is carbon-free
+― About 20% of the plan’s incremental power generation will come from natural gas to facilitate the transition to 
+clean energy by reliably generating power when customers need it the most 
+▪
+March 2024: Dominion Energy South Carolina filed its 2024 Integrated Resource Plan
+― Evaluated 12 build plans, each of which expand solar and battery resources, while adding the generation 
+resources needed to ensure reliability
+▪
+Note: IRPs are not a request to build any specific project, but rather long-term planning documents based on a 
+snapshot in time of current technology, market information, and projections. IRPs are informational filings and do 
+not provide approval or disapproval for any specific capital project and do not reflect a fixed decision to pursue any 
+specific action. 
+
+Increasingly clean
+2024 DEV and DESC Integrated Resource Plans
+An “all of the above” approach to generation: total owned generation fleet plus PPAs (GW)
+Note: Conforms with VA IRP VCEA + EPA Plan filed in October 2024 and SC IRP Reference Build Plan filed in March 2024, DEV and DESC pumped hydro included in storage, electric capacity includes all D 
+owned capacity and non-D owned solar PPAs and storage PPAs; IRPs are informational filings and do not provide approval or disapproval for any specific capital project
+19
+~30 GW
+50+ GW
+2023A
+2025E
+2030E
+2035E
+Natural Gas
+Solar
+Wind
+Nuclear
+Storage
+Coal
+Biomass
+Hydro
+Other
+3x more renewable and storage capacity between 2023 and 2035, growing at a 10% CAGR
+
+8.1
+5.4
+4.4
+1.0
+0.4
+2005A
+2023A
+2024E
+2030E
+2035E
+Increasingly clean
+2024 DEV and DESC Integrated Resource Plans
+20
+Note: Planned retirements based on VA IRP VCEA + EPA Plan filed in October 2024 and SC IRP Reference Build Plan filed in March 2024. IRPs are informational filings and do not provide approval or 
+disapproval for any specific capital project; remaining coal fired generation in DESC after 2030 includes Cope, which is capable of dual fuel operation with natural gas ¹ The Company has made no final 
+decisions as to how it  will comply with the recent EPA rules and will continue to evaluate its options
+8%
+47%
+In the 2024 SC IRP, DESC modeled the retirement of coal-only stations by the end of 2030
+In the 2024 VA IRP, DEV coal capacity beyond 2030 is modeled as converting to gas to comply with EPA regulation¹
+1%
+Share of 
+gen. 
+dispatch 
+(GWh)
+Coal capacity (GW)
+
+Increasingly clean
+2024 DEV and DESC Integrated Resource Plans 
+21
+Total owned generation mix by fuel type for DEV, DESC, and Contracted Energy 
+Note: Historical data pro forma for SCANA merger. Excludes purchased power and pumped storage/battery. Enterprise-wide generation (MWh) includes Contracted Energy, DESC and DEV (including Ring-
+fence solar); forecasted generation mix assumes VA IRP VCEA + EPA Plan as filed in the 2024 IRP and SC IRP Reference Build Plan filed in March 2024. Figures may not sum due to rounding.
+Coal
+Nuclear
+Natural gas
+Renewable
+47%
+44%
+4%
+4%
+1%
+8%
+43%
+43%
+0%
+6%
+35%
+45%
+19%
+1%
+Other
+0%
+99% 
+zero/lower 
+carbon
+54% zero 
+carbon
+Present:
+2023
+Past:
+2005
+Future:
+2035 
+(est)
+
+2024E
+2024E
+2024E
+Contracted Energy: 6%
+Low operating risk
+Diverse, constructive regulatory jurisdictions with strong support for timely recovery
+22
+Percentage of total investment base¹
+Renewable²: 16%
+Nuclear: 12%
+Electric 
+transmission/
+distribution: 48%
+DEV: 55%
+Other
+DESC: 19%
+~76%
+zero-carbon
+ + wires
+VA rider: 43%
+Other
+DEV: FERC electric 
+transmission: 21%
+VA biennial³: 30%
+Reduced regulatory lag
+¹ Figures may not sum due to rounding; total investment base reflects regulated rate base at DEV and DESC, plus approximate net book value of Contracted Energy and non-rate base DEV ringfenced solar 
+² Includes solar, wind, biomass, hydro (ex pumped storage) ³ Includes forward-looking two-year view for Virginia rate base and other wholesale and non-jurisdictional customers
+Coal 6%
+Regulatory diversity
+Increasingly clean
+
+Diversified and robust rate base growth
+Consolidated 5-year capital plan
+23
+Note: Figures above include impact of 50% non-controlling equity partner funding 50% of CVOW commercial project costs ¹ Includes additional electric generation, DESC gas distribution and other ² 
+Includes maintenance, environmental and fuel for existing nuclear units at DEV, DESC and CE ³ Total investment base reflects regulated rate base at DEV and DESC, plus approximate net book value of CE 
+and non-rate base DEV ringfenced solar 
+Significant investments in decarbonization and reliability
+with strong cash conversion given significant rider-eligible capital
+By function
+Total investment base³ ($B)
+82% 
+DEV
+14% 
+DESC
+~$43B
+2025E—2029E
+19%
+Other¹
+31% 
+Electric 
+transmission
+~80% zero-carbon generation + wires
+~64% rider-eligible
+22% 
+Electric 
+distribution
+9%
+Solar
+5%
+Offshore wind
+6%
+Nuclear²
+5%
+Nuclear
+relicensing
+3%
+Storage
+$57
+$63
+$68
+$73
+$77
+$82
+2024E
+2025E
+2026E
+2027E
+2028E
+2029E
+
+▪
+Member of Sustainable Supply Chain Alliance 
+(SSCA) since 2018
+― 2023 SSCA Member Engagement Award
+▪In 2024, held fourth annual Supply Chain 
+Sustainability event, Momentum, to engage 
+suppliers on critical topics and supplier 
+requirements
+― Attended by over 100 supplier 
+representatives across 68 companies
+Increasingly clean
+Supply chain sustainability
+▪Dominion Energy partners with suppliers and 
+peers to create an increasingly clean value chain, 
+implement best practices, and drive GHG 
+reduction activities across our footprint
+▪Supply chain sustainability focus areas:
+✓Integrating sustainability into procurement 
+process
+✓Reducing warehouse waste
+✓Engaging with suppliers on GHG disclosure 
+and environmental performance
+24
+Overview
+Supplier engagement
+Increased GHG emissions disclosure with key suppliers from 20% in 2021 to 47% in 2023
+
+Communities and people
+Just Transition 
+▪
+Report published in 2024 outlines Dominion Energy’s 
+approach to a Just Transition 
+▪
+Includes International Labour Organization (ILO) 
+concept of a just transition and support for ILO 
+Declaration of Fundamental Principles and Right at 
+Work
+▪
+Report includes examples and testimonials related to: 
+― Previous plant closures 
+― Employee reskilling 
+― New career opportunities and resources provided 
+to impacted employees 
+― Community relations 
+― Use of properties after plant closures 
+25
+Just Transition highlights
+
+Communities and people
+Environmental Justice
+▪
+Ensuring a voice in decisions about siting and 
+operating energy infrastructure is given to all people 
+and communities, regardless of race, color, national 
+origin, income, faith, or disability 
+▪
+All communities should have:
+― Ready access to accurate information
+― A meaningful voice in the process
+― The chance to benefit from the economic 
+opportunities presented by our investments
+26
+✓
+Formal Environmental Justice (EJ) policy adopted in 
+2018 
+✓
+Dedicated EJ staff developed comprehensive training 
+(developed in 2020 and updated in 2024) for 
+employees in business development, environmental, 
+legal, and community outreach with 1,350+ employees 
+trained since 2020.
+✓
+All major construction projects are reviewed for EJ 
+considerations 
+✓58 screenings for major projects completed in 2023
+✓267 total screenings completed between 2019 and 
+2023
+✓
+Proactively engaging directly and intentionally with EJ 
+communities 
+Approach 
+Overview
+
+1.78
+1.44
+1.34
+1.32
+1.06
+1.02
+1.04
+1.00
+0.92
+0.88
+0.80
+0.65
+0.68
+0.62
+0.41
+0.46
+0.52
+0.45
+0.44
+1.70
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024 YTD
+2022
+Industry
+average²
+Number of recordables per 
+100 employees each work year
+¹ Pro forma for SCANA and Questar; 2024 YTD through September ² Average of Bureau of Labor Statistics 2022 industry data for electric power generation, transmission, and distribution 
+(NAICS code 2211) and natural gas distribution (NAICS code 2212) 
+OSHA recordable incident rate¹
+~74% safer than industry average
+27
+Communities and people
+Employee safety
+
+Communities and people
+Safety
+28
+▪Centralized security organization that regularly provides 
+briefings to the Board of Directors and senior leadership
+▪Focused on protecting critical infrastructure as well as 
+customer, shareholder, and company information
+▪Security programs integrated into business operations
+▪Regular updates to regulators and government agencies
+▪Robust cyber security program
+― Continuous monitoring and research to identify key 
+threats and adversarial tactics
+― Risk assessment process to safeguard company 
+systems and information
+― Internal and third-party penetration testing
+― Security awareness training for all personnel, 
+including routine phishing simulations 
+Security teams, programs, and partnerships 
+A culture of physical and cyber security 
+Chief Security Officer
+Cyber Security Branch
+Physical Security Branch
+Threat Intelligence Group
+In coordination with…
+▪
+Dominion Energy business units 
+▪
+Federal government and sector partners
+▪
+State and federal regulators  
+▪
+State, local, and federal law enforcement
+
+Communities and people
+Customer experience 
+29
+Dedicated to delivering consistent, effortless, and superior experiences for our customers and other stakeholders
+¹ Bain NPS Prism US Electric and Gas Utilities (as of Q2 2024 rolling 12), operating company peers include AEP, CMS, DUK, DTE, ED, EXC, EIX, ETR, EXC, NEE, PCG, PPL, SO, SRE; The Net Promoter® Score is 
+generally viewed as an indicator of overall customer loyalty.  ®Net Promoter and NPS are registered trademarks of Bain & Company, Inc., Satmetrix Systems, Inc. and Fred Reichhed. ² DESC as of 2Q 2024 
+³ As of 8/31/2024 4 As of 7/31/2024
+Exceptional reliability 
+▪
+DEV and DESC customers had power 99.98% of the time in 2023, excluding major storms
+Strong Net Promoter 
+Score (NPS) and JD 
+Power Customer 
+Satisfaction (CSAT)
+▪
+1st quartile NPS score relative to peers¹
+― DEV NPS score 2x peer average 
+▪
+1st quartile JD Power Customer Satisfaction amongst utilities nationally²
+Committed to the 
+customer experience 
+▪
+Modernized digital tools 
+▪
+86% of customer interactions are digital and self service³
+▪
+56% adoption of electronic billing4
+▪
+2024 – Escalent Most Trusted Business Partner for DESC 
+▪
+2024 – Escalent Most Trusted Residential Utility Brands for DESC (3rd consecutive)
+▪
+2024 – Escalent Easiest to Do Business With for DESC (3rd consecutive)
+▪
+2023 EEI National Key Accounts Executive Award for Outstanding Customer Engagement (2nd 
+consecutive)
+▪
+2023 Escalent Customer Champion for DESC (3rd consecutive)
+Recent awards: 
+recognition for 
+customer experience 
+excellence
+
+Communities and people 
+Typical residential electric customer bills
+30
+Current rate (cents per kWh)¹
+Projected customer bill CAGR²
+¹ Current DEV rate as of October 2024; current DESC rate as of October 2024; current US average rate per EIA August 2024 estimates, table 5.6. ² Sources: DEV 2024 IRP (company methodology VCEA case with 
+EPA Portfolio); DESC 2024 IRP (2024 reference build plan); September 2024 CPI for electricity (https://www.bls.gov/news.release/archives/cpi_10102024.htm)
+16.6
+14.3
+14.8
+US Avg.
+Dominion Energy
+Virginia
+Dominion Energy
+South Carolina
+(11%)
+(14%)
+3.7%
+2.7%
+2.2%
+Inflation
+Dominion Energy
+Virginia
+Dominion Energy
+South Carolina
+CAGR
+2024—2039
+Committed to safety, reliability, and affordability during the clean energy transition  
+CAGR
+2024—2038
+
+Communities and people
+Company giving 
+31
+▪
+Energy assistance
+― 16,000+ individuals and families received bill 
+payment assistance in VA and SC 
+― 1,500+ weatherization projects completed
+― 377 community outreach events reaching 100,000+ 
+customers
+▪
+Foundation support for 1,100+ organizations across our 
+footprint, including for example:
+― Providence Home in Columbia, SC 
+― Community Coalition in Sussex, VA
+― Mystic Aquarium in Mystic, CT 
+― Bertie County YMCA in Windsor, NC
+Charitable foundation giving (2023)
+Select initiatives 
+$46.7M across all programs contributed to social betterment in 2023
+24%
+30%
+12%
+19%
+15%
+Community Vitality
+Education
+Environment
+Human Needs
+Employee giving match
+
+▪
+Since 2020 we have committed to provide $43M to support social justice and 
+educational equity
+―
+$5M of grants fulfilled to organizations with a history of advancing social 
+justice causes
+―
+$25M committed to Dominion Energy HBCU PromiseSM  to support historically 
+Black colleges and universities
+―
+$10M committed to Educational Equity Scholars
+―
+$3M committed to entities and institutions that serve a significant number of 
+Hispanic students and individuals including, $2M initiative partnering with 
+Hispanic Association of Colleges and Universities (HACU) and $1M 
+commitment via DE Charitable Foundation funding to Promesa: The Hispanic 
+Higher Education InitiativeSM
+Communities and people
+Diversity & Inclusion: Educating the next generation of employees
+32
+Progress towards our commitments
+Over $29.7M of commitments met as of December 31, 2023
+Progress through 12/31/2023
+Remaining
+$43M
+committed
+
+Communities and people
+Diversity & Inclusion: Progress towards our goals
+77.8%
+77.2%
+22.8%
+14.2%
+3.6%
+2.3%
+2.1%
+77.1%
+77.1%
+22.9%
+14.4%
+4.0%
+2.3%
+2.2%
+White
+Men
+Women
+Black
+Hispanic/Latino
+Asian
+Other
+% of 2022 headcount
+% of 2023 headcount
+Labor market availability as of 12/31/2023
+33
+Total workforce representation 
+¹ Aspirational goal to achieve at least 40% diverse representation throughout our workforce by the end of 2026, subject to market availability ² Employees who identify their gender as female and/or their 
+race/ethnicity as American Indian or Alaskan Native, Asian, Black or African American, Hispanic, Native Hawaiian or Other Pacific Islander or Two or More Races. 
+▪
+Work towards increasing workforce diversity to 
+40% by year end 2026¹
+▪
+37.7% diverse workforce representation² at year 
+end 2023, nearly a 6% increase since 2016
+
+62.3%
+14.7%
+14.8%
+8.2%
+Non-minority male
+Minority male
+Non-minority female
+Minority female
+Communities and people
+Diversity & Inclusion: Diverse representation 
+34
+Total workforce representation as of YE2023¹
+Senior leadership representation as of YE2023²
+¹ Minority includes American Indian or Alaskan Native, Asian, Black or African American, Hispanic, Native Hawaiian or Other Pacific Islander or Two or More Races. ² Senior leadership represents director-level 
+and above. Racial/ethnic diversity includes those employees that are American Indian or Alaskan Native, Asian, Black or African American, Hispanic, Native Hawaiian or Other Pacific Islander or Two or More 
+Races.
+Committed to transparency and striving for engagement at every level of the organization 
+Gender diversity
+Racial / ethnic diversity
+28.3%
+Female
+17.6%
+Minority
+37.7% 
+Diverse
+
+Communities and people
+Diversity & Inclusion: Progressing on our goals
+35
+¹ The complete Compensation and Talent Development Committee Charter can be found here: https://www.dominionenergy.com/our-company/leadership-and-governance/board-committees-and-
+charters 
+✓Board-level oversight
+— Compensation and Talent Development Committee responsibilities include, amongst others, oversight of 
+strategies and policies related to human capital management, including D&I, employee engagement, and 
+employee recruitment, retention, and development¹
+✓Executive Engagement Committee designs and implements the company’s D&I strategy and objectives 
+✓Continued focus on attracting and retaining top talent
+— 49% diverse hiring rate in 2023
+— Held 5th Careers in Energy Diversity Student Conference in 2024
+— 9 Employee Resource Groups with 10 chapters
+✓Committed to transparency
+— D&I reporting within the annual SCR Report, including workforce representation statistics and EEO-1 data
+Our D&I journey continues
+Diversity & Inclusion is a competitive advantage 
+
+Communities and people
+Diversity & Inclusion: Supplier relationships
+36
+Overview
+Share of total procurement spend with diverse suppliers¹
+¹ Includes “managed spend” which excludes certain expenses (fuel, salaries & employee benefits, utilities) in accordance with GSA and SBA small business compliance reporting; diverse suppliers include 
+ownership classification such as minority owned, woman owned, veteran owned, service-disabled veteran owned, small disadvantaged, HUBZone, LGBTQ+ owned and disability owned businesses 
+▪
+Dominion Energy creates 
+opportunities for a wide range of 
+suppliers to participate in our 
+procurement process—including 
+those that are small, local, or diverse
+▪
+Dedicated to developing a diverse 
+supplier base that is reflective of the 
+diverse communities we serve
+▪
+Hosts annual supplier diversity expo 
+and job fair, Convergence, to foster 
+connections between small/diverse 
+suppliers and the corporate 
+community
+10%
+12%
+13%
+14%
+15%
+17%
+17%
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Represents $1.43B of annual 
+spend in 2023
+

@@ -1,0 +1,661 @@
+1 
+1 Event transcript has been edited for clarity. 
+The Evolving ESG Landscape: How JPMorgan Chase is Navigating 
+0B
+Changes in Reporting, Regulation and Government Relations 
+EVENT CALL TRANSCRIPT0F1 
+April 17, 2024 
+
+2 
+OVERVIEW 
+Aaron Bertinetti, Head of ESG Investor Relations, moderated a panel discussion featuring discussion featuring Michelle Mesack, Head of 
+Global Government Relations, Linda French, Global Head of Sustainability Policy and Regulation and Alethea Burke, Firmwide ESG 
+Controller. Tim Berry, the Firm’s Global Head of Corporate Responsibility, and Stacey Friedman, Executive Vice President and General 
+Counsel for JPMorgan Chase, also provided opening and closing remarks, respectively. 
+..................................................................................................................................................................................................................................... 
+DISCUSSION TOPICS 
+How the Firm has: 
+
+Updated and enhanced disclosures in the 2023 ESG Report
+
+Enhanced controls to bring ESG data to books and records standards of financial reporting
+
+Interacted with trade groups, government officials and regulators on proposed and incoming ESG-related rules
+
+Navigated the politicization of ESG matters and continued to monitor imminent global elections
+
+Engaged with investor groups and shareholder activists in assessing and addressing their ESG concerns
+.................................................................................................................................................................................................................................... 
+CORPORATE PARTICIPANTS 
+Speakers 
+Tim Berry 
+Global Head of Corporate Responsibility, JPMorgan Chase & Co. 
+Stacey Friedman 
+Executive Vice President and General Counsel, JPMorgan Chase & Co. 
+Panel participants 
+Michelle Mesack 
+Head of Global Government Relations, JPMorgan Chase & Co. 
+Linda French
+Global Head of Sustainability Policy and Regulation, JPMorgan Chase & Co. 
+Alethea Burke 
+Firmwide ESG Controller, JPMorgan Chase & Co. 
+Moderator 
+Aaron Bertinetti 
+Head of ESG Investor Relations, JPMorgan Chase & Co. 
+
+3 
+TRANSCRIPT 
+Tim Berry 
+Global Head of Corporate Responsibility, JPMorgan Chase & Co. 
+Hi everyone, thank you so much for tuning in today. My name is Tim Berry and I serve as the Global Head of Corporate Responsibility and 
+Chairman of the Mid-Atlantic Region, as well as a member of the Firm's Operating Committee. 
+Across the Firm, we believe that the strength of our company is inextricably linked to the vitality of our communities. When families do well, we 
+do well. When communities thrive, we thrive. In Corporate Responsibility, we put this philosophy into action by operating at the nexus of 
+business, policy and community. Of course, sustainability is core to this work. Our team partners with colleagues across the Firm to set our 
+environmental sustainability strategy. And at the heart of that is helping our clients and the communities we serve navigate challenges and 
+realize the economic opportunities created by the transition to a low-carbon economy.  
+In this year’s ESG Report, we explain how the Firm harnesses these business opportunities and mitigates risks. We also highlight our ongoing 
+efforts to support the energy transition and sustainable development. In doing so, we are not only driving favorable conditions for the Firm’s 
+continued success, but also staying true to our North Star of running a healthy, vibrant and responsible company. The report does a fantastic 
+job of playing out what this looks like in practice. So let me walk you through some key takeaways. 
+In October 2020, JPMorgan Chase announced its $30 billion Racial Equity Commitment to help close the racial wealth gap and advance 
+economic inclusion among historically underserved communities in the U.S. In this year’s report, we are proud to share that we have already 
+exceeded our target, reporting $30.7 billion of progress towards our five-year commitment as of the end of last year. We know there is still lots 
+of work ahead and we plan to continue our efforts beyond the original five-year commitment to leverage the scale and reach of our business.  
+In addition, we have continued to bring the full force of the Firm to our initiatives focused on careers and skills, business growth and 
+entrepreneurship, community development, financial health and sustainability. While we are working to bolster the workforce, we are 
+simultaneously supporting small businesses and entrepreneurs. In 2023, our Firm's Business Banking division provided $4.8 billion in loans and 
+lines of credit to small businesses in the U.S., including $1.1 billion to small businesses and communities of color. And through our Founders 
+Forward mentoring program, as of the end of 2023, more than 1,075 JPMorgan Chase employees in the U.S., U.K., France and Germany had 
+served as mentors to women entrepreneurs, providing business strategy and leadership-development guidance that helps bring ideas to life.  
+This year’s report also covers how we are continuing to support energy security and the ongoing transition to low-carbon energy sources. In 
+2023, amidst ongoing global uncertainty, we expanded our Oil & Gas End Use target to an Energy Mix target, presenting a more 
+comprehensive view of our clients’ decarbonization efforts. We also updated our Auto Manufacturing, Electric Power and Oil & Gas operational 
+emissions-intensity reduction targets to align with Net Zero by 2050 and added two sectors, Shipping and Aluminum. But we didn't stop there. 
+Looking inward at how we could improve our own operational sustainability, we continued efforts to minimize our environmental impacts across 
+our corporate offices, data centers and branch network.  
+And last but certainly not least, we're making important progress towards our $2.5 trillion Sustainable Development Target, which includes 
+actions that support our Green, Development Finance and Community Development objectives. Since 2021, we have now financed and 
+facilitated $675 billion towards our target, including $242 billion towards our $1 trillion Green objective. In keeping with how we operate across 
+the Firm, we remain focused on long-term results, not short-term victories. We will support our clients in achieving their Sustainable 
+Development goals, full stop. 
+From these examples and the report's truly rich material, I hope you can see our commitment not just to deploying funding that aligns to the 
+Firm's values, but more importantly, maximizing our impact and contributing to positive outcomes for all of our stakeholders. Through our 
+business and philanthropic endeavors, we are proud to open doors to opportunity to our diverse workforce, clients, customers and communities. 
+And we will continue to do so, furthering our track record of maintaining strong financial performance and delivering for you, our investors. 
+With that, I'm excited to introduce our Head of ESG Investor Relations, Aaron Bertinetti, who will moderate today's panel. Thank you. 
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Thank you, Tim, and welcome to you all for joining us today. My name is Aaron Bertinetti. I'm Head of ESG Investor Relations at JPMorgan 
+Chase. And it's my pleasure to host today's event on behalf of you all. 
+As Tim made clear, we have a North Star for why we do what we do and the ESG Report clearly articulates the benefits this has for our 
+customers, clients, communities and our shareholders. In advance of this event, we have also published a brief investor deck, summarizing the 
+key highlights from the ESG Report. While we will not go through the deck today, I want to draw your attention to a few things.  
+
+4 
+ 
+We have enhanced our disclosure on how our Energy Mix target works in practice and how to understand our absolute emissions disclosure, 
+which does disclose our financed and facilitated emissions for Oil & Gas Scope 3. We also became the first large bank in North America to 
+decide to disclose the clean-energy financing ratio. We are excited to provide that additional transparency later this year. I'm also excited to 
+announce a new way for our investors to assess our ESG data directly from the company. Data tables for the information within our ESG Report 
+will shortly be made available on our Investor Relations website. 
+Now, to today's event. The topic is focused on the evolving landscape for ESG and how we as a Firm are navigating changes in reporting, 
+regulation and government relations. I will moderate the panel on your behalf. If you have not already submitted a question, please feel free to 
+do so via Zoom. Today's panel will conclude shortly after 11:50, at which point I will hand over to our General Counsel, Stacey Friedman. 
+Stacey's remarks are highly relevant to today's topic, proxy season and the growing level of interest and debate on ESG matters. She will also 
+discuss how we consider shareholder feedback and proposals. It is rare for any general counsel to speak at such an investor forum, and I can 
+assure you that it is well worth the wait. I would strongly encourage you to do so. 
+And now to our panel. In the middle — I’m going to mix it up here — in the middle, we have Linda French, who is the Global Head of 
+Sustainability Policy and Regulation. Linda leads the team’s engagement globally on sustainability-related financial policy and regulation and 
+prior to joining the Firm, Linda led the Investment Company Institute’s global engagement of policy issues related to sustainable finance and 
+ESG investing. Linda also worked in private law practice, at the SEC and in the asset management industry. Linda is an Adjunct Professor at 
+Georgetown Law School and serves on the board of the Environmental Law Institute. 
+Alethea Burke, to the right of Linda, Alethea, is the Firmwide ESG Controller sitting within the Office of the Controller and has been with the 
+Firm for over 20 years. Alethea partners with key stakeholders across the Firm in developing our ESG reporting operating model. Alethea also 
+leads the production of the Firm’s annual ESG and Climate Reports, as well as the reporting for the Net Zero-aligned financing targets, the 
+Sustainable Development Target and the Racial Equity Commitment. 
+Michelle Mesack, immediately to my right, is the Head of Global Government Relations. Michelle is responsible for managing all of JPMorgan 
+Chase’s government relations and public policy functions. Previously, Michelle served as Head of U.S. Government Relations, overseeing the 
+Firm’s activities with policymakers in Washington as well as in state capitals and local governments. Michelle has previously served as senior 
+counsel on the Senate Banking Committee and lead advisor to the Chairman, as well as several roles within the House of Representatives, 
+including in House leadership. In the private sector, Michelle was also a senior member, of the Government Affairs team, of the Investment 
+Company Institute and as an investment management attorney representing asset management clients at K&L Gates. 
+On behalf of our audience, thank you to Michelle, Linda and Alethea for joining us today. So, Michelle, we'll start with you. I don't know if you've 
+heard, but there's an election this year. Our investors certainly like to point that out. And so first, obviously we're focused on what we're doing in 
+terms of disclosing ESG-related information. But in the Annual Letter that Jamie Dimon, our CEO and Chairman, put forward, last week, he 
+made the point that for whatever we do, there's a big reliance of also needing the government to do things. Given your role and given the 
+questions we're getting from investors, I'm just going to go straight from the top. How do you actually envisage two very divergent outcomes 
+between a Trump administration and a Biden administration? And how would that actually affect the landscape for ESG? 
+..................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+Yeah, thanks. Thanks, Aaron, and thanks for having me here today. It is a big election year. And we do have two very stark choices on the 
+ballot, especially when it comes to ESG. So for Biden, I think it's no surprise that the environment has been one of his top priorities and we 
+would expect that to continue in a second Biden administration. He has a lot of tools at his disposal as the leader of the administration, so we 
+would expect to see him to continue a rulemaking agenda that's focused on the environment. We saw that playing out, especially this term, with 
+the climate disclosure rule, which required companies to disclose more risks and climate-related risks in their financial statements. We would 
+expect to see this in terms of global leadership and his engagement on the global stage to try to coalesce other governments around the need 
+to focus on climate change, including in the Paris Agreement and other international forums. We would also continue to see this through 
+enforcement actions. He's made environmental justice, for example, a big plank of his agenda and we should see the DOJ continue to go after 
+environmental justice enforcement actions throughout the country. And finally, he has a lot of tools available to him just through his executive 
+authority. So he has really taken all of government and asked every single agency to focus on climate change, regardless of whether it's the 
+EPA or a different agency. 
+ 
+ 
+
+5 
+ 
+Now, with Trump, you would expect the reverse. He has not prioritized the environment quite the same way, but he has the same tools at his 
+disposal, so we would expect him to use those tools in different ways. First, on rulemakings. Any rulemaking that's not in effect and in full force 
+would be on the table for potentially being revised. Second, in terms of international engagement, we saw it in Trump administration number 
+one that he withdrew from the Paris Agreement. We should expect him to continue that pull back from engaging on the international stage. 
+Third, again, executive actions, you can do a lot in terms of — without Congress, without rulemaking about where the government focuses 
+when you are in charge of the administration. He can reduce things like climate hubs in administrative agencies, he can reverse executive 
+orders that Biden put in place to focus on environmental reviews, for example, permitting for infrastructure projects. And finally, for companies, 
+we would not be surprised — I don't know for sure, but we've seen the states, for example, focus a lot on company memberships and 
+organizations that focus on the climate, like NZBA. You could see an administration also scrutinizing memberships in those organizations for 
+antitrust purposes. So definitely two very different scenarios in 2025.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Yeah, and I suspect we'll have a lot more questions — probably regarding that, whether it's today or at a later date. We certainly hear from our 
+investors a lot. I want to bring Linda into the conversation here. Distinct from government relations, you obviously have a dual mandate in your 
+role. There's externally, where you're dealing with the regulators themselves and trying to have a constructive dialogue with them and then 
+internally, actually working with our senior leaders to try and figure out: how do we navigate this space and then implement it? I've got a 
+question here that is trying to understand: how in your role at the Firm, do you work around the sustainability-related financial, policy and 
+regulation space?  
+..................................................................................................................................................................................................................................... 
+Linda French 
+Global Head of Sustainability Policy and Regulation 
+So I lead the Firm's global engagement on climate and sustainability-related financial policy and regulation, which, I think it's important to make 
+that distinction: it’s financial policy and regulation. This very much looks like, for example, disclosure, where we're seeing a lot of policymaker 
+and regulatory interest globally in corporate disclosure related to sustainability and climate issues. Bank-related disclosure, for example: also 
+seeing a lot of banking regulators looking globally at how banks are managing climate risk. The degree to which banking regulators should be 
+overseeing our decarbonization targets and our strategy on climate. Also seeing increasing interest from regulators around the concept of 
+transition finance. So how are banks deploying capital in support of transition and where have the barriers kind of been and blockers with 
+respect to deploying that finance? And then also voluntary carbon markets — a lot of regulatory interest of there as well. 
+So, the dual mandate is really around, on the one hand, externally making sure that we are positioned to be a constructive voice as regulators 
+are thinking about how to achieve policy objectives in a way that is well-tailored and that also works for when you’re thinking about us as this 
+global financial institution, operating in all these different jurisdictions and needing to have a cohesive, global coordinated view of what that 
+looks like and all those different moving pieces. And then at the same time, from the internal perspective, working across stakeholders, 
+internally, to be able to really deeply understand the implications of new proposed rules or regulatory trends, because we need to both be able 
+to communicate that feedback to the regulators — but also so that as the Firm, we're prepared in terms of regulatory and direction of travel. And 
+no one is surprised kind of when a final rule comes out. And that's where, too, I think it's important to flag my dual-reporting structure, where I 
+report to the Global Head of Sustainability. And then also with a dotted line to the Global Head of Regulatory Policy in Michelle's organization. 
+So bringing that together, how we're thinking as a Firm about our sustainability strategy and also how we are thinking about that engagement 
+with the policy and regulatory dialogue. 
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Fantastic. That gives me a perfect segue to Alethea. Alethea, you sit with, and forgive the analogy, where that ESG sausage is made. 
+Obviously we're talking externally. We all talk externally. And then unfortunately for you, you need to figure out how we actually communicate 
+that in terms of reporting and structuring data. Most people understand the Controller as having responsibility really for oversight of 
+management, financial and regulatory reporting. Could you explain a little bit about how we came to the decision as a Firm that we actually 
+needed an ESG Controller and what that role actually entails?  
+ 
+ 
+
+6 
+ 
+..................................................................................................................................................................................................................................... 
+Alethea Burke 
+Firmwide ESG Controller 
+Yes. It speaks to how seriously we're taking ESG reporting and disclosure. We want to make sure that anything we put out in the ESG space is 
+of the same caliber as what we do externally for our financial disclosures. This started from the beginning and my journey into the ESG 
+reporting space started with the setup of process and controls for the $30 billion Racial Equity Commitment. We adapted a lot of what we had in 
+terms of rigor and discipline over the reporting process. We added financial, process controls, attestation, similar to what we do for SEC 
+reporting and we've since applied that to our production process of the annual ESG Report and the Climate Report. The alignment into 
+Controllers really speaks to formalizing that operating model and ensuring the right process and controls are set up for ESG reporting going 
+forward. And this is where that expertise has always existed.  
+…................................................................................................................................................................................................................................. 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+So, I’ve got a quick follow-up here from the audience. And forgive me for looking at the laptop as I get questions coming in. How will the 
+enhanced Controllers’ oversight of ESG data impact your team’s role as it is related to both CSRD in Europe, California with climate reporting 
+and of course the SEC rule around climate? How are you actually preparing for that?  
+…................................................................................................................................................................................................................................ 
+Alethea Burke 
+Firmwide ESG Controller 
+Yes, so this is where the alignment into the Controllers’ organization will benefit us. We have the expertise in implementing new regulatory 
+reports and disclosures. We have muscle memory that we can adapt and make sure we're ready for the different disclosure regime. We have 
+several implementation programs that we've already launched for CSRD and now SEC reporting, to make sure that we're ready. Those 
+implementation programs have cross-functional working groups. We partner with Linda and her team as we digest the reporting requirements 
+and consider things about the different materiality assessments and frameworks that that have been associated with those disclosures. 
+We also have a Senior Leader Forum that's been involved in helping to provide direction, challenge and guidance on our disclosure-design 
+choices as we think about CSRD and SEC as well as the materiality frameworks. And we've been partnering cross-functionally with all the 
+teams that haven't been necessarily engaged in external financial reporting on what process controls that they need to have. And looking at dry 
+runs, data collection, to prepare for those disclosure requirements, as well as building out our reporting infrastructure and data strategy so that 
+we are prepared for that first-year compliance, as well as thinking about what assurance will look like and what will we need to support 
+assurance requirements down the road.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Right. I think your role really does speak to that sort of maturing of the ESG space and that move of getting it in the Finance organization and 
+having that books and records standard of the way that we look at this information.  
+..................................................................................................................................................................................................................................... 
+Alethea Burke 
+Firmwide ESG Controller 
+Yes, absolutely.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Yeah, obviously you're going to be very busy with this role, so I apologize for us now, probably spending some time talking about all the other 
+things that are going to come your way. But I’ll flip it back to Linda here, quickly. I've got a question. We've just talked about being operationally 
+ready. But as investors are quick to point out, there's a bunch of challenges to a number of these rules, including the SEC climate rule. So how 
+do we actually engage with regulators and what is our role that we play when we're talking to them about rules like the SEC climate rule? 
+ 
+ 
+
+7 
+ 
+..................................................................................................................................................................................................................................... 
+Linda French 
+Global Head of Sustainability Policy and Regulation 
+Yeah. So in a sense: how is the sausage made on my end?  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Exactly, there you go. We're sticking with it.  
+..................................................................................................................................................................................................................................... 
+Linda French 
+Global Head of Sustainability Policy and Regulation 
+So I think having worked at a regulator, I think it's really important to understand that the regulators actually want feedback because they want 
+to get this right. And in many cases, when you're talking about climate- or sustainability-related financial policy or regulation, it is outside of their 
+traditional wheelhouse, so to speak. So it is incredibly important for industry to do the legwork to understand the implications of a proposed new 
+rule and then deliver that feedback. For example, from our end, when a proposed rule is coming out, we are having all of the conversations 
+internally and using a lot of the expertise that we already have. So for example, from Alethea’s team: disclosure that we're already doing, in 
+different jurisdictions, experience we have with voluntary disclosure to understand when we're trying to digest a new proposed, disclosure 
+regulation, for example. And then taking all of that feedback, flagging challenges, either where something is, we think, maybe not going to 
+effectively meet the policy objective of the regulator or where there are operational issues or legal issues and then also bringing that global 
+perspective that we have as well. And thinking about: the regulator really wants feedback from a very broad set of stakeholders and they want 
+to understand where they got it right, where they got it wrong. How it can be better tailored and be more effective — and then weigh all of that 
+feedback that they're getting from all those different constituencies before they think about finalizing the rule. So it is: when I think about that 
+broader process and, very much, for example, we use trade associations. And thinking about different trades representing different -— or 
+having different expertise. So bank-specific trades versus accounting-specific, etcetera. 
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+So, that's high level with regulators. Our next question is: so that's at the federal level. We obviously spend — and our investors and analysts 
+acknowledge the importance of — regulation at that level, in particular for a bank. But, obviously we've got gridlock in Congress. But there's 
+been a lot of action at the state level, whether it's pro- or anti-ESG. Certainly the California climate rule that we just talked about has a lot of 
+implications for our reporting. Our investors, unsurprisingly, both before this event and during this event, are going to note the increasing 
+politicization of ESG. We talked about the federal kind of landscape. So crystal ball time 2025. What do you see at the state and local level? 
+.................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+Yes. The polarization that you talk about is never more evident than when you go out to the states. Because as you mentioned, at the federal 
+level, it's still fairly divided. Right now, of course, we have divided government. But even if you had a sweep of the House, the Senate and the 
+presidency, you still end up with very close margins. You end up in a Senate that still needs 60 votes. In the states, it's a completely different 
+landscape. You have 78% of states that are actually under one-party control, meaning that the governor and the legislature are controlled by 
+one party.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Sorry. What number?  
+ 
+ 
+
+8 
+ 
+..................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+78%.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+I think that would be — I mean that's shocking to me — that's shocking maybe to a lot of our audience.  
+..................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+It’s a lot. And a huge majority, I want to say two-thirds, where there are actually supermajorities in legislature. So it's not just by a little bit that 
+these one-party control. It is by a lot. And so you see the polarization and the different policy approaches fully on stage when you're looking at 
+the states. And they're active on ESG issues. And this is where we see it the most. I would say that it peaked, their activity on ESG issues, in 
+2022, but we've continued to see it in 2023, 2024. And we believe that in 2025, it's going to continue to be a very strong theme and it poses a 
+real challenge for us, for other companies, because you are: we’re, of course, a national bank. And so we have to comply with laws in every 
+state. And you have conflicting laws, often conflicting policy goals, conflicting messages from our stakeholders in those states, depending on 
+whether they are red or blue states. So, for example, of course, we have Texas, who has been sending very strong messages that they want to 
+ensure that traditional energy sources like oil and gas continue to be able to access financing. They have what they call Fair Access laws, which 
+say that banks cannot boycott or discriminate against an entire industry. And then in California, we have very strong policy signals that they 
+would like to move the transition along much more quickly and transition away from oil and gas and would like to see more clean energy focus, 
+which we've seen in the disclosure rule, but we've seen it in other policy pushes as well. So it's really tricky. And it's not just in the environment. 
+We see this in firearms, you see this in other ESG areas.  
+And just kind of kind of doubling down on what Linda said around our Firm's approach — we always find value no matter what policy objective a 
+policymaker has — in talking to them. So we will never base our decision based on the politics of the day or bend to political winds. We make 
+Firm decisions based on facts, based on what's reasonable and achievable and what's in the best interest of our company. But we also 
+welcome discussions with policymakers no matter what their view. And we want to educate them about what we are seeing and about our 
+expertise. We would like to engage in discussions with them about their concerns. And that is just our general approach at the federal, state and 
+regulatory level with all policymakers.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+That brings me to my next question. We're getting some coming in by the audience. So do feel free to submit questions via Zoom. Linda, so 
+we've talked federal, we talked state, we've talked local, with Michelle. 
+You just talked previously about regulators. Another one that we've had a lot of interest on, including shareholder proposals in the past: trade 
+associations. So, what’s the role of a trade association? Why do we engage with them? What benefits do they bring?  
+ 
+ 
+
+9 
+ 
+…................................................................................................................................................................................................................................. 
+Linda French 
+Global Head of Sustainability Policy and Regulation 
+Well, having worked at a trade association also and spending a lot of time with our trade associations, they play an incredibly important role in 
+the overall regulatory policy and process. Because if you’re thinking about it: the regulator doesn't want feedback from thousands of individual 
+companies. What they want is consolidated feedback from different constituencies that they can take. And then in a way, consider, as they're 
+looking at finalizing a rule. And trade associations also have a lot of in-house niche expertise. That's really important. Thinking about the 
+resources that are required to write, as a Firm, our own comment letter, for example, on a proposed regulation versus working with our trade 
+associations. And them, also, I think it's important to flag that using our own voice can sometimes be counterproductive. And that's where, to 
+state the obvious, climate-related financial regulation is heavily politicized. And there's often this assumption that any climate-related financial 
+regulation is good for Net Zero outcomes. When at the end of the day: it's financial regulation. And like any other financial regulation where 
+regulators are going to get some of it right, they're going to get some of it wrong. And they're trying to achieve a policy objective, but they don't 
+necessarily know exactly how to get there. And they really need that feedback. And so thinking about the very broad spectrum of trade 
+associations that we work with, and for some of them, we are the core constituency. And then there are others where we are very much not the 
+core constituency. And we're one of many, many voices. So, as we're thinking about how to articulate issues and considerations for regulators, 
+we are very much thinking about which trades represent which constituencies and working with them, with that in mind.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+So, it's funny, this is not a surprise that we're going to get this question. So great we work with trade associations. How do we, I suppose, 
+reconcile that with the fact that, often, a trade association — well, not often, but sometimes — a trade association is going to have a different 
+view than what we do. So there is a perceived misalignment of values between our Firm and the trade group?  
+..................................................................................................................................................................................................................................... 
+Linda French 
+Global Head of Sustainability Policy and Regulation 
+And that's where I think there is this common misconception that we can or should have all of our trades represent our voice exactly. And 
+versus when you're looking across, again, at who is the core constituency of a trade. And I think a good example is our U.S. banking trades. So, 
+we're a member of three U.S. banking trades. You have the Financial Services Forum, which is the U.S. G-SIBs. We are their core 
+constituency. We have a very strong voice. Then you have Bank Policy Institute, BPI. They represent a broader tent, including a number of 
+foreign banks. So we have a seat at that table, but at the same time, there are still a lot of different interests kind of in the mix there. And then, 
+third, you have American Bankers Association, ABA. They represent all the banks in the U.S. and they are really the voice of the regional and 
+smaller banks. So, thinking about it: we would not actually ask ABA to be our voice on something in a way that would not be representing their 
+smaller or regional bank members. Because it is important that the regulator hears that feedback from the regional and smaller banks, even if 
+it's feedback that is tough, that the regulator doesn't want to hear, because that's an important part of the process. 
+I think the one other thing that I want to mention, because I hear this come up a lot on my end, is this idea of ensuring alignment with our 
+publicly stated goals on climate and this misconception that climate-related financial regulation can somehow be deemed to be aligned with  
+1.5 degrees or not aligned. And, I don't know that that's possible to do because not all financial climate-related financial regulation is actually 
+well-tailored to deliver on the intended policy objective. And, just as one example we've seen — green taxonomies, globally, that were intended 
+to increase investment in green economic activity — that have not achieved that objective and have instead resulted in compliance exercises 
+that have diverted company resources away from pursuing sustainability outcomes. So I think it’s not as simple and straightforward as it’s often 
+perceived to be. And instead, the way that we’re thinking about it is: we need to deeply understand what are the implications of this regulation at 
+the same time as looking at our strategy on climate and figuring out kind of where we can provide feedback around better achieving the 
+intended policy objectives.  
+ 
+ 
+
+10 
+ 
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Understood. Maybe I'll bring the focus back internally, because we’ve spent quite a lot on the external side.  
+So Alethea, we go out, we do all this activity. We end up with the ingredients for the sausage we mentioned earlier. We obviously published the 
+ESG Report today, also announced that your team has enabled us to also put forward the data tables for our investors so they can just take the 
+data and have the assurance that it's accurate and it's direct from us, which I think is very important. One of the questions that we get is: how do 
+we actually determine what's decision useful.? How do we determine which information we disclose and which information we don't? 
+..................................................................................................................................................................................................................................... 
+Alethea Burke 
+Firmwide ESG Controller 
+Yes, so the sausage-making starts months in advance of the report launch and involves a number of stakeholder groups across the Firm. We 
+look at areas of interest, internally. We also work with your team to understand what's relevant to different audiences externally. We also look at 
+industry frameworks like SASB and GRI. They're not perfect, but they do inform some of our approach. The focus of the report, as Tim 
+mentioned in his opening, is to highlight business opportunities: how we mitigate risk and our ongoing efforts to enhance accountability, 
+transparency and engagement. Across the report, we share our strategy and impact driven by business activities as well as efforts in our 
+corporate functions. We continue to include progress every year on our $2.5 trillion Sustainable Development target and our  
+$30 billion Racial Equity Commitment. But we've also developed an independent review and validation process to support all of the information 
+that goes into the report and we've had to make decisions about something not being operationally ready, or if there's data challenges on a 
+certain metric, to not disclose into the report this year. And so we'll continue to have that challenge and ensure the report has the right level of 
+information and that there's accuracy and integrity behind it.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+And just as a quick cheat sheet, I should say, for our investors: can you just pick a couple of key examples in terms of disclosures that is new 
+this year? 
+..................................................................................................................................................................................................................................... 
+Alethea Burke 
+Firmwide ESG Controller 
+Yeah, so we have a number of case studies that we've included in the report as tangible examples of the Firm's expertise, how we're using our 
+capital, data and resources to contribute to the markets that we operate in. Within our Sustainable Development Target update this year, we 
+chose examples with our case studies that mutually support both environmental and social objectives. We also, as you mentioned at the top of 
+the call, enhanced disclosure around Energy Mix and clarifying the factors that impact our progress towards the target. And this obviously is an 
+enhancement from our Climate Report that came out last year. 
+We've also been making a number of efforts internally to better understand and measure impact and we've included some outcome measures 
+in this year's report, such as the number of affordable housing units related to investments that we've made as an organization.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+There you go. Michelle, for the last question, before we go to a live audience for more live audience questions, I've got a few that have come in. 
+We've talked about that landscape. We've talked about the reporting landscape. But the billion dollar question, particularly for sell-side analysts 
+as well as for our buy-siders, is: what happens to the clean-energy tax incentives that we got out of the Inflation Reduction Act, if there is a 
+change in administration? What are we seeing as potential outcomes and how we actually thinking about adjusting what we do as a Firm in the 
+context of our climate strategy, if there is a change?  
+ 
+ 
+
+11 
+ 
+..................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+Yes. So the Inflation Reduction Act was Biden's signature piece of legislation and it is funding billions of dollars clean-energy projects. So it is 
+very significant. I can't make any predictions, obviously, for what would happen under a Trump presidency around that funding. However, I will 
+say with certainty that fiscal policy is going to be top of mind for policymakers in 2025, regardless of who is president. The debt ceiling will be 
+reached again probably around mid-2025. We think Tax Cuts and Jobs Act, the individual tax rates, the lowering of the individual tax rates that 
+was passed in 2017, will expire at the end of 2025 and there will be bipartisan support to keep those tax rates where they are, which means that 
+you're going to have Congress grappling with a big spending bill, and how do you pay for those tax cuts? And so fiscal policy will be top of mind, 
+and folks will be looking for ways to pay for some of these priorities, like tax rates. To the extent that the Inflation Reduction Act has not — all 
+the funds that have been obligated have been appropriated under it have not been obligated, meaning they have not gone out the door — it is 
+possible for Congress to consider reallocating those. What is interesting is that a lot of that money, a lot of the projects that they are funding are 
+going to rural areas. You have projects like solar, wind, biofuels that tend to need big rural swaths of land and those tend to be in red states. So 
+kind of unclear what kind of support there would be for changing the Inflation Reduction Act, even though a lot of Republicans may not at a 
+macro level be for it. If there were a lot of funds coming into individual states, which usually, means economic growth, jobs and generally good 
+things, if you're a politician in that state, there may not be as much support. So, unclear exactly what happens, but I think it will be a top piece of 
+conversation next year if Trump wins. Again, just underscoring that no matter who is in seat, in the administration, in Congress, the Firm is 
+always going to engage with whoever that is. We think that it's really important that we bring our perspective, our experience working with 
+clients and working in these areas to bear in the public policy debate. Jamie talks about it a lot. And so we will be engaged no matter who is in 
+power and who and what topics are on the table.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+So we've got this interesting question that I think I'm going to bring you back into in a minute. But I'll start with Linda. So, we have a question 
+from a buy-sider, about the divergence that we've seen between European and North American banking regulators, particularly in terms of 
+integrating climate risk and capital rules and capital requirements. Their observation is: Europe's driving the agenda and that the Fed has 
+proceeded in a more measured way. That’s not my words, that’s the words of the question. How do you think this plays out over the next three 
+to five years? And do you see the potential of U.S. firms maybe outperforming financially, in the long run, as climate laggards in Europe deal 
+with the additional capital headwinds? 
+..................................................................................................................................................................................................................................... 
+Linda French 
+Global Head of Sustainability Policy and Regulation 
+So that's a tough question. I think.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Tougher than the election question? 
+..................................................................................................................................................................................................................................... 
+Linda French 
+Global Head of Sustainability Policy and Regulation 
+Yes. I think it goes to more broadly that: one of the major challenges in this space right now is that our climate strategy is global. We don't have 
+local climate strategies. And so when we're thinking about, for example, when I say we don't have local climate strategies, I mean, we don't 
+have climate targets at the local legal entity level. It's decarbonization targets at the global level, because that's what makes sense for our 
+business. And, thinking about when you've got different jurisdictions going different ways: how we both communicate to regulators around how 
+we're thinking about things, why we're thinking about them that way, trying to avoid challenging implications that, again, won't achieve the 
+ultimate kind of policy objective that we think they're aiming at, and then being able to communicate that, bring our expertise to the table and try 
+and inform the process. But, going back to the question, I think that the question is a very good observation and that is going to be, I think, one 
+of the big challenges over the next few years.  
+ 
+ 
+
+12 
+ 
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+So I might bring it back to you, as I promised. So we just spent a lot of time talking about the U.S. I just made Linda talk about elsewhere. So 
+your turn. What are the potential impacts on the bank of — ignoring the U.S. election — I think there are 100 elections happening globally this 
+year. So, I'm not asking you to go through each and every one, but just thematically: how do we think about that as a bank? With all the election 
+activity happening this year in a lot of major markets?  
+..................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+Yeah. It is the largest election year, I think, in history. We have — I'm trying to remember the number — it's an amazing amount of the world is 
+actually going to the polls this year. We're obviously tracking all of them. And they have a lot of impacts for our Firm. I would say in Europe, just 
+to build on what Linda was saying in Europe, we actually are seeing a pull back from the Green Party. So that doesn't mean that there's going 
+to be a full walk away in terms of focus on sustainability. But I think we could end up seeing a little bit more focus on financial market 
+competitiveness in Europe and potentially a little less of a focus on environmental issues. Again, not saying they’re walking away from them, but 
+just not quite as much passion for them as much as that we've seen when the Green Party has had more of the coalition.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+So my next question here, which is, again unsurprisingly related, but I'm going to use it one more time, I promise, which is: we don't want to 
+greenwash the sausage. The question we actually have here is: how do you ward off greenwashing concerns? 
+..................................................................................................................................................................................................................................... 
+Alethea Burke 
+Firmwide ESG Controller 
+Yes. So we have a ton of focus on ensuring the accuracy and quality of our data. And when we think about transactions that the Firm does and 
+even the ones we count towards our $1 trillion sub-objective for Green within the Sustainable Development Target, we go through additional 
+due diligence on transactions and look at — and ensure — that we're mitigating any risk of greenwashing the sausage, as you say. So again, it 
+speaks to the efforts the control organization always does, which is accuracy, integrity of our reporting and what we put out externally. So we'll 
+challenge and we'll make sure we're not including things that could be considered greenwashing.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+The next question is, and I probably have time for maybe two more questions, is: are emerging topics like biodiversity and nature capital equally 
+political, like climate change? Maybe start with you, Michelle.  
+..................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+Yeah, I think that they are they're definitely issues that are on — especially when you're looking at Biden's policy agenda — they're on his 
+agenda. They have not gotten quite as much attention, I would say, as the transition. But you see Biden focusing on land conservation, for 
+example, for biodiversity reasons. You definitely see it from the European policymakers who focus on it. So I think that is a growing trend that 
+we will see the focus more and more over the next couple of years.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Do we see anything at the state level at all?  
+
+13 
+ 
+..................................................................................................................................................................................................................................... 
+Michelle Mesack 
+Head of Global Government Relations 
+Not really at the state level. They're starting to explore it, I think on the left, but nothing that's really gotten a ton of traction.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Understand. This question, I might just quickly take myself. It was mentioned at the start, and I know that Stacey Freedman will actually talk to 
+this in a few minutes, specifically to how we engage with shareholder proponents. We have an asset manager asking: please elaborate on the 
+company's decision to disclose the clean-energy-supply financing ratio going forward. And I might also involve you, Alethea.  
+Having been involved in that negotiation, I can tell our investors: the reality is we're dealing with a long-term investor. We've had a lot of very 
+good engagements with the Comptroller over a long period of time. They weren't asking us to change our business practices or prescribing 
+something. They were very pragmatic. And it was something that was aligned with what we've been doing anyway, which kind of speaks to the 
+work that you're talking about, Alethea. I don't know whether you want to give any kind of color about — okay, so we get to that point sometime 
+later this year where we need to report on that, the type of controls we put around that climate data?  
+..................................................................................................................................................................................................................................... 
+Alethea Burke 
+Firmwide ESG Controller 
+Yeah. So, we'll have data-integrity controls, looking at all of the inputs, that go into the calculation. We'll do a number of reviews across the Firm 
+with stakeholders in terms of our reporting methodology and ensuring alignment across the organization on how we think about that ratio. And 
+then, it'll get funneled through into our reporting process for the Climate Report and that has tiered reviews within the organization of those who 
+provide the data, as well as the leadership across the organization, to see how it manifests in the disclosure. And all of that goes through 
+attestation and signoff before we put it out the door.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Great. I'm going to squeeze in one more question. I've got one minute. So, this one is, are JPMorgan European affiliates under the scope of the 
+CSRD directive and is it mandatory for us as a Firm to present in the sustainability report?  
+..................................................................................................................................................................................................................................... 
+Alethea Burke 
+Firmwide ESG Controller 
+Yes. So we will have a disclosure for CSRD. We have one legal entity that's in first-year compliance. There will be other legal entities that will 
+be required to disclose over the next several years and then the Firm comes into disclosure requirements in 2029 on 2028 data.  
+..................................................................................................................................................................................................................................... 
+Aaron Bertinetti 
+Head of ESG Investor Relations 
+Fantastic. Well, I think I've managed to get through a bunch of questions. I'm going to see very quickly, I think that's it. I'm being told that's the 
+time. So, I think that is the last question we have time for today. So thank you very much to all of you as our panelists for a great discussion on 
+how we're actually navigating what is a very dynamic landscape. I'm sure you're all going to be very busy, as am I, in the months and years to 
+come. Thank you also to our audience and your questions. If we didn’t get to your question, my apologies, we do have a surplus of questions. 
+You should feel free to reach out to myself or the Investor Relations team. We are always happy to engage. You can also find transcripts from 
+all of our ESG events on our Investor Relations website. And following our final speaker, a QR code will appear that you can use to send us 
+feedback on today's event. 
+It is now my pleasure to introduce you to Stacey Friedman, Executive Vice President and General Counsel for JPMorgan Chase and a member 
+of the Firm's Operating Committee. As General Counsel, Stacey is responsible for the Firm's exposure to legal risk across the globe, including 
+litigation and enforcement matters, advising on products and services and advocacy in connection with proposed laws, rules and regulations. 
+Please welcome Stacey Friedman. 
+
+14 
+ 
+..................................................................................................................................................................................................................................... 
+Stacey Friedman 
+Executive Vice President and General Counsel, JPMorgan Chase & Co. 
+Good morning and thank you for joining us today. Environmental, social and governance-related matters have been a growing area of interest 
+for our investors and the diverse set of our stakeholders. Our investors and stakeholders have wide-ranging views on these matters. So today, 
+I'd like to outline our Firm's approach in the context of how we conduct our business, how we think about policy in this area and how we engage 
+with our shareholders.  
+On the business side, our long-term investors know us well. JPMorgan provides financials services for individuals and industries across 
+geographies. We proudly serve more than 80 million households, 6.4 million small businesses in the United States and hundreds of thousands 
+of companies in critical economic sectors. And we do not make decisions based on political or social agendas. We deal in facts. We work with 
+shareholders, clients, customers and communities to fulfill banking's essential purpose of helping people, businesses of all sizes and vital 
+institutions like schools, hospitals and governments, achieve their goals. We do not make our decisions on who we're going to work with or who 
+we're not going to work with because of political, social or religious viewpoints, period.  
+As for sustainability, we aim to support inclusive, sustainable economic growth because we believe that our businesses thrive when all 
+communities we serve do the same. We strive to build this actual commitment into our Firm’s governance, into our structures, through 
+oversight, through management and a culture of accountability. So, for example, when you look at our target, like our $2.5 trillion Sustainable 
+Development Target, we got to that because we independently assessed what's reasonable, what's achievable, what will serve the best 
+interests of our businesses and our clients, and then as we've worked against that target, we've continuously measured, monitored and 
+assessed our progress and adjusted as the landscape for sustainable development evolves. And we work with a broad range of organizations 
+that advance various interests every day.  
+At the end of the day, however, our decisions are always made independently. We don't boycott. We decide where and how to compete by 
+assessing risk and opportunity. And the decisions we make are in service of the long-term interest of our Firm and its shareholders.  
+Moving to the more macro view, we take the same approach when thinking about policy. We believe that markets and economies of all sizes 
+benefit when free and fair enterprise thrives. That creates innovation, that creates competition, it maximizes shareholder value. And we believe 
+that policies that bring together free enterprise to help achieve sustainability with government and other participants, that's how we achieve our 
+goals. We do not believe in weaponizing businesses to advance social or political agendas. When that happens, it's often the communities and 
+customers who suffer, and that's why we believe the best answers reside in engagement in discourse over policy. We believe that we are most 
+successful when we're working closely with government and other stakeholders. And indeed, throughout history, we've engaged with officials 
+from all parties, companies in all industries and shareholders of all stripes in an effort to address the world's and our company's most pressing 
+needs.  
+And we value engagement not just in policy, but on the shareholder front. Our Board and senior management spend a significant amount of 
+time engaging with our shareholders all year. This isn't just about proxy season. It is part of how we run our Firm.  
+With respect to shareholder proposals, I can assure you we carefully consider each proposal. Of course, the Board focuses on its fiduciary duty 
+to advance long-term financial interests of shareholders. But more specifically, we engage with proponents to better understand their views. We 
+weigh the relevance of the subject matter of their proposal in the context of our business and its value to long-term shareholders. We consider 
+the potential costs and benefits and importantly, when a proposal does make a pragmatic and well-evidenced case, we have a strong track 
+record of agreeing.  
+This year, this included an agreement with the New York City Comptroller. The Comptroller engaged with us constructively, actually for years on 
+climate matters, and they always thought about them as a long-term shareholder, what it would mean for other long-term shareholders as well. 
+So when they came to us to request that we disclose a clean-energy financing ratio, we viewed that as reasonable. We viewed it as pragmatic. 
+And we viewed it as part of an ongoing dialogue. They didn't prescribe how we should conduct our business. It wasn't in conflict with long-term 
+investor goals and it made a lot of sense to us.  
+Indeed, today, if you look at the ESG Report that we just issued, it reflects actually a lot of good feedback we've received over the years that 
+comes from constructive dialogue with many people who are here today and shareholders broadly. But the fact is, we've also faced increasing 
+proposals over many years. And many of the proposals we receive provide no assessment of how they promote the interests of shareholders. 
+Some proposals provide no empirical evidence of financial effectiveness. Some proposals have solutions without identifying a failure or a 
+material problem. Some ask us to adopt practices that aren't common among our peers and there are others that are based on assertions about 
+the Firm that we believe are inaccurate or misleading. And those proposals we don't support.  
+Now, this does not detract from our core view. We strongly value shareholder engagement. We acknowledge the diverse opinions and have 
+grown and improved as a company because of engagement with our shareholders. And as shareholders themselves fulfill their responsibility to 
+independently review these proposals, we urge you to evaluate them as we did. Examine the facts. Weigh the relevance of the subject matter to 
+our business. Weigh the costs of the proposal and assess whether the proposal has put forward evidence that will contribute to long-term 
+shareholder value. 
+In short, our Firm is dedicated to sustainability in our business operations. We've woven it into our governance and oversight. We advocate for it 
+
+15 
+ 
+in policy matters. And as fiduciaries when it comes to shareholder engagement, we make fact-based, independent decisions, always prioritizing 
+the long-term interests of our shareholders. 
+We're grateful for the valuable insights gained through constructive shareholder engagement. It helps us grow. It helps us improve. And we 
+thank you for your ongoing support and commitment to our pursuit of sustainable, inclusive growth and long-term shareholder value. On behalf 
+of the Firm, we appreciate your continued engagement with JPMorgan Chase.  
+..................................................................................................................................................................................................................................... 
+Disclaimer 
+This document contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These 
+statements are based on the current beliefs and expectations of JPMorgan Chase & Co.’s management and are subject to significant risks and 
+uncertainties. Actual results may differ from those set forth in the forward-looking statements. Factors that could cause JPMorgan Chase & 
+Co.’s actual results to differ materially from those described in the forward-looking statements can be found in JPMorgan Chase & Co.’s Annual 
+Report on Form 10-K for the year ended December 31, 2023, which has been filed with the Securities and Exchange Commission and is 
+available on JPMorgan Chase & Co.’s website (https://jpmorganchaseco.gcs-web.com/financial-information/sec-filings), and on the Securities 
+and Exchange Commission’s website (www.sec.gov). JPMorgan Chase & Co. does not undertake to update any forward-looking statements. 
+

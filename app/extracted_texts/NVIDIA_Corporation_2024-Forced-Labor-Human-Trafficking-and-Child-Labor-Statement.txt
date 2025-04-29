@@ -1,0 +1,250 @@
+ 
+ 
+ 
+ 
+ 
+ 
+2024 FORCED LABOR, HUMAN TRAFFICKING, AND CHILD LABOR 
+STATEMENT  
+ 
+ 
+NVIDIA Corporation  
+Application: Global 
+Policy Name: 2024 Forced Labor, Human Trafficking, and Child Labor Statement  
+Effective: 29 MAY 2024 
+                                                               
+ 
+Page 1 of 5     
+ 
+Last Updated: May 29th, 2024 
+Integral to our vision are NVIDIA's sustainability commitments, including respecting and championing the human rights of our 
+employees and ensuring all workers in our supply chain, contracting firms, and managed services are treated with respect and 
+dignity. This statement describes the actions taken by NVIDIA Corporation and its subsidiaries during the fiscal year ended 
+January 28, 2024, or Fiscal 2024, to prevent forced labor, human trafficking, and child labor in our business and supply chain. 
+Please see About this Statement below for further information about how actions taken at the level of NVIDIA Corporation 
+apply to our subsidiaries.  
+NVIDIA STRUCTURE, BUSINESS, AND OPERATIONS  
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. NVIDIA, a full-stack 
+computing infrastructure company, provides data-center-scale offerings. Our data-center-scale offerings are comprised of 
+compute and networking solutions that can scale to tens of thousands of GPU-accelerated servers interconnected to function 
+as a single giant computer; this type of data center architecture and scale is needed for the development and deployment of 
+modern AI applications. Our full-stack also includes the CUDA programming model that runs on all NVIDIA GPUs, as well as 
+hundreds of domain-specific software libraries, software development kits, or SDKs, and Application Programming Interfaces, 
+or APIs.  
+NVIDIA is headquartered in Silicon Valley, California, in the United States, employs more than 29,000 people, and has offices 
+around the world, including in the United Kingdom and Canada.  
+We do not directly manufacture our products. We utilize a manufacturing strategy for our products and systems whereby we 
+employ suppliers for the manufacturing process, including wafer fabrication, substrates, assembly, testing, and packaging. Our 
+contract manufacturers and suppliers are also responsible for procurement of most of the raw materials used in the 
+production and assembly of our products.  
+We also employ contractors and managed services for many engineering processes, facilities operations, and IT solutions.   
+CANADIAN OPERATIONS. NVIDIA Corporation, a Delaware corporation, and NVIDIA Development, Inc., a Nova Scotia 
+corporation (NVIDIA Canada) are subject to the Canadian Fighting Against Forced Labor and Child Labor in Supply Chains Act 
+(Canadian Act). NVIDIA Canada is a wholly-owned subsidiary of NVIDIA Corporation.  
+ 
+NVIDIA Canada provides marketing services relating to NVIDIA’s products in Canada. NVIDIA Canada also performs 
+contracted research and development services and data center infrastructure services for other NVIDIA entities. 
+NVIDIA Canada imports materials into Canada for company use and owns a data center that is housed at a third-party 
+site in Canada.   
+ 
+NVIDIA Corporation ships products to forward stocking locations and replacement parts to customers in Canada. 
+POLICIES RELATED TO FORCED LABOR, HUMAN TRAFFICKING, AND CHILD LABOR  
+NVIDIA's Code of Conduct and corporate policies define our corporate governance, promote the interests of our stockholders, 
+and establish common expectations within our company. Our Code includes clear provisions regarding human rights, forced 
+labor, and child labor, as well as supplier expectations. In it, we specify that we honor human rights including:  
+ 
+Complying with applicable laws and respecting internationally recognized human rights where we operate;  
+
+ 
+ 
+ 
+ 
+ 
+ 
+2024 FORCED LABOR, HUMAN TRAFFICKING, AND CHILD LABOR 
+STATEMENT  
+ 
+ 
+NVIDIA Corporation  
+Application: Global 
+Policy Name: 2024 Forced Labor, Human Trafficking, and Child Labor Statement  
+Effective: 29 MAY 2024 
+                                                               
+ 
+Page 2 of 5     
+ 
+ 
+Not engaging in child labor; forced, bonded, or indentured labor; involuntary prison labor; slavery; trafficking of 
+persons; or physical punishment;  
+ 
+Supporting the rights of employees in our suppliers' operations; and  
+ 
+Requiring our suppliers to comply with the Code of Conduct of the Responsible Business Alliance (RBA) and to align 
+with other internationally recognized standards related to social and environmental responsibility. 
+Our Combatting Trafficking in Persons Policy defines prohibited acts of trafficking or related activities by NVIDIA employees, 
+agents, subcontractors (including our suppliers), subcontractor employees, or their agents. We require that our employees 
+report any activity inconsistent with this Policy to our Compliance Committee. Employees, subcontractors, or agents of NVIDIA 
+who violate this Policy or related legal requirements will be subject to disciplinary action, including termination of employment 
+or other relationship with NVIDIA. 
+Our Human Rights Policy also states our commitment to key international human rights standards and our endorsement of 
+internationally recognized human rights principles, including the United Nations Global Compact, the United Nations Guiding 
+Principles, the Universal Declaration of Human Rights, the Core Conventions of the International Labor Organization (ILO), and 
+the ILO Declaration on Fundamental Principles and Rights at Work. In our Human Rights Policy, we state that we do not engage 
+in child labor, forced, bonded, or indentured labor, involuntary prison labor, slavery, trafficking of persons, or physical 
+punishment. We expect suppliers that provide products or services for us to have practices meet or exceed applicable law, the 
+RBA Code of Conduct, our Corporate Responsibility Directive, our Code of Conduct, and the Human Rights Policy.  
+We drive several of our supply chain initiatives through participation in the RBA. We have adopted the RBA Code of Conduct 
+and integrated its elements into our program. Our manufacturing partners who manufacture and assemble our products are 
+required to acknowledge and implement the RBA Code of Conduct, which includes a prohibition on forced, bonded, indentured, 
+or child labor and human trafficking, to ensure that we address all aspects of responsible supply chain management.  
+RISKS, DUE DILIGENCE PROCESSES, AND EFFECTIVENESS  
+Due to the nature of our business model and our supplier manufacturing process, there is low risk of modern slavery, human 
+trafficking, and child labor within our own business operations. Our exposure to the risk of citations for general labor and 
+ethics violations is also low, and we have a robust system for soliciting and rectifying confidential notifications on suspected 
+labor or ethics issues.  
+Our supply chain has a greater risk in respect of forced labor, trafficking, and child labor than our own operations. To address 
+risks in the supply chain, we utilize the RBA-Online system to evaluate potential new suppliers connected to our products 
+against product compliance industry standards, social and environmental criteria, use of conflict minerals, the RBA Code of 
+Conduct, and NVIDIA’s Code of Conduct. We use the results of the assessment, which includes a spending analysis, to 
+determine their overall risk.  
+We also engage with certain manufacturing partners, including those who produce or handle NVIDIA production materials, 
+those for whom we manage quality requirements, those who design our branded products, and those who we are required to 
+work with based on customer agreements (collectively, Strategic Suppliers), through quarterly business reviews.  We measure 
+compliance against RBA member requirements and RBA Code of Conduct for our Strategic Suppliers and have conducted 
+audits on our product lines. Manufacturing partners are expected to complete an annual self-assessment questionnaire (SAQ), 
+and we expect a biennial Validated Assessment Program (VAP) on-site, third-party audits from Strategic Suppliers to validate 
+the SAQ. Aside from RBA engagement, we also participate in organizations focused on issues relevant to supplier 
+
+ 
+ 
+ 
+ 
+ 
+ 
+2024 FORCED LABOR, HUMAN TRAFFICKING, AND CHILD LABOR 
+STATEMENT  
+ 
+ 
+NVIDIA Corporation  
+Application: Global 
+Policy Name: 2024 Forced Labor, Human Trafficking, and Child Labor Statement  
+Effective: 29 MAY 2024 
+                                                               
+ 
+Page 3 of 5     
+ 
+responsibility, such as the Public-Private Alliance for Responsible Minerals Trade and the Association Connecting Electronics 
+Industries.  
+Our semiconductor wafer manufacturers and several contract manufacturers are members of the RBA. In Fiscal 2024, we 
+screened new manufacturing partners for environmental and social criteria, and maintained ongoing communication regarding 
+environmental and social matters with our Strategic Suppliers. We reviewed Strategic Suppliers' VAPs, which involves an end-
+to-end process, focused on validating the integrity of audit results, and engaged with suppliers on corrective action plans. 
+Accordingly, we worked with certain suppliers to track working hours, to address and comply with policies related to document 
+retention, and to address and comply with zero hiring fees. We continue to monitor manufacturing partners to ensure that 
+they demonstrate effective processes to ensure conformance and report our progress through our Corporate Responsibility 
+Report.  
+Additionally, as part of our conflict minerals program, NVIDIA is a member of the Public Private Alliance for Responsible 
+Minerals Trade (PPA) and the Responsible Minerals Initiative (RMI), formerly known as the Conflict-Free Sourcing Initiative. 
+NVIDIA supports these on-the-ground programs aimed at reducing human rights risks, including forced labor. The PPA 
+provides funding and coordination support to organizations working within the Democratic Republic of Congo and adjacent 
+countries to develop verifiable conflict-free supply chains; align due diligence programs and practices; encourage responsible 
+sourcing from the region; promote transparency; and bolster in-region civil society and governmental capacity. The RMI 
+provides companies with tools and resources to make sourcing decisions that improve regulatory compliance and support 
+responsible sourcing from conflict-affected and high-risk areas. The Responsible Minerals Assurance Process of the RMI offers 
+companies and their suppliers an independent, third-party audit that determines which smelters and refiners can be validated 
+as "responsibly sourced," in line with current global standards. 
+The Nominating and Corporate Governance Committee of NVIDIA’s Board of Directors has oversight of policies and practices 
+in connection with human rights and provides periodic updates to the Board.  At the management level, our Sustainability 
+Steering Committee is responsible for reviewing and ensuring the effectiveness of our human rights program. Through this 
+governance body and related executive engagement, management undertakes all actions it deems reasonable and necessary 
+to ensure compliance with our Human Rights Policy. Additionally, our investigations team will promptly investigate human 
+rights allegations it becomes aware of through our Speak Up line and present any findings to the Compliance Committee that 
+require the input of that committee.   
+REMEDIATION 
+In Fiscal 2024, our diligence processes revealed issues related to certain suppliers that engaged in non-compliant activities, 
+including hiring fees, document and passport retention, working hours, and penalties for leaving employers prior to specified 
+time periods. In various instances we worked with manufacturing partners to have them return hiring fees to employees; allow 
+workers to retain documents and passports and provide safe storage options for documents for employees in certain 
+circumstances; change practices related to working hours; and change practices penalizing employees for leaving prior to 
+specified time periods.  
+We understand the risk of loss of income to vulnerable families that can occur because of work to prevent forced labor and 
+child labor and address human rights risks in global supply chains. We are not aware of any vulnerable families that have 
+experienced loss of income as a result of our responsible supply chain work. As an RBA member, NVIDIA commits to continuous 
+improvement; we work to maintain relationships with existing manufacturing partners to address any issues in the supply 
+chain to limit the risks of economic consequences for the vulnerable when remediating these issues in the supply chain.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+2024 FORCED LABOR, HUMAN TRAFFICKING, AND CHILD LABOR 
+STATEMENT  
+ 
+ 
+NVIDIA Corporation  
+Application: Global 
+Policy Name: 2024 Forced Labor, Human Trafficking, and Child Labor Statement  
+Effective: 29 MAY 2024 
+                                                               
+ 
+Page 4 of 5     
+ 
+TRAINING  
+All NVIDIA employees are required to complete training, both upon hire and periodically during employment, on the NVIDIA 
+Code of Conduct, which specifically includes our commitment to non­engagement in forced labor, trafficking of persons, and 
+child labor. Relevant employees took several RBA e-Learning Academy courses and are engaged in RBA workgroups relevant to 
+our supply chain operations.  
+SUMMARY  
+NVIDIA is committed to the highest standards of ethics and corporate social responsibility to prohibit forced labor, trafficking 
+in persons or related activities, and child labor, and encourages our employees, suppliers, and business partners to join our 
+commitment to promoting human rights.  
+ABOUT THIS STATEMENT 
+This statement constitutes NVIDIA’s report pursuant to the UK Modern Slavery Act and the Canadian Act (combined, the Acts) 
+for Fiscal 2024. For the Canadian Act, this statement is a joint report and covers the obligations of NVIDIA Canada and NVIDIA 
+Corporation. For the UK Modern Slavery Act, this report covers the steps that NVIDIA entities have taken to be compliant with 
+the UK Modern Slavery Act in Fiscal 2024. NVIDIA Corporation manages its supply chains centrally and governs all subsidiaries' 
+purchasing, importing, or selling activities. All subsidiaries, including NVIDIA Canada and subsidiaries active in the UK, follow the 
+corporate policies, processes, and procedures of NVIDIA Corporation. This report’s statements on supply chain governance, 
+diligence, and remediation pertain solely to actions at the NVIDIA Corporation level, as subsidiaries are not directly involved in 
+these supply chain activities. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+2024 FORCED LABOR, HUMAN TRAFFICKING, AND CHILD LABOR 
+STATEMENT  
+ 
+ 
+NVIDIA Corporation  
+Application: Global 
+Policy Name: 2024 Forced Labor, Human Trafficking, and Child Labor Statement  
+Effective: 29 MAY 2024 
+                                                               
+ 
+Page 5 of 5     
+ 
+BOARD OF DIRECTORS APPROVAL AND ATTESTATION  
+This Report was approved by the Nominating and Corporate Governance Committee of the Board of Directors of NVIDIA 
+Corporation, a Delaware corporation. NVIDIA Development, Inc., a Nova Scotia corporation, is a wholly-owned indirect subsidiary 
+of NVIDIA Corporation. 
+ 
+In accordance with the requirements of the Acts, and in particular section 11 of the Canadian Act, I attest that I have reviewed 
+the information contained in the report for the entity or entities listed above. Based on my knowledge, and having exercised 
+reasonable diligence, I attest that the information in the report is true, accurate and complete in all material respects for the 
+purposes of the Acts, for Fiscal 2024.  
+ 
+/s/ Stephen C. Neal 
+Stephen C. Neal on behalf of Nvidia Corporation 
+Date: May 22, 2024 
+ 
+ 
+ 
+

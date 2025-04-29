@@ -1,0 +1,216 @@
+Salesforce Human 
+Rights Policy
+2024
+
+Our Commitment 
+At Salesforce, we are committed to respecting human rights throughout our entire business and value 
+chain. In upholding this commitment, we work with governments, industry peers, partners within our 
+ecosystem, civil society groups, shareholders, and our customers to promote the realization, enjoyment, 
+and fulﬁllment of human rights.   
+Salesforce is committed to respecting human rights and our approach is informed by the International 
+Bill of Human Rights (consisting of the Universal Declaration of Human Rights, the International 
+Covenant on Civil and Political Rights, and the International Covenant on Economic, Social and Cultural 
+Rights), as well as the International Labor Organization’s Declaration on Fundamental Principles and 
+Rights at Work. Salesforce is also committed to a human rights program based on the actions set out in 
+the UN Guiding Principles on Business and Human Rights (UNGPs) and the OECD Guidelines for 
+Multinational Enterprises on Responsible Business Conduct. These are the core references that inform 
+our approach to conducting human rights due diligence across our own operations and business 
+relationships.
+In line with established and evolving practices, standards and regulations, we are committed to: (a) 
+establishing policy commitment and management systems; (b) assessing actual and potential human 
+rights impacts; (c) avoiding, preventing, and mitigating adverse impacts, (d) tracking implementation 
+and results; (e) communicating how impacts are addressed; and (f) providing for or cooperating in 
+remediation when appropriate. Through this ongoing process, we seek to appropriately understand and 
+address evolving risks. Furthermore, we pursue meaningful engagement with aﬀected stakeholders to 
+inform our human rights approach and due diligence.
+How we implement
+To ensure we set up suitable human rights due diligence, we embed our commitment to respect human 
+rights within our business processes. For that we work to identify the most salient human rights risks 
+connected to our business activities and business relationships (which are captured below in 
+“Embedding our commitment across our business processes”), and we regularly review our human rights 
+risk analysis. Additionally, to secure adequate oversight and accountability across the business and to 
+ensure that human rights issues are directed to the most relevant internal decision-makers, we have 
+established an internal governance structure. 
+We acknowledge that remedy is an integral part of the corporate responsibility to respect human rights. 
+Therefore, we provide grievance mechanisms and work to provide access to remedy in circumstances 
+where our business practices may have caused or contributed to an adverse human rights impact. We 
+also recognize the importance of monitoring and reporting, and regularly communicate on how we 
+implement and perform.
+1
+
+Our approach
+Salesforce’s company values embody a long-standing respect for human rights. It is these values – trust, 
+customer success, innovation, equality, and sustainability – that guide everything we do.
+This policy applies to all Salesforce business areas and subsidiaries – including all locations where we 
+operate and all of our employees. We take great care to inform our employees about our commitment to 
+respecting human rights through this policy and our Code of Conduct. We also expect our suppliers and 
+business partners to respect human rights in their own operations and supply chains, as outlined in our 
+Global Supplier Code of Conduct.
+In line with established and evolving practices, standards and regulations, we are committed to: (a) 
+establishing policy commitment and management systems; (b) assessing actual and potential human 
+rights impacts; (c) avoiding, preventing, and mitigating adverse impacts, (d) tracking implementation and 
+results; (e) communicating how impacts are addressed; and (f) providing for or cooperating in 
+remediation when appropriate. Through this ongoing process, we seek to appropriately understand and 
+address evolving risks. Furthermore, we pursue meaningful engagement with aﬀected stakeholders to 
+inform our human rights approach and due diligence.
+Customers and end-users
+Privacy: We recognize that privacy is a fundamental human right, and as a cloud service provider, we are 
+committed to protecting the privacy and security of our customers’ data in all jurisdictions through policy 
+and technology. With trust as our number one value, we regularly reﬁne our comprehensive privacy 
+program that accounts for the ever-evolving landscape of global data protection laws. In the context of this 
+program, we publicly communicate data collection and processing practices related to individuals’ data 
+and the rights associated with processing, and we educate our customers on the use and protection of 
+information in our products and services. Additionally, we are actively working with governments and civil 
+society organizations to ensure the free ﬂow of data, and protect privacy and data security in the cloud. In 
+collaboration with diﬀerent stakeholders, we engage in key initiatives to advance privacy as a company and 
+in society, including the Trusted Cloud Principles.
+Ethical and Inclusive Products: At Salesforce, we believe that the ethical and inclusive design, 
+development, and use of technology are integral to preventing harm and supporting the realization, 
+enjoyment, and fulﬁllment of human rights. As we and our stakeholders develop and engage with 
+technologies like artiﬁcial intelligence (AI), our core business imperative is to understand how our 
+products are used as well as the direct impacts of our technologies in the world. In this context, we have 
+deﬁned areas of focus such as: (a) responsible AI & technology - empowering innovators to embed ethics 
+into tech products design (especially AI) by considering the intended and unintended consequences of 
+our technology, creatively mitigating risks, and minimizing product misuse; (b) setting and adhering to 
+benchmarks and standards for AI models and applications including evolving industry practices or 
+standards for accuracy, data leakage risk management, bias, and toxicity; (c) ethical use policy - guiding 
+the responsible deployment and use of our products and services with principles and processes; and (d) 
+product accessibility and inclusive design - designing for and alongside users to unleash innovation for 
+everyone. These focus areas are guided by our policies and principles such as our Acceptable Use and 
+External-Facing Services Policy, our Artiﬁcial Intelligence Acceptable Use Policy, and our Ethical and 
+Humane Use Guiding Principles. Salesforce is a member of the UNESCO Business Council for Ethics of AI, 
+and has committed to integrate the values and principles of UNESCO’s Recommendation on the Ethics of 
+Artiﬁcial Intelligence. Salesforce also references the OECD AI Principles to inform a human-centric 
+approach to trusted, ethical AI.
+2
+Embedding our commitment
+across our business processes
+
+Employees
+Health and Safety: We are committed to providing a healthy and safe work environment to our 
+employees, contractors, interns, volunteers, and guests in line with our Health and Safety Policy. We 
+achieve this goal through the implementation of our health and safety management system, which 
+promotes open communication and consultation with employees and company leadership, proactive 
+identiﬁcation and management of health and safety risks, and compliance with applicable laws and 
+regulations. We are committed to preventing incidents and continually improving by setting health and 
+safety performance targets and program improvement objectives. We monitor our performance through 
+data driven metrics and measure management system conformance and legal compliance via regular 
+audits. Every employee is responsible for complying with the requirements documented in our health and 
+safety management system. People leaders have the additional responsibility for managing health and 
+safety performance on a daily basis, setting a good example at all times, and providing the necessary 
+resources for the implementation of the management system.
+Equality: Bringing inclusiveness and diversity into our daily workplace is a commitment that we live by, 
+therefore equality is one of our core values. At Salesforce, we advocate for equal treatment and 
+opportunity throughout all levels of our organization and the communities where we operate. Salesforce is 
+an equal opportunity employer and maintains a policy of non-discrimination for employment decisions 
+such that hiring, ﬁring, and promoting shall never be based on personal characteristics, such as race, 
+religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, 
+age, disability, veteran or marital status, political viewpoint, or other classiﬁcations protected by law. We 
+are committed to providing equal pay for equal work, therefore we monitor our pay practices carefully and 
+have systems in place to address unexplained diﬀerences in pay between genders, as well as between race 
+and ethnicity. As established in our Code of Conduct, all persons should be treated with dignity and 
+respect, and harassment and bullying are not tolerated. In collaboration with diﬀerent stakeholders, we 
+continuously engage in various initiatives to increase equality representation as a company and in society, 
+including the UN Women's Empowerment Principles.
+Wages, Beneﬁts, and Working Hours: We are committed to developing and supporting an active, thriving 
+workforce. At Salesforce, we invest in the health and wellbeing of our employees by combining traditional 
+beneﬁts with educational wellbeing content. We comply with all applicable wage and hour laws and 
+regulations – including those relating to minimum wages, overtime hours, piece rates, and other elements 
+of compensation – and provide at least the legally mandated beneﬁts. We are committed to fairly 
+compensating our employees for the hours they work, allow suﬃcient rest, and provide generous beneﬁts 
+that often go beyond statutory minimums. We respect the legal rights of our employees to associate 
+freely, bargain collectively, join or not join trade unions, seek representation, and join workers’ councils in 
+accordance with local laws – without fear of reprisal, intimidation, harassment, or retaliation.
+Forced Labor, Modern Slavery, and Child Labor: We only use voluntary labor and have processes 
+designed to verify that new hires have the right to work in the country location where they’ve been hired, 
+or are currently working (such as in the United Kingdom and Australia). We do not use forced or 
+involuntary labor of any type (e.g. forced, bonded, indentured, or involuntary prison labor) or any form of 
+human traﬃcking. This includes transporting, harboring, recruiting, transferring, or receiving any person by 
+means of threat, force, coercion, abduction, or fraud for the purpose of exploitation. All employees, 
+including interns, are free to leave work at any time or terminate their employment without reprisal.
+3
+Embedding our commitment
+across our business processes
+
+Employees are not required to surrender any government-issued identiﬁcation, passports, or work permits 
+as a condition of employment. There are no unreasonable restrictions on employees’ freedom of 
+movement in our workplace or unreasonable restrictions on entering or exiting company-provided 
+facilities. We do not use child labor and we support the use of legitimate workplace apprenticeship 
+programs, which comply with all the laws and regulations applicable to such apprenticeship programs.
+Suppliers
+Our suppliers are a critical part of our value chain, and we acknowledge that human rights impacts might 
+take place in supply chains. We communicate our human rights requirements to suppliers through our 
+Global Supplier Code of Conduct, through which we require suppliers to establish policies, procedures, 
+and reasonable documentation to demonstrate compliance with the Supplier Code of Conduct. Our 
+suppliers are required to monitor their own operations and those of next-tier suppliers. Human rights 
+criteria are increasingly embedded within our suppliers’ onboarding processes and performance reviews. 
+Suppliers deemed highest risk on human rights are audited or reviewed on a periodic basis with the help 
+of a third-party evaluation service. In order to address potential or actual impacts, we work closely with 
+suppliers to develop corrective action plans that lead to prevention, mitigation, or remediation 
+accordingly. In addition, we proactively take steps to diversify our supply chain through our Supplier 
+Diversity & Inclusion Program.
+Communities
+We recognize the importance of engaging with aﬀected stakeholders. We cannot do this work alone, so we 
+rely on partner organizations (including grantees and subgrantees) and other stakeholders to help us 
+identify human rights risks, prevent abuses, and mitigate harm when it occurs in our communities. We 
+expect third parties that work with us to abide by the aforementioned policies and principles.
+Environmental Sustainability: We support the human right to a safe, clean, healthy, and sustainable 
+environment. We understand that climate change and nature loss are pressing issues for humanity, with 
+negative impacts weighing heaviest on the world’s most vulnerable communities, amplifying global 
+inequality. We acknowledge the urgency of climate action – decarbonization in particular – and the 
+importance of halting and reversing nature loss. In light of these global challenges, we are committed to 
+addressing the impacts of our business on people and the planet and be a positive force. We advocate for 
+policies that advance equitable investments to defend vulnerable communities against the impacts of 
+climate change and nature loss, ensure equitable access to critical resources, and enhance sustainable 
+livelihoods. This position is demonstrated by our Global Climate Policy Principles, Nature Policy Priorities, 
+Ocean-Climate Policy Priorities, Climate Justice Policy Priorities, and our Climate Action Plan.
+Indigenous Peoples: We support and recognize local communities and Indigenous peoples as leaders for 
+conservation and restoration. In line with our Nature Policy Priorities, we support the right of local 
+communities and Indigenous people to Free, Prior, and Informed Consent (FPIC), and their right to 
+decision-making and leadership roles concerning the design and beneﬁt allocation of nature-based 
+solutions.
+Human Rights Defenders: Human rights defenders provide valuable insights into human rights issues. We 
+recognize the heightened vulnerability of human rights defenders due to their exposure to threats, 
+intimidation, or criminalization. We foster open dialogues and constructive collaborations, and oppose 
+actions that threaten, intimidate, or otherwise unduly restrict the work of human rights defenders.
+4
+Embedding our commitment
+across our business processes
+
+Salesforce functional leads and subject matter experts integrate our human rights approach across the 
+business. The Human Rights Steering Committee includes team members such as Legal, Ethical and 
+Humane Use, Privacy, Employee Success, Equality, Sustainability, Procurement, and Government Aﬀairs. 
+They oversee our eﬀorts to monitor and identify salient human rights risks, and to escalate to relevant 
+stakeholders including to senior management and the Board of Directors, as appropriate. 
+We aspire to continuously improve the implementation of our human rights commitments. 
+Our Board, including through its committees, and informed by regular engagement with senior 
+management, ultimately oversees Salesforce’s business operations and our environmental, social, and 
+governance initiatives, including human rights matters. 
+Remediation and grievance mechanisms
+We publicly encourage reporting of misconduct in good faith. The reporter, internal or external, is free to 
+conﬁdentially express any concerns, including concerns relating to actual or potential violations of law or 
+any of our policies (including this policy) or any concerns relating to situations or conduct that may be 
+unethical or cause harm. We provide details of the reporting process in our Code of Conduct. Through a 
+secure reporting line, we provide an accessible, reliable, and conﬁdential reporting process, with explicit 
+non-retaliation commitments, and through which reporters can remain anonymous, where permitted by 
+law.
+Communicating on how we implement
+and perform 
+We took a collaborative approach to develop this policy. We worked closely with external human rights 
+experts and engaged internal business partners to inform its creation. Our ongoing engagement with 
+leading collaborative eﬀorts such as UN Global Compact and the UN Human Rights B-Tech Project also 
+inform our management approach.
+We will continue to review our position on human rights and ensure that the measures implemented 
+remain eﬀective, and are designed to be in compliance with international standards and local regulations.
+We recognize that the key to eﬀective policy implementation is ongoing tracking, monitoring, and 
+reporting on progress and management of concerns related to human rights. As a global company, we 
+continuously work to ﬁnd the best solutions to track, document, and communicate how we implement 
+and perform on human rights due diligence across our diverse geographies and businesses. We embed 
+human rights reporting within our annual ESG reporting processes, and we tailor our approach according 
+to local legal requirements.
+This policy will be reviewed annually and on an ad-hoc basis, in the event of a signiﬁcant change or expanded risk situation.
+Last policy review date: August 2024
+5
+Governance structure for oversight
+and accountability
+

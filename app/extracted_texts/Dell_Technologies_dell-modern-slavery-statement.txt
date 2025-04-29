@@ -1,0 +1,405 @@
+ 
+ 
+ 
+ 
+STATEMENT AGAINST SLAVERY AND HUMAN TRAFFICKING 
+ 
+ 
+Dell Technologies Inc., on behalf of itself, Dell Inc. and its direct or indirect subsidiaries (“Dell”), is 
+committed to social and environmental responsibility. As part of its commitment, Dell prohibits slavery and 
+human trafficking in our operations and supply chain and works to minimize any associated risks. 
+Irrespective of the circumstances, we will not tolerate forced, bonded (including debt bondage) or 
+indentured labor, involuntary prison labor, slavery, or trafficking of persons in any of our own business 
+operations or by any of Dell’s suppliers, our supplier’s suppliers (collectively, “Suppliers”), or for any other 
+purpose. Dell is a founding member of the Responsible Business Alliance (RBA), formerly known as the 
+Electronics Industry Citizenship Coalition (EICC) and has adopted its Code of Conduct (the "RBA Code"), 
+to which we hold ourselves and our supply chain accountable. The RBA Code prohibits the use of forced, 
+bonded (including debt bondage) or indentured labor, involuntary prison labor, slavery, or trafficking of 
+persons. The RBA Code, amongst other Dell policies, is incorporated into Dell’s Supplier Principles, to 
+which all Suppliers are expected to agree as a condition of doing business with Dell. Dell considers each 
+Supplier's conduct vis-a-vis the RBA Code and Supplier’s adherence to Dell’s Supplier Principles when 
+awarding and/or renewing business with the Supplier. Dell adheres to the RBA Code and requires its 
+Suppliers to adhere to Dell’s Supplier Principles, with the understanding that the obligations imposed may 
+be more onerous than under applicable local law. 
+ 
+This Statement is made pursuant to the requirements of the California Transparency in Supply Chains Act 
+of 2010, section 54(1) of the U.K. Modern Slavery Act of 2015, and Part 2 of the Australian Modern 
+Slavery Act of 2018, and constitutes Dell's slavery and human trafficking statement for the financial year 
+ending February 3, 2023 (and for the financial year ending 31 January 2023 in respect of the Australian 
+Reporting Entities and Dell Bank International Designated Activity Company). For the purposes of Part 2 
+of the Australian Modern Slavery Act 2018, this Statement is made on behalf of the applicable reporting 
+entities, Dell Australia Pty Limited ABN 46 003 855 561 and EMC Global Holdings Company ABN 86 699 
+010 685 (Australian Reporting Entities). The corporate structure of the Australian Reporting Entities is set 
+out in Annexure A of this Statement along with Australian specific details required under Australian law. 
+ 
+For the purposes of section 54(1) of the U.K. Modern Slavery Act 2015, this statement is made on behalf 
+of reporting entities Dell Corporation Limited (UK company number 02081369), Dell Emerging Markets 
+(EMEA) Limited (UK company number 03266654), Dell Products Unlimited Company (Irish company 
+number 191034), EMC Information Systems International Unlimited Company (Irish company number 
+461022), EMC Europe Limited (UK company number 00990752), Virtustream Ireland Limited (Irish 
+company number 433356) and Dell Bank International d.a.c. (Irish company number 502362). 
+ 
+Christopher A. Garcia signs this Statement as Assistant Secretary and Senior Vice President on behalf of 
+Dell Inc. and its wholly owned subsidiaries, and in his capacity as Director or authorized representative of 
+the above-named legal entities. 
+ 
+Structure, operations, and supply chains 
+ 
+Dell Technologies is one of the largest information technology (IT) providers in the world. Our technology 
+and services portfolio spans both traditional infrastructure and multicloud technologies. We design, 
+develop, manufacture, market, sell, and support a wide range of comprehensive and integrated solutions, 
+products and services. 
+
+ 
+ 
+Dell is a corporation incorporated in the state of Delaware with principal executive offices in Round Rock, 
+Texas. A complete list of Dell’s subsidiaries worldwide as of the end of its most recently completed fiscal 
+year can be found at Exhibit 21.1 of the Dell Technologies 10K, filed with the US Securities and 
+Exchange Commission on March 30, 2023. 
+ 
+We have operations and conduct business in the Americas, Europe, the Middle East, Asia, and other 
+geographic regions. As reported in our most recent 10K, Dell employs approximately 133,000 people 
+worldwide. We also manage responsible business practices in one of the world’s largest supply chains. 
+Our own manufacturing facilities are located in the United States, Malaysia, China, Brazil, India, Poland, 
+and Ireland. We also use contract manufacturers throughout the world to manufacture or assemble our 
+products under the Dell Technologies brand. Components used in these manufacturing facilities are 
+sourced primarily from the same locations listed above, and from Japan, South Korea, Mexico, Taiwan, 
+Singapore, Philippines, Thailand, Laos, Germany, Netherlands, Israel, Vietnam, and Indonesia. 
+ 
+Our primary focus in due diligence within our supply chain is on our suppliers of direct materials, as it 
+represents our largest spend category. Dell’s Public Supplier List identifies the category type and 
+location of our original design manufacturers (ODMs) and final assembly Suppliers. This list represents 
+a snapshot covering at least 95% of Dell’s direct material spend during fiscal year 2022. Our second 
+largest spend category includes products and services procured in-country or regionally for customer- 
+facing services, followed by marketing, and global real estate and facilities, respectively. 
+ 
+Identify and assess the risk of modern slavery 
+ 
+Given the multi-faceted global legal landscape and corresponding labor market fluctuations, the 
+technology sector’s biggest risk of modern slavery and human trafficking comes from the use of foreign 
+migrant workers (FMWs). Our efforts to verify, assess, and audit internal risks are described below. Dell’s 
+efforts also extend to Dell’s Suppliers, that may not have sufficient controls in place to fully identify, 
+prevent, correct, or remediate risks of forced labor. To that end, Dell collaborates with industry peers 
+through the Responsible Labor Initiative (RLI, an RBA sub-group initiative) to address identified forced labor 
+risks in the supply chain, drive Supplier accountability, and implement corrective measures. 
+ 
+Dell uses raw materials, including minerals, in its products. For example, gold is used in circuit boards, 
+and tantalum is used in capacitors. Some of these minerals are mined in conflict-affected and high-risk 
+areas. While we do not purchase minerals directly from mines, smelters, or refiners, our responsible 
+sourcing requirements extend throughout our entire supply chain. 
+ 
+Dell prioritizes the identification and assurance of smelters or refiners (SORs) used to process material 
+supplied by mines or mineral agents. This includes an independent, third-party assessment of 
+management systems and sourcing practices to validate conformance with the Responsible Minerals 
+Assurance Process (RMAP). To track conformance rates, we require Suppliers that use 3TG (tin, 
+tungsten, tantalum, and gold — known as 3TG) and/or cobalt to complete the Conflict Minerals Reporting 
+Template or the Cobalt Reporting Template to report on SORs within their own supply chains. 
+ 
+Given the many supply chain tiers involved and the size of smelting and refining operations, multiple 
+suppliers will likely include some of the same SORs in their reporting. We collaborate with Suppliers to 
+strengthen their capabilities and help them to remediate issues with SORs that may not be participating in 
+any industry-recognized third-party assurance program to achieve conformance. If conformance cannot 
+be achieved, Dell requires the Supplier to take immediate steps to remove non-conformant Suppliers and 
+SORs. More information is available in the Dell Technologies Conflict Minerals Disclosure Report. 
+
+ 
+ 
+As previously noted, the biggest risk of forced labor [based on both our own audits as well as industry 
+data from the RBA and several nongovernmental organizations (NGOs)] would include any area or type 
+of Supplier that uses FMWs. In addition to substandard labor conditions, FMWs may be vulnerable to high 
+fees at different points during their journey as a potential worker, ranging from home and/or receiving 
+country labor agents, to travel, visa, or health check fees. FMWs may not be in a position to fully 
+understand or consent to the adverse conditions of work opportunities prior to leaving their home country. 
+For example, Dell has encountered, investigated, and mitigated risks to FMWs in situations involving 
+Onsite Service Providers (OSPs) and in locations where worker fees might be culturally accepted. 
+ 
+Dell’s assurance practices are risk-informed, with high-risk circumstances and actions to avoid or mitigate 
+salient risks such as modern slavery being highly prioritized. Dell's audit and capability building programs 
+specifically target areas of known, or with the highest potential of, forced labor risk. Dell's risk assessment 
+method incorporates the resources of Dell’s internal audit activity, international governments, and NGO 
+information to assign each country a risk score which is heavily weighted by forced labor risks, including 
+for FMWs. The risk scores inform our audit programs, such that we focus resources in locations where 
+we have seen higher risk. For locations that are lower risk and for which we have not seen high risk in their 
+in-country or regional supply chains, such as Western Europe, USA or Australia, we do not divert resources 
+from higher risk locations. Dell takes a balanced approach by responding to new risk information with audits 
+as needed for lower risk locations. The risk assessment is completed annually. As country risk levels 
+change, so does Dell’s audit and capability programing to adapt to shifting risks. 
+ 
+Dell has published policies to define our commitment to international labor and human rights standards. 
+These principles reinforce and strengthen our commitment to the rights of our employees, workers in our 
+supply chain, and workers in the global community. Our policies, including the Dell Human Rights Policy, 
+and other policies and principles referenced in this statement are available online on our Supply Chain 
+Responsible Labor and ESG Policies, Positions & Guidelines pages. 
+ 
+The Supply Chain Assurance organization within Dell's Global Operations organization has a Social and 
+Environmental Responsibility (SER) function that deploys programmatic and operational teams and 
+drives social and environmental standards across the supply chain, including those related to forced 
+labor. These teams work across Global Operations with procurement and manufacturing organizations 
+and include specialists dedicated to monitoring and training Suppliers. The SER function aligns with 
+internal Dell stakeholders in each applicable Dell group entity to engage for the purposes of preparing 
+this Statement. Representatives from each of the group entities (including the reporting entities) 
+participate in working group meetings and/or receive regular/periodic briefings from the SER function. A 
+working group is operational to consult Dell group entities to ensure country-specific risks have been 
+appropriately identified, assessed, and addressed and that the group entities are aware of the actions 
+needed to be taken to mitigate and eliminate the risks. Specifically, input is sought and considered prior 
+to the annual refresh of this Statement to ensure all group entity requirements are clearly stated. 
+ 
+For more information on our work to remediate forced labor risks with our Suppliers, please review the 
+Supply Chain section of our annual Environmental, Social and Governance (ESG) Report. 
+ 
+Actions taken to address risks of modern slavery 
+ 
+Dell focuses on the following key criteria to ensure and verify the absence of forced labor, slavery, and 
+human trafficking of any kind within our direct materials supply chain. We have similarly implemented 
+initiatives for suppliers in key parts of Dell's indirect supply chain, including workers employed by Suppliers 
+known as Onsite Service Providers (OSPs) that provide a range of services, which include but are not 
+limited to janitorial, security, or food and cafeteria management services. 
+
+ 
+ 
+1. 
+VERIFICATION AND RISK ASSESSMENT: Dell’s risk-based approach means that the highest 
+risk locations and Supplier types will be in scope for all parts of our programs (risk assessment, audits, 
+corrective actions, capability building, and accountability measures like quarterly business reviews), while 
+lower risk locations may not be audited or be in capability building programs. Even if a country represents 
+low risk, Dell will adjust its audit plans if new information related to risk of forced labor is found either 
+through Dell's own due diligence or from other credible stakeholder insights. Dell conducts an annual 
+internal assessment of supply chain risk based on the commodity produced and independent research that 
+identifies labor risks associated with geographic locations, spend, past performance, and other targeted 
+risk factors. This risk assessment incorporates data on human trafficking incidence from sources including, 
+but not limited to, the U.S. State Department's annual "Trafficking in Persons Report”, The Global Slavery 
+Index, and the U.S. Department of Labor’s Bureau of International Labor Affairs. Our risk assessment 
+further considers local risk factors, including human rights risk, country governance, and accountability. 
+ 
+2. 
+AUDITS: Suppliers are selected for on-site audits based on risk. We target to have third- 
+party audits at all high-risk Supplier sites every two years. Typically, all audits are completed on-site. 
+However, due to ongoing COVID-19 impact, in FY23 we conducted remote audits in some 
+circumstances, as allowed by RBA guidance. This temporary process initiated for remote audits 
+during the pandemic enabled us to adhere to recommended COVID-19 containment measures while 
+protecting the health and safety of the people in our supply chain, assuring the responsible 
+manufacturing of our products, and meeting customer demands. 
+ 
+As part of the audit process, auditors review documents, observe daily work practices, and interview 
+Supplier management, workers, and contractors independently to assess the implementation of the 
+SER standards in the RBA Code. In FY23, auditors conducted 14,711 confidential feedback 
+interviews as part of the audit process. 
+ 
+Our audits are completed by RBA-certified third-party entities to ensure full RBA Code coverage and 
+consistency of interpretation of requirements. Auditors are qualified by the RBA based upon a 
+combination of RBA-specific training, specific relevant industry training (i.e., for certain health/safety 
+or environmental disciplines), and minimum threshold levels of field experience under certified RBA 
+lead auditors. Auditors, including those involved in unannounced investigations, monitor Suppliers' 
+adherence to over 40 provisions covered by the RBA Code, including an assessment of Suppliers' 
+policies and practices addressing human trafficking risks and controls. Auditors also assess Supplier 
+management and oversight of their own Suppliers, with a particular emphasis on labor brokers or 
+recruiters. Auditors are re-certified to ensure up-to-date skills and interpretations. Auditors are trained 
+on RBA Code requirements concerning confidentiality, as well as worker interview skills, particularly 
+for forced labor or other labor issues that workers may be reticent to discuss. 
+ 
+Importantly, site audits are conducted in areas where workers’ freedom of movement may be restricted or 
+constrained, such as Suppliers' dormitories, canteens, storage, and common areas. Access to these 
+areas may facilitate the identification of specific risks or instances of modern slavery if the audit reveals 
+workers are being denied freedom of movement, are housed in inadequate or substandard housing, or 
+are being charged unreasonable fees for food and housing – these are known indicators that modern 
+slavery practices may exist. 
+ 
+Auditors review documents related to the labor provisions of the RBA Code (including working hours, pay 
+slips with wages, benefits, and deductions) and conduct interviews with both management and the 
+workers to assess conformance to the RBA Code of Conduct. Auditor interviews of workers are key, for 
+example, in identifying expenses or deductions in factory pay slips, which may not reflect the use of a 
+labor recruiter involved in the hiring process. Auditor interviews are an important assurance step; it is 
+critical to ensure workers can provide information safely and confidentially before, during, or after an audit. 
+Workers selected for interviews during onsite audits are also given a communication card with access to 
+
+ 
+ 
+Dell’s or RBA’s (for audits of a Supplier shared with other RBA members) helpline to provide anonymous 
+feedback outside the factory and outside the audit process, if they prefer. 
+ 
+While helpline usage related to an audit is a critical verification for the audit, Dell’s third-party operated 
+supply chain grievance mechanism can be used for any concerns that arise outside the two-year audit 
+cycle. Any issues that meet the defined RBA Code criteria are escalated through established procedures 
+to ensure issues are promptly addressed along with the determination of the root cause. 
+ 
+This third-party operated mechanism targeted at Suppliers is in addition to Dell Technologies Ethics 
+Helpline options globally available for anyone, including team members, partners, Suppliers, or their 
+employees, or any other internal or external stakeholder to report concerns or issues they believe may 
+violate Dell’s Code of Conduct, Dell’s Human Rights Policy, or any other related Dell policies or 
+standards. Dell will promptly investigate allegations and take appropriate action, where necessary, to 
+mitigate actual or potential adverse human rights impacts. Dell does not tolerate retaliation against 
+anyone acting in good faith to report a concern, provide information, or otherwise assist in an 
+investigation or proceeding regardless of the helpline a worker chooses to use. 
+ 
+Any allegations of modern slavery or modern slavery risks received through these mechanisms are fully 
+investigated immediately by Dell. Methods to research allegations include unannounced visits by our 
+social and environmental responsibility (SER) specialists and/or third-party auditors. Depending on the 
+nature of any findings, SER specialists work with Suppliers to develop corrective action plans to address 
+modern slavery risks and/or remediate instances of modern slavery. In cases of severe (priority and/or 
+major) findings, Suppliers may be required to complete a third-party closure audit to resolve the issue. 
+ 
+In FY23, 100% of our audited suppliers also had helpline mechanisms in place. This is a requirement for 
+RBA Code compliance to enable suppliers to receive worker feedback and create processes to directly 
+address and/or improve issues outside of an audit, including but not limited to forced labor. 
+ 
+All workers within our supply chain fall within the scope of Dell’s assurance procedures, including those 
+migrating for work. Dell's SER initiatives apply to workers in final assembly, direct, and sub-tier suppliers 
+regardless of their form of employment. Whether a worker is directly hired or is in an indirect, contract, 
+dispatch, or temporary employment relationship, the labor protections apply. 
+ 
+We use audits to supplement our Supplier Engagement, Capability Building, and Assessment program 
+and internal tracking mechanisms to monitor Suppliers' performance to our requirements. These audits 
+are part of our overall strategy to responsibly manage our supply chain, identify risks, and interact with 
+workers. We select Supplier sites for audits based on the risk assessment described above. Audit 
+findings that indicate potential risks of forced labor or human trafficking are immediately addressed and 
+tracked until closed. 
+ 
+Where recruitment fees either to the Supplier or a labor broker have been used, we work with Suppliers to 
+return recruitment fees and pay direct remedies to affected workers. Additional details on these programs 
+and statistics for the last reporting year are available in the Supply Chain section of our annual ESG 
+Report. 
+ 
+3. 
+SUPPLIER CERTIFICATION: Compliance with Dell's Supplier Principles, which includes the 
+Dell Vulnerable Worker Policy, is a contractual obligation for Suppliers. These Principles include 
+requirements to directly address risks of forced labor and human trafficking. Compliance with these 
+requirements is evaluated through the mechanisms referenced above. Suppliers are required to conduct 
+a root cause analysis and develop a plan to address issues found during an audit within RBA-specified 
+timelines, including findings associated with forced labor conditions. 
+
+ 
+ 
+Dell develops corrective action plan (CAP) toolkits that provide resources to help Suppliers address audit 
+findings in relation to labor and ethics risk (including forced labor) and enhance Dell's review of CAPs 
+developed by Suppliers. These CAP toolkits help Suppliers address modern slavery risks, particularly in 
+locations that are heavily reliant on internal country migrants and foreign migrant workers who frequently 
+work through labor agents. Suppliers need to understand their responsibility to effectively manage 
+agents as well as bear the full cost of the recruitment process (i.e., at no point to have recruitment fees 
+for workers). Suppliers cannot delegate the ownership and responsibility of implementing the 'no 
+recruitment fees' policy to labor agents, even as individual tasks are delegated. 
+ 
+This applies for the full journey of the worker from home country to final factory. If employees are found to 
+have been paying recruitment fees to their employer or a third-party labor broker, Dell will work with 
+Suppliers to repay the workers. 
+ 
+Progress in addressing these issues is regularly reported across Dell's procurement organization through 
+monthly reports, executive visibility, and quarterly business reviews with Suppliers. Closure audits are 
+conducted to confirm priority and major findings have been resolved. Dell reserves the right to take any 
+and all available actions against Suppliers for violations of Dell’s Vulnerable Worker Policy, including 
+without limitation the reduction of business, frequent required onsite compliance auditing at Supplier's 
+expense (including but not limited to dormitories, canteens, storage, and common areas), employee 
+compensation at Supplier's expense, and/or termination of Dell's contract with the Supplier. 
+ 
+4. 
+INTERNAL ACCOUNTABILITY: Internal accountability standards and procedures help confirm 
+that workers and Suppliers meet Dell’s supply chain standards. Supplier accountability occurs through 
+mechanisms ranging from audit corrective action procedures (see "AUDITS," above) to Dell executive 
+review of Supplier performance and quarterly business reviews to ensure alignment and timely action. 
+Typically, this occurs during Suppliers’ quarterly business reviews, which are attended by key executives 
+to help determine future business awards, Supplier resources and policy, as well as to address progress 
+toward aligned goals. Alternatively, meetings may be accelerated depending on the type of finding. Dell 
+maintains an internal tracking system of RBA audit findings that allows for monitoring and regular 
+reporting on open issues and due dates. Commodity teams are measured during their quarterly and 
+annual performance scorecards with the audit performance and closure status of RBA audit issues for 
+Suppliers they manage. Procurement executives receive monthly reports on Suppliers with any audit 
+findings that suggest risks of forced labor and human trafficking and hold Suppliers accountable to 
+address the risks. Where there is a 'priority' or 'major' Supplier audit finding in relation to forced labor or 
+child labor, this issue is escalated for review at an executive level prior to the QBR cycle to ensure timely 
+review by executives. 
+ 
+Dell’s SER team works with Suppliers to determine root causes, provide targeted capability-building, and 
+monitor corrective action plans to closure. We also believe some human rights risks and issues can be 
+addressed most effectively by working in partnership with others. In addition to our standard procedures, 
+where we believe it may accelerate and improve outcomes for affected stakeholders, Dell may 
+collaborate with other RBA members or NGOs, or other stakeholders, in accordance with applicable 
+Competition law. 
+ 
+The timeliness and completeness of the corrective action plans are measured by the Suppliers’ 
+quarterly business reviews to ensure alignment and timely actions. For more details on how 
+accountability is built into our work with Suppliers, see the Supply Chain section of our annual ESG 
+Report. 
+ 
+5. 
+TRAINING: Expectations to comply with laws and ethical business practices, including 
+respecting the fundamental human rights of others, are embedded in Dell’s culture and policies, and 
+
+ 
+ 
+clearly set out in the Dell Technologies Code of Conduct (Code). Dell Technologies team members are 
+required to complete annual Code training and adhere to our Code and standards, including adherence to 
+the RBA Code, which sets out required protections against forced, bonded, or indentured labor, human 
+trafficking and more. 
+ 
+Dell conducts additional RBA Code training for supply chain management professionals and 
+manufacturing operations teams. This training includes engagement with global commodity managers, as 
+well as other key relationship owners, and is conducted through a variety of training approaches, from in- 
+person, all-day workshops to online modules. Identification and prevention of human trafficking is a key 
+part of the training. Dell's Global Operations organization has responsibility for implementing and 
+monitoring compliance to all the supply chain activities described above. Our focus on identifying even 
+potential risks of slavery and human trafficking is part of a larger effort to encourage business integrity, 
+ethical conduct, and supply chain transparency and accountability. 
+ 
+In FY23, the reach of our capability building program, including forced labor and labor protections training, 
+remained high: 
+ 
+a. 1,763 unique participants attended our capability building training programs 
+ 
+b. 441 unique Supplier factories were represented 
+ 
+c. 11,991 hours of capability building training on social and environmental responsibility topics 
+were completed 
+ 
+d. 6,187 hours of online training 
+ 
+e. 5,804 hours of in-person training sessions and webinars 
+ 
+In addition, audit scores of Suppliers who have previously attended training are analyzed to improve or 
+clarify training where needed. 
+ 
+For additional information describing the structure of Dell's direct materials supply chain and our supply 
+chain responsibility program, see the supply chain sections of Dell's sustainability reporting. For more 
+information about our business, see the business description available in the Dell Technologies 10-K. 
+ 
+6. 
+EFFECTIVENESS: Dell measures and monitors the cumulative impact of its various programs 
+and provides transparency into progress in its annual ESG Report. Ongoing analysis of related 
+performance indicators helps inform our understanding of the effectiveness of initiatives such as Supplier 
+training on labor rights and recruitment fees, utilization and impact of CAP toolkits directed at identifying 
+and addressing labor rights risks, including forced labor, and more. 
+ 
+These programs are also integrated into Supplier performance management and escalation processes 
+such that the total impact is reflected in the audit score improvements or recruitment fees identified and 
+returned to workers. 
+ 
+Improvements in Supplier factory audit performance in FY23: 
+ 
+• Overall: 73% of Supplier factories that went through at least their second audit cycle 
+improved their audit scores between cycles 
+ 
+• Final assembly Suppliers: 71% 
+
+ 
+ 
+• Direct Suppliers: 73% 
+ 
+• Sub-tier Suppliers: 73% 
+High-performing Supplier factories: 
+79% of factories are high-performing based on their audit scores (at least 180 out of 200 for final 
+assembly factories or 160 out of 200 for other factory tiers and no priority findings) 
+ 
+These mechanisms and indicators are closely monitored and tracked as part of our practices to ensure all 
+Dell products, wherever manufactured or delivered to customers around the world, are made responsibly, 
+without the use of any form of forced labor. 
+ 
+ 
+Signature: 
+ 
+ 
+ 
+ 
+ 
+Christopher A. Garcia 
+Assistant Secretary & Senior Vice President 
+Dell Inc. 
+Last revision date: 29-JUNE-2023 
+
