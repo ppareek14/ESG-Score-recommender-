@@ -1,0 +1,617 @@
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 1 of 10 
+Cisco Statement on the Prevention of Modern 
+Slavery and Human Trafficking 
+At Cisco Systems, Inc. (and together with its subsidiaries, “Cisco”), labor and human rights are a top priority. We are committed to treating 
+everyone who works at or with Cisco with dignity and respect. We explicitly prohibit human trafficking, child labor, and the use of involuntary 
+labor within our supply base, and this extends to forced, bonded, or indentured labor, involuntary or exploitative prison labor, and other forms of 
+modern slavery. 
+We are committed to working with industry partners and our supply chain to drive high standards in the industry. By collaborating with other 
+thought leaders across the industry, we can increase our positive impact.  
+This statement is designed to meet Cisco’s reporting obligations under the Canadian Fighting Against Forced Labour and Child Labour in Supply 
+Chains Act1, the Australian Modern Slavery Act 2018 (Cth)2, the UK Modern Slavery Act of 2015, Articles 964j-l of the Swiss Code of Obligation and 
+the Ordinance on Due Diligence and Transparency in relation to Minerals and Metals from Conflict-Affected Areas and Child Labor (DDTrO) 
+(2021)3, and the California Transparency in Supply Chains Act of 2010. Cisco provides this statement for itself and on behalf of certain directly and 
+indirectly controlled foreign subsidiaries that are directly covered by a disclosure obligation in their respective jurisdictions. Currently this includes 
+Cisco Systems Canada Co. and Accedian Networks Inc. pursuant to the Fighting Against Forced Labour and Child Labour in Supply Chains Act; Cisco 
+International Limited, AppDynamics UK Ltd., AppDynamics International Ltd., IMImobile Europe Limited and IMImobile Limited pursuant to the UK 
+Modern Slavery Act of 2015; Cisco Systems GmbH and Cisco Systems International Sarl pursuant to the DDTrO, and Cisco Systems Australia Pty 
+Limited which is the only reporting entity for the purpose of the Australian Modern Slavery Act 2018 (Cth). Cisco Systems, Inc. and its subsidiaries 
+share the same core business operations and supply chains, policies prohibiting modern slavery, and supporting processes further described in 
+this statement. The below statement covers Cisco’s fiscal year ended July 27, 2024 (“FY 2024”). During FY 2024, Cisco completed its acquisition of 
+Splunk Inc. Cisco is currently working to integrate Splunk Inc. into its company-wide anti-modern slavery program, and this work will continue in 
+FY 2025.4 During FY 2024, Cisco also completed its acquisition of Accedian Networks Inc. and is working to fully integrate Accedian's supply chain 
+in FY 2025.  
+This statement communicates Cisco's policies and practices to respect human rights, how we identify and address potential impacts, and how we 
+mitigate risks. Cisco upholds and respects human rights as contained in the United Nations (UN) Universal Declaration of Human Rights (UDHR); 
+the International Covenant on Civil and Political Rights (ICCPR); the International Covenant on Economic, Social and Cultural Rights (ICESCR); and 
+the eight Core Labour Conventions developed by the International Labour Organization (ILO), including Conventions No.29 and No.105 on the 
+elimination of all forms of forced or compulsory labour. Cisco’s approach is informed by the documents identified above, grounded in the 
+framework set forth in the UN Guiding Principles on Business and Human Rights (UNGPs) and the Organisation for Economic Cooperation and 
+Development Due Diligence Guidance for Responsible Business Conduct (OECD Guidance), and includes ongoing engagement of potentially 
+impacted stakeholders or their legitimate representatives. 
+ 
+1 For the purpose of the Canadian Fighting Against Forced Labour and Child Labour in Supply Chains Act, Cisco Systems Canada Co. (“Cisco Canada”) and Accedian Networks Inc. 
+(“Accedian”) are the only ‘entities’ under the Canadian Fighting Against Forced Labour and Child Labour in Supply Chains Act and make this statement as a joint statement pursuant to 
+section 11. For the purpose of the relevant approval and signing requirements, this modern slavery statement has been approved by the governing bodies of Cisco Canada and Accedian and 
+has been signed by the director of both entities (see page 10). 
+2 For the purpose of the Australian Modern Slavery Act 2018 (Cth), Cisco Systems Australia Pty Limited (“Cisco Australia”) is the only ‘reporting entity’ under the Australian Modern 
+Slavery Act 2018 (Cth) and makes this statement as a single statement pursuant to section 13. This modern slavery statement has addressed all of the mandatory criteria for modern slavery 
+statements set out in section 16 of the Australian Modern Slavery Act 2018 (Cth). For the purpose of the relevant approval and signing requirements, this modern slavery statement has been 
+approved by the principal governing body of Cisco Australia and has been signed by a responsible member (see page 10). 
+3 Neither Cisco Systems International Sàrl nor Cisco Systems (Switzerland) GmbH (nor any of their subsidiaries) import or process any of the products listed in the Annex I to the DDTrO in 
+the quantities specified in the DDTrO. 
+4 Prior to the acquisition, Splunk Services Australia Pty Ltd and Splunk Services UK Ltd were separate reporting entities for the purpose of the Australian Modern Slavery Act 2018 (Cth) and 
+the UK Modern Slavery Act of 2015, respectively. The Splunk modern slavery statement responsive to the UK Modern Slavery Act of 2015 is available here and the Splunk modern slavery 
+statement responsive to the Australian Modern Slavery act 2018 (Cth) is available on the Australia Register here. 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 2 of 10 
+About Cisco’s Structure and Business Operations5 
+Cisco is a multinational company incorporated in Delaware and headquartered in San Jose, California, United States of America. Cisco designs and 
+sells a broad range of technologies that help to power, secure, and draw insights from the Internet. We are integrating artificial intelligence (AI) 
+into our product portfolios across networking, security, collaboration and observability to simplify how our technology is delivered, managed and 
+optimized and to help customers maximize the business value of their technology investments and accelerate their digital transformation. We had 
+approximately 90,400 employees as of July 27, 2024.  We conduct significant sales and customer support operations in countries around the 
+world. We sell our products and services both directly and through a variety of channels with support from our sales workforce. 
+About Our Supply Chain Network6 
+We source from a global network of suppliers and partners. The major elements of our materials supply chain are briefly described below. Our 
+Supplier List provides more insight on the global suppliers with which we partner. 
+• 
+Manufacturing partners: a select group of suppliers that produce finished Cisco products;  
+• 
+Component suppliers: a large group of suppliers, often contracted directly by Cisco to provide parts to our manufacturing partners 
+according to our specifications; and 
+• 
+Logistics service providers: a group of providers that transport components and finished products.  
+Cisco’s Policies 
+Cisco's policies and approach to preventing involuntary labor and human trafficking have been developed based on international labor and human 
+rights standards, as well as best practices across the global business community. These policies apply to the whole Cisco group and all local 
+subsidiaries, including Cisco Switzerland, Cisco Australia,7 and Cisco Canada, are expected to adhere to them. These policies establish our baseline 
+expectations as well as communicate our values and help promote trust and collaboration as a key underpinning of our many business and 
+stakeholder relationships. Cisco’s specific policies include: 
+• 
+Global Human Rights Policy: Our commitment to upholding and respecting human rights is stated in our Global Human Rights Policy. Our 
+approach is governed by international human rights frameworks, including the UDHR, ICCPR, ICESCR, the ILO core labor standards, and 
+is aligned to the UNGPs. A dedicated Business and Human Rights (BHR) team is responsible for implementation of this policy, which we 
+review on a regular basis. Our Human Rights Advisory Committee (HRAC) advises the BHR team on issues related to Cisco’s support of 
+and respect for human rights. Our HRAC includes leadership from functions across the business.  
+• 
+Code of Business Conduct (COBC): Our COBC is a crucial part of our company culture that provides employees with a clear 
+understanding of our core values and the high standards for ethical conduct by which we conduct our business, including respect for 
+human rights. 
+• 
+Supplier Code of Conduct: Cisco has adopted the Responsible Business Alliance (RBA) Code of Conduct as its own (the Supplier Code of 
+Conduct). The Supplier Code of Conduct (available in more than 20 languages) prohibits workers from paying fees for their employment 
+at any time, as outlined in the Definition of Fees. The Supplier Code of Conduct defines Cisco’s requirement for suppliers to implement 
+ 
+5 For the purpose of the Australian Modern Slavery Act 2018 (Cth), Cisco Australia conducts business for Cisco in Australia as a subsidiary. It has a number of direct and indirect subsidiaries 
+(see footnote number 7). Cisco Australia’s principal activities are to market, distribute and sell ICT products and services including networking, collaboration, security, wireless and mobility, 
+data center, IoT, video, analytics, and products, services and solutions in Australia. For the purpose of the Canadian Fighting Against Forced Labour and Child Labour in Supply Chains Act, 
+Cisco Canada and Accedian conduct business for Cisco in Canada as a subsidiary. Cisco Canada’s principal activities are to market, distribute and sell ICT products and services including 
+networking, collaboration, security, wireless and mobility, data center, IoT, video, analytics, products, services and solutions in Canada.  
+6 At a local level, Cisco Australia’s suppliers include Cisco’s global affiliates that supply Cisco products to Cisco Australia, as well as a range of indirect procurement suppliers such as 
+cleaning service providers, IT equipment suppliers, marketing firms and professional service firms, among other suppliers. Cisco Canada’s suppliers include Cisco’s global affiliates that 
+supply Cisco products to Cisco Canada, as well as a range of indirect procurement suppliers such as cleaning service providers, IT equipment suppliers, marketing firms and professional 
+service firms, among other suppliers. Accedian suppliers include contract manufacturers and other indirect procurement suppliers.  
+7 Consultation: Cisco Australia and its direct and indirect subsidiaries, being Cisco Systems Capital (Australia) Pty Limited, Meraki Networks Australia Pty Limited, BroadSoft Australia Pty 
+Limited, Zomojo Pty Ltd and Exablaze Pty Ltd (collectively, “Cisco Australian Subsidiaries”), operate in the same sector and are expected to use the same global policies and processes 
+(including those set out in this Statement). During the reporting period for this modern slavery statement, Cisco Australia has worked to ensure that its personnel consult with the personnel of 
+the Cisco Australian Subsidiaries to ensure alignment between Cisco Australia and the Cisco Australian Subsidiaries on modern slavery reporting requirements in Australia, the identification 
+and assessment of modern slavery risks in the Cisco Australia supply chain, the approach taken by Cisco Australia to address and mitigate those modern slavery risks, and ultimately the 
+preparation of this modern slavery statement. Cisco Australia also consulted with Cisco in order to develop this modern slavery statement as well as working with Cisco to implement the 
+global approach locally. In taking a group-wide approach Cisco consulted with all of the entities covered by this modern slavery statement, including Cisco Australia, to ensure that the 
+modern slavery statement satisfies all of the mandatory criteria of each respective jurisdiction, including the Australian Modern Slavery Act 2018 (Cth). 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 3 of 10 
+management systems to protect workers’ rights and prohibit forced labor. The Supplier Code of Conduct prohibits the use of forced, 
+bonded (including debt bondage) and indentured labor, involuntary or exploitative prison labor, slavery, or trafficking of persons, and 
+prohibits unreasonable restrictions on workers’ freedom of movement as well as child labor. Cisco suppliers are required to 
+acknowledge the Supplier Code of Conduct as part of doing business with Cisco. Furthermore, the Supplier Code of Conduct is a 
+foundational element of our Supplier Ethics Policy (outlined below). Our Supplier Code of Conduct aligns with the ILO Indicators of 
+Forced Labour so that when supplier sites are assessed for Supplier Code of Conduct conformance, indicators such as deception during 
+recruitment, identity document retention, wage withholding, debt bondage, abusive conditions, and restriction of movement are 
+examined. 
+• 
+Respecting the Rights of Vulnerable Groups Policy: This policy sets forth principles for protecting the most vulnerable individuals in our 
+supply chain and guiding our suppliers and partners to do the same. The policy includes specific expectations for prohibiting all forms of 
+forced labor and respecting the rights of vulnerable groups, including children, and those most vulnerable to forced labor risks. 
+• 
+Supplier Ethics Policy: Our Supplier Ethics Policy requires Cisco suppliers and their employees to conduct themselves with the highest 
+standards of honesty, fairness, and personal integrity. Suppliers must ensure that their employees, subcontractors, agents, and third 
+parties assigned to provide services or products to Cisco act consistently with this policy. This policy also is incorporated within standard 
+terms and conditions for Cisco’s global affiliates that supply Cisco’s products and Cisco’s indirect procurement suppliers. Furthermore, 
+suppliers acknowledge and commit to the Supplier Code of Conduct when they agree to the Supplier Ethics Policy.  
+• 
+Juvenile Labor Policy and Expectations: Our Juvenile Labor Policy and Expectations require suppliers to uphold the human rights of 
+children, juvenile or young workers, students, interns, and apprentices. Our policy and due diligence are informed by international 
+standards such as the ILO-IOE Child Labor Guidance for Business. Pursuant to the policy, Cisco suppliers must have procedures that 
+facilitate the immediate remediation and protection of the well-being of children, in case they are found working onsite. Cisco’s priority 
+is to help ensure that any solution must improve the child’s situation and that the child is not made more vulnerable to abuse. Cisco 
+further commits to uphold the eight ILO Core Conventions, including Conventions 132 and 182 on the Worst Forms of Child Labour 
+(1999) and Convention 138 on Minimum Age (1973). 
+• 
+Responsible Minerals Policy: Cisco’s Responsible Mineral Policy aligns with our long-standing commitment to uphold and respect human 
+rights for all people, including those who work in our supply chain. Our goal is to work collaboratively through the supply chain to source 
+minerals consistent with our values around human rights. Pursuant to this policy, Cisco commits to conduct due diligence to identify and 
+mitigate risks in our supply chain for relevant minerals following the OECD Due Diligence Guidance for Responsible Supply Chains of 
+Minerals from Conflict-Affected and High-Risk Areas (CAHRAs), including all risks identified in Annex II of the OECD guidance which 
+include forced labor and the worst forms of child labor. Cisco requires our suppliers to maintain policies and programs to do the same. 
+ 
+Risks of Modern Slavery, Human Trafficking, and Child Labor 
+Cisco continually works to identify and mitigate potential human rights risks linked to our business. We conduct human rights due diligence and 
+human rights impact assessments in our own operations and across our value chain to identify, prevent, mitigate, and work to address human 
+rights risks. Based on our ongoing human rights due diligence, we have determined that the risk of modern slavery, human trafficking, and child 
+labor occurring is likely to be highest in our supply chain. These risks are likely to be lower in our own operations.  
+Due to the extensive nature of our materials supply chain network, business is conducted with suppliers in a variety of global contexts, including in 
+countries where local law may not exist or may not be enforced effectively to protect populations vulnerable to forced labor, child labor or human 
+trafficking risks. Due to constraints in local labor markets, suppliers may deploy workforce strategies to recruit foreign or domestic migrant 
+workers using labor recruitment agencies. As a result, workers could potentially be subject to conditions that may contribute to forced labor such 
+as debt bondage, by paying excessive recruitment fees; passport withholding; a lack of transparency of terms and conditions in their contracts if 
+those contracts are not in their own language or are not fully explained before they commence employment; and lack of legal protections in the 
+countries where they work or from where they migrated. While child labor is less likely in the electronics sector than other sectors, suppliers may 
+recruit young workers aged 15-18, students, interns, and apprentices to mitigate labor shortages. In addition, there are potential risks that these 
+workers could be conducting hazardous work that could harm their long-term health and well-being.  
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 4 of 10 
+Our supply chain network also includes a complex mineral supply chain. Like many companies in the electronics industry, our products contain 
+various minerals necessary for functionality. Cisco does not directly procure minerals from mines, or from the smelters or refiners that process 
+them. However, some mine operations can pose serious human rights risks, including forced labor, child labor and other risks for the workers and 
+communities at the beginning of the electronics supply chain.  
+In addition to outlining Cisco’s expectations for suppliers to uphold human rights through policy, Cisco undertakes a variety of actions to address 
+and mitigate these risks.  
+Cisco’s Actions 
+Cisco takes multiple approaches to help protect workers from forced labor, child labor, slavery and human trafficking in our own business and 
+materials supply chain. We publish detailed information about our program on our Purpose Reporting Hub, which is updated annually. We take 
+the following activities with our direct material suppliers: 
+● Verification: We evaluate and address risks of human trafficking and slavery through conformance to the Supplier Code of Conduct and 
+using a risk-based approach. When new suppliers are onboarded, Cisco assesses for modern slavery and child labor risks, which includes 
+an assessment of whether the supplier employs vulnerable workers (for example, foreign migrant workers and young workers). If risks are 
+identified, we follow up to determine if impacts need to be addressed prior to scaling business with the supplier. 
+For existing suppliers and supplier entities that are integrated through acquisitions, Cisco follows its standard programs and due diligence 
+processes, as follows: Cisco conducts an annual risk assessment by evaluating the supply base on social and environmental risk factors. 
+This evaluation includes indicators for forced labor, child labor, and human trafficking risks in addition to the potential presence of 
+vulnerable worker groups. The outputs of the risk assessment identify which suppliers we will ask to demonstrate their conformance to 
+the Code, using RBA’s assessment tools, such as the Supplier Self-Assessment Questionnaire (SAQ), Validated Audit Process (VAP), or its 
+equivalent. Cisco assesses the effectiveness of the risk assessment process and continuously works to improve the process, including an 
+annual review to maintain relevance to our operations with updated risk indicators, newly available data, and accounts for lessons learned 
+over the past year. We also regularly convene or attend teleconferences, trainings, webinars, and other meetings so that we may better 
+understand and monitor risks associated with labor recruitment practices.  
+● Audits: We conduct third-party supplier audits using the VAP, or its equivalent, or review audit reports through the RBA’s audit sharing 
+system and conduct unannounced audits as necessary. The audit process includes on-site inspections, document reviews, and worker and 
+management interviews. We report aggregated results of these audits in our Purpose Reporting Hub. 
+● Certification: Suppliers must agree to comply with the Supplier Code of Conduct as well as international standards and applicable laws 
+and regulations when they enter into master purchasing agreements or equivalent terms and conditions with Cisco. This creates legally 
+enforceable obligations, including in cases where the law is silent or allows practices that violate Cisco policies. We require suppliers to 
+acknowledge the Supplier Code of Conduct at the onset of the relationship.  
+● Accountability: Non-conformance with the Supplier Code of Conduct is taken very seriously. Cisco works with suppliers to develop 
+Corrective Action Plans (CAPs), identify the root cause of the non-conformance, and strives to ensure that corrective actions are 
+implemented in the shortest possible timeline. Corrective actions may include the immediate return of passports or facilitating 
+reimbursement of paid recruitment fees within 90 days of discovery. Corrective actions are followed by preventative actions to ensure 
+that non-conformances do not reoccur and to reduce future risk. Such actions may include ensuring the facility has a policy in place and 
+workers are aware of the policy, and that contracts are clear and in a language workers can understand. Multiple teams collaborate to 
+hold suppliers accountable and to help ensure actions are completed by specified deadlines. Cisco’s approach is to drive continuous 
+improvement with suppliers and engage them with short and long-term improvement plans, as needed. To help make lasting 
+improvements, Cisco will monitor and coach suppliers across multiple years, as is appropriate. 
+Cisco uses supplier scorecards to help measure and manage suppliers' conformance to Cisco's environmental and human rights 
+requirements. Scorecards factor into Cisco's supply chain business processes for sourcing and procurement decisions and are discussed 
+with suppliers during business reviews. Suppliers are scored on factors such as audit performance and closing nonconformances on time, 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 5 of 10 
+including nonconformances for the prohibition of forced labor or young workers. Having Environmental Social and Governance (ESG) 
+metrics alongside cost, quality, and service delivery allows managers to make informed decisions when awarding business to suppliers. 
+When Cisco’s standards are not met, we may disqualify the supplier from consideration for future business or terminate the supplier’s 
+relationship with Cisco. 
+Additionally, our Supply Chain ESG Committee is a committee comprised of senior members of management that helps assure progress 
+against our priorities, including forced labor due diligence. This committee establishes management oversight of human rights risks and 
+opportunities within the supply chain. The committee oversees the integration of human rights policies and priorities into business 
+operations and regularly reviews due diligence results including audit nonconformances, forced labor allegations, and minerals supply 
+chain risks. The committee convenes our Senior Vice President of Supply Chain Operations and other management representing Global 
+Manufacturing Operations, Global Supplier Management, Services and Logistics, Technology and Quality, Product and Component 
+Operations, Supply Chain Transformation, and Legal.  
+As well as conducting its own standard due diligence, Cisco investigates and addresses allegations brought to our attention from internal 
+and external channels, such as Cisco EthicsLine. Issues detected outside of the Verification and Audit processes outlined above are tracked 
+through our incident management system and assessed against our policies and commitments. We investigate further to assess the 
+validity of allegations, assess for human rights risks and impacts and determine the severity of the violation. If impacts have occurred, we 
+implement corrective actions that aim to stop the harm of workers and prevent future harm to workers according to the closure timelines 
+that we follow in our regular due diligence processes. When possible, we work to provide access to remedy.  
+Cisco EthicsLine is a publicly available multilingual ethics and business conduct reporting tool which allows anonymous reporting of 
+alleged illegal or unethical behavior. It is available 24 hours a day, seven days a week, worldwide. Cisco believes our employees, 
+customers, partners, suppliers, shareholders, and stakeholders have a responsibility to speak up promptly about any conduct or 
+circumstances they believe, in good faith, may constitute a violation of the Code of Business Conduct, the Supplier Code of Conduct, or 
+any other Cisco policy. Anyone can raise concerns if they become aware of possibly unlawful or unethical conduct or suspect there has 
+been a violation of Cisco’s Code of Business Conduct or any company policies. Information on accessing EthicsLines and the rules of 
+procedure are publicly available in written Cisco policies and on Cisco’s EthicsLine webpage. Issues are documented by a highly trained 
+impartial interview specialist and disseminated to appropriate Cisco management who will promptly address the matter as per the 
+publicly posted written rules of procedure. EthicsLine is available in more than 20 languages and interpreters are additionally available to 
+assist with the interview if deemed necessary by the caller. Cisco has a strict nonretaliation policy, meaning that employees who report 
+business conduct violations in good faith cannot be subject to any adverse employment action, including separation, demotion, 
+suspension, or loss of benefits because of the report. Cisco's Global Reporting and Anti-Retaliation Policy is on the Cisco website and 
+further details Cisco's protection of whistleblowers. Cisco respects the confidentiality of stakeholders who report business conduct 
+violations.  
+Furthermore, for our own employees, we require compliance with our COBC, and employees certify compliance annually. Our COBC 
+describes how to raise concerns, which are tracked at both regional and corporate levels. 
+● Training: Our strategy includes capacity strengthening for our suppliers and employees. We regularly engage suppliers across the globe 
+for training on Code fundamentals. This helps us build awareness, propagate best practices, and focus on continuous improvement. RBA 
+workshops and training content are mutually beneficial for Cisco and our suppliers, ensuring understanding of policies and standards, and 
+supporting the uptake of tools and resources for identifying, addressing, and mitigating risks. RBA’s Learning Academy provides online 
+trainings on a range of topics, including methods to combat trafficking and forced labor in the supply chain. As part of our audit process, 
+suppliers are directed to training resources related to an audit nonconformance and are expected to complete the training. When 
+appropriate, Cisco also collaborates with RBA members to conduct focused trainings with high-risk suppliers and share best practices. For 
+our own employees, our COBC training helps guide our employees to make ethical, professional, and respectful choices. Since FY2020, 
+Cisco has provided internal training about human rights issues that can be found in supply chains to raise awareness and educate 
+employees on how they can play a role in helping Cisco follow through on our human rights commitments. This training covers how to 
+interpret our policies on key issues such as forced labor and child labor, detect warning signs of risks such as forced labor and child labor, 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 6 of 10 
+how to report if they suspect violations of Cisco’s standards and policies, and how they can support work to help hold suppliers 
+accountable. These trainings are incorporated into Cisco’s internal Education Management System and are required to be taken every two 
+years by employees of Supply Chain Operations – which includes employees responsible for sourcing and procurement, supplier 
+management, planning, manufacturing, logistics, quality and other employees around the world who are most likely to encounter human 
+rights issues in day-to-day supply chain operations. 
+Cisco provides additional details and annual updates about our supplier engagement process and actions regarding forced labor, in our Purpose 
+Reporting Hub. 
+Actions taken during Fiscal Year 2024 
+In FY 2024, we launched a steering committee to embed human rights in Supply Chain Operations. Its charter is to integrate human rights into 
+business strategies and operations with the intent to reduce harm, prevent risks, and effect positive outcomes for workers. The committee is 
+comprised of senior leaders in Cisco’s Supply Chain and Human Rights functions with the necessary expertise and influence to set and drive the 
+strategy.  
+Each year, we audit suppliers to assess their conformance to the Supplier Code of Conduct and identify and address any gaps. Risks for child labor 
+are assessed under the Young Workers provision whereas risks to forced labor assessed under the Prohibition of Forced Labor provision to our 
+Supplier Code of Conduct. When nonconformances are identified, we address them according to the steps outlined in our Supplier Code of 
+Conduct and policies. This includes removing impacted workers from harm, addressing impacts, and remediating where applicable. 
+In FY 2024, Cisco did not observe cases of underage child labor (workers under the age of 15). Nonconformances with our Supplier Code of 
+Conduct that were identified included young workers not receiving legally mandated health checks and suppliers with incomplete policies and 
+procedures for managing interns and student workers. In these instances, we worked with our suppliers and opened Corrective Action Plans for 
+those nonconformances which are closed or on track to closure.  
+In FY 2024, audits continued to uncover nonconformances to our Supplier Code of Conduct for the Prohibition of Forced Labor in multiple tiers of 
+our supply chain, including manufacturing partners, components suppliers, and sub-tier. These nonconformances ranged in severity from Priority 
+to Major to Minor.   
+Most Major and Minor nonconformances to the prohibition of forced labor were related to workers paying small fees in the recruitment process, 
+such as one-time fees for health examinations, deposits, or transportation fees. These fees often amount to less than 5% of the worker’s monthly 
+salary. Some suppliers had the practice of reimbursing workers after commencement of employment, but this is still not in conformance to the 
+Code and our expectations. Our teams work with suppliers to implement employer payment of these fees directly, rather than reimbursing 
+workers.  
+Less often, we saw Priority level findings, some of which identified risks of bonded labor, a type of forced labor. Typically, this involved foreign 
+migrant workers who paid excessive recruitment fees equivalent to a month or more of their gross wages. It is strictly prohibited for workers to 
+pay these fees and there is a serious risk of workers becoming bonded by debt and forced to work to repay loans or excessive fees to labor 
+brokers.    
+When bonded labor issues are identified, we take steps to address them, which may include the following:   
+1. 
+Institute the Employer Pays Principle. This entails having suppliers develop policies and procedures to stop forced labor risks and stop 
+the fees being charged to workers. These supplier actions can include: instituting a “no fees” policy; instituting a due diligence process 
+for assessing labor brokers; amending agreements and contracts with labor brokers so that the employer pays all fees; or amending 
+workers’ contracts so that they are prohibited from paying fees. When policies are adjusted, workers should be trained and informed 
+about the "no fee" policies in a language they can understand. This training is also integrated into the recruitment process for future 
+workers. 
+2. 
+Conduct an RBA-approved third-party fees investigation. This deeper investigation assesses the scale and scope of impacted workers 
+who have paid fees amounting to more than one month’s salary. Workers are interviewed with a goal of identifying fees they paid along 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 7 of 10 
+their recruitment journey from the country of departure to the destination country of employment, recurring fees deducted from their 
+paychecks, or fees paid to other intermediaries or for travel. As a result, Cisco gains information on how many workers were impacted 
+and how much money they might have paid, and suppliers better understand how workers were affected through dialogues with them. 
+After the fee investigation, suppliers must submit a reimbursement plan to RBA for approval.  
+3. 
+Work with the supplier employer to reimburse. A direct outcome of the investigation is to calculate the total reimbursement to affected 
+workers, develop a plan to reimburse, and determine the actual cost of recruitment moving forward. Cisco helps suppliers develop and 
+implement the reimbursement plan in a timely manner and works to monitor the plan until all workers have been repaid. To ensure 
+mutual agreement on reimbursement amounts, Cisco’s standard operating procedure also involves asking suppliers to have workers 
+sign a letter acknowledging they understand why they’re being reimbursed, the amount, and that it includes all fees paid during the 
+recruitment process. Cisco reviews these signed letters alongside further supporting evidence of repayment such as pay slips and bank 
+transfer reports. While Cisco asks all suppliers to do this, not all suppliers are able to do so, such as in instances when they have already 
+completed the reimbursement by the time Cisco receives the case. In other cases, workers have already departed the supplier and Cisco 
+or the supplier are unable to locate all of these departed workers. Subsequent RBA audits validate that the affected workers were 
+adequately remediated.  
+During FY 2024, we pursued corrective actions for nonconformances identified in China, India, Malaysia, Singapore, Taiwan and Thailand, 
+including driving more than US$1.7 million in fee reimbursements to 2,290 workers across our direct and sub-tier suppliers for recruitment fees 
+occurring in Malaysia, Singapore and Taiwan. Meanwhile, 100% of forced labor Priority Nonconformances are closed or in progress of being 
+remediated. An overview of the number of RBA nonconformances found related to forced labor can be seen in our published audit data, including 
+geographic distribution. 
+Each year, we aim to continuously improve our due diligence processes based on what we have learned. Recently, forced labor risks have been 
+uncovered most commonly in assessments of new components suppliers, new facility locations, and extend our reach into our sub-tier suppliers 
+with whom we do not have direct contractual relationships. Accordingly, we have strengthened our due diligence during our new supplier and 
+new site onboarding processes and during acquisition integration processes. Through these processes, we identified forced labor risks at three 
+prospective supplier sites prior to production during FY24. By identifying, addressing, and remediating these risks ahead of launching or scaling 
+business with the supplier, we avoid contributing to harm of these workers.  
+We continue to work on increasing awareness of international expectations around human rights due diligence, forced labor due diligence, and 
+building the capabilities of suppliers to address these issues more broadly and deeper within the supply chain. This prevents risks in our own 
+supply chain and propagates international standards so that they are followed throughout the industry for the betterment of all electronics 
+workers.  
+We view collaboration with manufacturing partners as pivotal to our ability to address systemic issues, including forced labor, in the sub-tier 
+supply chain. In FY 2024, we partnered with manufacturing partners in Taiwan to train their suppliers on forced labor issues.  Thirty participants 
+from 19 suppliers attended Cisco-sponsored Forced Labor training sessions, 12 suppliers of which were sub-tier suppliers to Cisco. The two-day 
+training was focused on the RBA Code of Conduct expectations and RBA tools for forced labor due diligence, such as a Responsible Recruitment 
+Due Diligence Toolkit. Cisco is continuing this work to train our direct and sub-tier suppliers to identify, remediate, and prevent forced labor in 
+their recruitment and employment practices throughout fiscal 2025.   
+We frequently publish case studies about our work to address forced labor as part of our commitment to continuous improvement and with the 
+intent to share our learnings with others. See case studies here.   
+Sourcing Minerals Responsibly 
+To help address the human rights risks in our complex mineral supply chain, Cisco has implemented a comprehensive due diligence process. The 
+Cisco Responsible Minerals Program aligns to the Organisation for Economic Co-operation and Development (OECD) Due Diligence Guidance for 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 8 of 10 
+Responsible Supply Chains of Minerals from CAHRAs. Details about this program including due diligence strategy, efforts to hold suppliers 
+accountable, and results of our work can be found in our calendar year 2023 Conflict Minerals Report.   
+Commitment to Leadership Through Collaboration and Transparency  
+We are actively involved in advancing industry-wide responsible practices through our engagement in the RBA, a nonprofit alliance of leading 
+companies dedicated to respecting the rights and promoting well-being of workers and communities engaged in the global electronics supply 
+chain. Cisco is a founding member of the RBA and contributes to the development and periodic revision of the RBA Code of Conduct and 
+guidance. Cisco also participates in RBA’s Responsible Labor Initiative, a multi-stakeholder initiative focused on ensuring the rights of workers 
+vulnerable to forced labor in global supply chains are consistently respected and promoted. Since FY2023, Cisco has served on the RLI Steering 
+Committee which is responsible for the strategic guidance and direction of the RLI and reports to the RBA Board of Directors. Through our 
+participation, we aim to collaborate with peers to strengthen collective impact and drive solutions at scale to address forced labor risks in global 
+supply chains. 
+Cisco also participates in the Responsible Minerals Initiative (RMI) and leverages its tools and programs to advance responsible sourcing.  
+We are committed to transparently communicating our actions. For further information on Cisco’s work to maintain a socially responsible supply 
+chain, refer to our  Purpose Reporting Hub. 
+Assessing Cisco’s Effectiveness  
+Cisco has measures to assess the effectiveness of its actions including tracking the number of internal trainings on human rights in supply chains 
+that we have rolled out and the number of CAPs and preventative actions we have developed and implemented with our suppliers. We 
+communicate our program metrics in our Purpose Reporting Hub and also summarize these metrics in the chart below: 
+ 
+Initiative 
+Indicator 
+FY23 
+FY24 
+Supplier Code of Conduct 
+  
+ 
+ 
+RBA Initial Audits 
+# Conducted by supplier type - Manufacturing Partner Facilities 
+13 
+19 
+ 
+# Conducted by supplier type - Component Supplier Facilities 
+154 
+128 
+ 
+# Conducted by supplier type - Logistics Service Provider Facilities 
+2 
+0 
+ 
+# Conducted by supplier type – Sub-Tier Facilities 
+n/a* 
+16 
+ 
+% of manufacturing partner sites who maintained a valid audit 
+n/a* 
+100% 
+Workers covered by RBA Audits 8 
+# of workers covered - Male 
+217,209 
+238,638 
+ 
+# of workers covered - Female 
+229,473 
+251,273 
+ 
+# of workers covered - Foreign Migrant Workers 
+20,926 
+27,168 
+ 
+# of workers covered - Total 
+446,682 
+489,911 
+Supplier Corrective Action Plans (CAPs) Closure rate of Priority and Major nonconformances9 
+99% 
+99% 
+ 
+% of in-scope CAPs reviewed by Cisco 10 
+n/a* 
+100% 
+Prohibition of Forced Labor 
+Total Fee Reimbursements (US$) facilitated by Cisco  
+$2.2 million 
+$1.75 million 
+ 
+# of workers reimbursed at non-conformant supplier’s facilities  
+1,865 
+2,290 
+ 
+# of priority nonconformances identified for Prohibition of Forced Labor 13 
+7 
+ 
+8 The RBA is an industry standard scheme which allows suppliers of multiple customers to demonstrate conformance to a single responsible business conduct standard. Number of workers 
+represents the total supply chain workers in the entire supplier facility audited. 
+9 Excluding nonconformances for working hours and social insurance – read more here.  
+10 CAPs are opened for any audit that does not achieve all the following criteria: RBA Gold Recognition, full conformance with Prohibition of Forced Labor and Young Workers requirements 
+in the RBA Code, and No Major nonconformances to the rest of the Code. 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 9 of 10 
+ 
+% of Prohibition of Forced Labor Priority nonconformances11 closed or in 
+progress of being remediated 
+n/a* 
+100% 
+ 
+*# of supplier sites identified with forced labor risks prior to production n/a* 
+3 
+Internal Company Training  
+(Bi-annual) 
+% of Cisco Supply Chain Operations12 employees who completed human 
+rights training 
+n/a 
+100% 
+Supplier Training 
+# of attendees for RBA Code supplier training (newly onboarded 
+suppliers)13 
+More than 16 
+400 
+ 
+# of sites for RBA Code supplier training (newly onboarded suppliers) 
+13 
+128 
+ 
+# of attendees for Cisco next-tier supplier management training 
+58 
+197 
+ 
+# of sites for Cisco next-tier supplier management training 
+More than 36 
+91 
+ 
+# of supplier sites attended Forced Labor Training14 
+23 
+19 
+ 
+# of sub-tier suppliers attended Forced Labor Training 
+n/a* 
+12 
+Grievances 
+# of human rights concerns received/brought to our attention 
+2 
+4 
+ 
+*% of cases under investigation or closed 
+n/a* 
+100% 
+* new metric reported starting FY 2024 
+ 
+ 
+ 
+ 
+11 Forced labor nonconformances are those identified from RBA VAP Audits under Prohibition of Forced Labor. 
+12 The Cisco Supply Chain Operations organization includes employees responsible for sourcing and procurement, supplier management, planning, manufacturing, logistics, quality, and 
+more. 
+13 FY24 RBA Code training was provided to all suppliers to address Code 8.0 in effect January 2024; FY23 RBA Code training provided to newly onboarded suppliers 
+14 FY24 training provided by Responsible Business Alliance Responsible Labor Initiative; FY23 training provided by Work Better Innovations Forced Labor Education Project. 
+
+Public Statement 
+Cisco Public  
+ 
+ 
+ 
+ 
+ 
+© 2025 Cisco and/or its affiliates. All rights reserved. This document is Cisco Public Information.  
+Page 10 of 10 
+Approval and Signing  
+ 
+The Environmental, Social, and Public Policy Committee of the Board of Directors of Cisco Systems, Inc., which is our principal governing body, has 
+approved this modern slavery statement and has delegated authority to the Chief Legal Officer to sign this modern slavery statement on behalf of 
+the Board of Directors.  
+ 
+________________________________________ 
+Name: Dev Stahlkopf  
+Title: Executive Vice President, Chief Legal Officer 
+Date:  
+Approval and Signing for the Australian Modern Slavery Act 2018 (Cth) 
+ 
+Principal Governing Body Approval  
+ 
+This modern slavery statement was approved by the board of Cisco Systems Australia Pty Limited in their capacity as principal governing body of 
+Cisco Systems Australia Pty Limited as defined by the Australian Modern Slavery Act 2018 (Cth) on January 20, 2025.  
+ 
+Signature of Responsible Member  
+ 
+This modern slavery statement is signed by a responsible member of the board of Cisco Systems Australia Pty Limited as defined by the Australian 
+Modern Slavery Act 2018 (Cth).   
+ 
+________________________________________ 
+Name: Marcus Breaden 
+Title: Director, Cisco Systems Australia Pty Limited 
+Date:  
+ 
+Canadian Fighting Against Forced Labour and Child Labour in Supply Chains Act 
+ 
+Governing Body Approval  
+ 
+In accordance with the requirements of the Fighting Against Forced Labour and Child Labour in Supply Chains Act, and in particular Section 11(4) 
+thereof, this modern slavery statement was approved by the board of Cisco Systems Canada Co. in their capacity as governing body of Cisco 
+Systems Canada Co. on January 13, 2025 and the board of Accedian Networks Inc. in their capacity as governing body of Accedian Networks Inc. 
+on January 13, 2025 
+ 
+Signature of Board Member  
+ 
+This modern slavery statement is signed by a member of the board of Cisco Systems Canada Co.   
+ 
+________________________________________ 
+Name: Carol Deborah Chin   
+Title: Director, Cisco Systems Canada Co. 
+Date:  
+ 
+This modern slavery statement is signed by a member of the board of Accedian Networks Inc.    
+ 
+________________________________________ 
+Name: Carol Deborah Chin  
+Title: Director, Accedian Networks Inc.  
+Date:  
+Last Revision Date: January 2025, for Cisco’s fiscal year ended July 27, 2024
+22 January 2025
+22 January 2025
+23 January 2025
+23 January 2025
+
