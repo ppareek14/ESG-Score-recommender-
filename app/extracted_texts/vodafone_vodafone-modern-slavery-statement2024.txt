@@ -1,0 +1,610 @@
+Vodafone Group Plc
+Modern Slavery Statement 2023/24
+
+Introduction
+Vodafone’s purpose is to connect for a better future. 
+We aim to build an inclusive, sustainable and trusted 
+digital society where individuals and businesses 
+can thrive.
+Building a society where all individuals can thrive 
+includes our aim that everyone who works for 
+Vodafone – in any capacity, anywhere in the world – 
+should benefit from a working environment in which 
+their fundamental rights and freedoms are respected.
+Contents
+1
+Introduction
+2
+Our business and supply chain
+3
+Modern slavery risks
+7
+Evaluating our progress
+9
+Appendix
+Note:
+1.	 We use the definition of slavery from section 54(12) of the Modern Slavery Act 2015 
+(legislation.gov.uk)
+This Statement is published by Vodafone Group Plc (‘Vodafone’) and its 
+relevant subsidiaries (see page 9) and reports on what we do to prevent 
+slavery, servitude and forced, bonded or compulsory labour, human 
+trafficking, sexual exploitation and child labour (‘modern slavery’) both within 
+our own operations and our supply chain.1 This is our ninth Modern Slavery 
+Statement, issued to comply with section 54 of the UK Modern Slavery Act 
+2015, and relates to the financial year ended 31 March 2024.
+It can be found on Vodafone’s website  
+vodafone.com/sustainability-reports
+and on the UK Government registry  
+https://modern-slavery-statement-registry.service.gov.uk/
+search
+For further information, please refer to Vodafone’s annual 
+report vodafone.com/ar2024 and Vodafone’s ESG addendum: 
+investors.vodafone.com/esgaddendum.
+Risk
+Progress
+Appendix
+Our business 
+1
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+
+We are a leading pan-European and African 
+communications company transforming the way 
+our customers live and work through our innovation, 
+technology, connectivity, platforms, products 
+and services.
+Our business structure
+Whilst Vodafone Group Plc is incorporated and domiciled in England and 
+Wales, we operate mobile and fixed networks in 15 countries and have stakes 
+in a further six countries through our joint ventures and associates. We also 
+partner with mobile networks in 43 countries outside our footprint. We have 
+nearly 86,000 employees and nearly 7,000 contractors working globally.
+Following the announcement that we have entered into binding agreements 
+for the sale of 100% of Vodafone Spain and Vodafone Italy, this report has 
+been prepared on the basis that Vodafone Spain and Vodafone Italy are 
+now a discontinued operation and not included1.
+As of 31 March 2024, we provide mobile and fixed services to over 
+330 million customers in 15 countries and we have one of the world’s 
+largest Internet of Things (IoT) platforms with over 187 million IoT device 
+and platform connections. In Africa, our financial technology businesses 
+serve almost 79 million customers across seven countries – managing 
+more transactions than any other provider.
+We are not a mass-market manufacturer and do not directly own or 
+operate large factories or other production facilities, apart from a small 
+plant that assembles specialist automotive IoT components, based in Italy. 
+We do not own, operate or control the manufacturing operations that make 
+Vodafone-branded devices, nor do we handle raw materials or commodities.
+Vodafone Procurement Company and our shared services division Vodafone 
+Intelligent Solutions (VOIS) manage our external spend with suppliers and 
+provide services to Vodafone.
+This Statement covers the subsidiaries listed on page 8.
+Our business and supply chain
+Our governance structure
+Vodafone’s Chief External and Corporate Affairs Officer is a member of 
+the Executive Committee and oversees our approach to human rights. 
+Our Human Rights Manager is responsible for the human rights programme, 
+with the support of a cross-functional internal Human Rights Advisory Group 
+(HRAG) comprising senior leaders responsible for privacy, security, policy, 
+legal, diversity and inclusion and responsible sourcing. Each HRAG member 
+is responsible for implementing the relevant internal policies that align with 
+our Human Rights Policy and for collaborating with our operating companies 
+to integrate policy controls.
+We report on progress to our ESG and Reputation Committee – a subsidiary 
+body of the Executive Committee – where we also raise concerns regarding 
+how our or our business partners’ operations could result in a negative 
+human rights impact. We also have an ESG Committee as a principal 
+committee of the Vodafone Group Plc Board. The ESG Committee meets 
+three times per year (including a joint session with the Audit and Risk 
+Committee), to provide oversight of environmental, social and governance 
+(ESG) strategy, sustainability activities and responsible business practices.
+Vodafone’s Audit and Risk Committee oversees our systems of internal control, 
+risk management framework and compliance activities. The Committee is 
+composed entirely of independent Non-Executive Directors.
+Our supply chain
+We spend approximately €19 billion a year with around 8,000 direct 
+suppliers3. Our suppliers range from small businesses to large multinational 
+companies. We estimate that there are around 200,000 employees in our 
+supply chain. Our direct suppliers have many suppliers of their own, such 
+as electronics manufacturers, sub-assemblers, component and commodity 
+suppliers. The complexity and dynamic nature of our supply chain impacts 
+our ability to map the entire supply chain beyond our direct suppliers. 
+However, we know which regions our first-tier suppliers operate in, 
+the level of spend and category of procurement activity.
+The majority of our external spend is with large well-known global suppliers 
+that provide us with the devices we resell to our customers (for example: 
+mobile phones, tablets, routers, IoT devices and set-top boxes that connect 
+to our network,) and equipment and services we need for those devices 
+to connect and have access to our fixed and mobile networks where we 
+operate. The components and assembly required for devices and network 
+equipment are largely manufactured in Asia – a key focus area for Vodafone 
+and our industry in terms of modern slavery risks. Network equipment may 
+be installed, upgraded and/or maintained in the countries where we operate, 
+constituting a lower risk of modern slavery. This is because the work is highly 
+skilled, and we have oversight through our own local operating companies.
+The majority of our external spend is managed by our Vodafone 
+Procurement Company that is based in Luxembourg and _VOIS. This 
+centralised approach helps to ensure that we maintain a consistent approach 
+to supplier management across Vodafone, from on-boarding and vetting a 
+supplier, to raising orders and paying for delivered goods and services. This 
+not only makes it easier to monitor and improve supplier performance across 
+our markets, but also aims to ensure fair treatment of suppliers during the 
+competitive tender process.
+We also procure a wide variety of goods and services to support our general 
+business such as, cloud and software services and other categories needed 
+for our functions, including things like marketing, content, travel, professional 
+advisory support, facilities management, catering and cleaning, where our 
+risk focus is on procurement with a strong association to our brand. 
+Top ten tier one supplier sourcing countries 
+(headquarter location)2
+	– United States
+	– Germany
+	– United Kingdom
+	– South Korea
+	– China
+	– Sweden
+	– South Africa
+	– Ireland
+	– Turkey
+	– Finland
+Notes:
+1.	 For further information on continued and discontinued data points, please see the ESG Addendum at investors.vodafone.com/esgaddendum and our ESG Addendum methodology at investors.vodafone.com/esgmethodology
+2.	 Based on an analysis of over 90% of our global spend. Including discontinued operations, our top 10 Top ten tier one supplier sourcing countries (headquarter location) in 2023/24 were United States, Germany, United Kingdom, China, South Korea, Italy, Spain, Sweden, South Africa, France.
+3.	 The figure of 8,000 suppliers includes suppliers to our discontinued operations in Italy and Spain.
+Risk
+Progress
+Appendix
+Our business 
+2
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+Our business
+
+Modern slavery risks in our business
+An external risk review found that the risk of modern slavery in our direct 
+operations (including retail) is low, given the relatively high-skilled profile of 
+our direct hires, the nature of work conducted and the direct oversight by 
+our operating companies. Security and other checks (such as ‘right to work 
+checks’) required in the recruitment of our people also mitigate against 
+modern slavery risks. Our Talent Acquisition Policy includes specific 
+requirements on minimum age and checks to make sure candidates have 
+not paid a fee to get a job with Vodafone. Other business activities which are 
+outsourced and therefore potentially carry a higher risk – such as property 
+maintenance, logistics, warehousing and catering – are subject to our supply 
+chain due diligence processes, which seek to mitigate these risks.
+Modern slavery risks in our supply chain
+Our greatest areas of potential exposure to modern slavery remain 
+consistent and are linked to our procurement of manufactured electronic 
+products, as well as, where carried out in higher risk geographies, the 
+construction services for our mobile and fixed assets, maintenance and 
+support services at our offices, warehousing of products, and customer 
+support and telesales activities.
+The main risks in our supply chain that have either a direct or indirect 
+causal link to modern slavery and form part of our audit and verification 
+criteria are child labour, forced labour, health and safety, freedom 
+of association, discrimination, disciplinary practices, working hours, 
+wages and compensation and business ethics. Vodafone uses the same 
+criteria as the Joint Alliance for CSR (JAC) (read more about JAC in On-site 
+assessments, below).
+Modern slavery risks
+Identifying, assessing and managing modern slavery risks
+Due diligence in our supply chain
+We aim to identify modern slavery risks before we take on a new supplier 
+and monitor them for compliance against our Code of Ethical Purchasing 
+and Code of Conduct in the life of the contract, as below. We work 
+collaboratively with others in our sector to identify risks.
+Qualification process
+	– New suppliers must demonstrate policies and procedures that support 
+safe working, diversity in the workplace and climate commitments in their 
+tender through an ethical, labour and environmental risk questionnaire, 
+comprising up to 20% of the overall evaluation (5% on diversity and 
+inclusion, 5% on the environment and 10% on health and safety 
+where applicable).
+	– Our suppliers must sign up to our Code of Ethical Purchasing, 
+which includes explicit provisions related to modern slavery. They must 
+cascade the provisions (or their equivalent) to their own supply chains.
+Risk assessment
+	– Risk profiling is undertaken during the qualification process.
+Based on industry
+	– We review our supplier base and contact key suppliers to better 
+understand the risk. The information is fed into our supplier on-boarding 
+process to ensure that our areas of greatest potential exposure are 
+identified and assessed for risk.
+Based on country
+	– Depending on the category of what we are buying, we then also take 
+into consideration the country context risk.
+Screening for issues
+	– Vodafone’s Code of Ethical Purchasing requires that suppliers shall 
+immediately report to us any serious breaches of the Code and that 
+we will together agree a schedule for corrective action.
+	– We monitor our strategic suppliers through our Supplier Performance 
+Management programme, which requires suppliers to evidence whether 
+they have a responsible supply chain through an annual questionnaire.
+	– We review human rights allegations made against our direct suppliers to 
+assess the risk of their potential involvement in human rights violations.
+On-site assessments
+	– We are members of JAC. JAC is an association of telecommunications 
+operators established to improve ethical, labour and environmental 
+standards in the information and communication sector (ICT) supply 
+chain and undertakes regular audits of suppliers in ICT value chains. They 
+cover labour, health and safety, environmental, ethics and management 
+systems. Vodafone uses these assessments in addition to our own to 
+identify and manage risks in our supply chain (see evaluating our 
+progress section).
+	– In addition to formal assessments on specific supplier sites, we also 
+assess risks during other supplier assessments such as safety visits to 
+network sites and regular visits to manufacturing centres whereby any 
+observations that have cause for concern can be raised directly with 
+our experts in our procurement teams.
+Direct worker feedback
+	– Suppliers undergoing a JAC assessment are required to allow their 
+employees to complete an offsite worker survey using their mobile to 
+reply anonymously to pre-recorded questions in their local language 
+at any time and from any location.
+	– Findings that require action are incorporated into the relevant supplier’s 
+corrective action plan.
+Risk
+Progress
+Appendix
+Our business 
+3
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+Risk
+
+Capability building
+	– All Vodafone employees must complete our ‘Doing What’s Right’ 
+mandatory training course, which supports our Code of Conduct.
+	– We require everyone in our global supply chain organisation to 
+complete annual training on our Code of Ethical Purchasing.
+Improvement plans
+	– Direct strategic suppliers are required to submit responses to 
+Vodafone’s annual questionnaire with evidence related to their 
+compliance to Vodafone’s Code of Ethical Purchasing. Each supplier 
+is given a scorecard highlighting areas for improvement.
+Sharing best practices
+	– Vodafone is current Chair of the board of JAC.
+	– Vodafone participates in the UN Human Rights B-Tech Project Tech 
+Community of Practice.
+	– Vodafone participates in the Modern Slavery Working Group hosted by 
+the UN Global Compact Network UK.
+Recognition
+	– We consider suppliers for future contracts if they comply with our policies 
+and display behaviour in line with our Code of Conduct and Code 
+of Ethical Purchasing.
+	– Vodafone provides recognition awards for our outstanding suppliers.
+Consequences
+	– Vodafone’s suppliers operate under the ‘Vodafone Absolute Rules’ 
+underpinned by a zero-tolerance approach to unsafe behaviours in all 
+of our businesses. If a supplier breaches these rules, fails to improve and 
+continues to pose a grave threat to workers’ health and safety, Vodafone 
+will terminate their contract.
+Improvements to our due diligence process
+Vodafone has in place a system to assess key risks when on-boarding new 
+suppliers that we intend to work with. The system, called Supplier Assurance 
+Risk Management (SARM), uses a proprietary framework to identify suppliers 
+with risks that are material to Vodafone, related to money laundering, 
+bribery, conflict minerals, conflict of interest, corporate security, cyber 
+security, environment, health & safety, payment card industry, privacy, 
+product safety, responsible sourcing and sanctions and trade control. 
+Modern slavery risks are considered under ‘Responsible Sourcing’, where 
+we review suppliers of Vodafone branded products (such as branded 
+uniforms purchased by one of our businesses). In these cases, suppliers 
+are required to provide information related to our policy requirements, 
+of which we validate the following:
+	– Having policies related to child labour, disciplinary practices,  
+non-discrimination, forced labour, health and safety, managing  
+their own suppliers.
+	– If accommodation is provided by employers.
+	– Confirmation that fines are not used as a disciplinary measure.
+	– Permitting freedom of association.
+	– Having a defined process to pay their employees.
+	– Ensuring conditions of employment are communicated, which include 
+payment terms and working hours.
+We also assess the suppliers’ major manufacturing and/or major  
+sub-contractor locations and request evidence of an audit report 
+including declaring any legal violations during the last three years.
+The responses are reviewed by experts in our procurement organisation who 
+will evaluate the risk and if necessary, identify any remedial actions required 
+before on-boarding, which may include an on-site Vodafone or JAC audit, 
+or a review of any existing audit reports shared by the supplier.
+Modern slavery risks continued 
+Risk
+Our business 
+4
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+Appendix
+Progress
+Risk
+
+Modern slavery risks continued 
+Our policies and commitments to manage modern slavery risks
+Our policies are implemented in all our subsidiaries where we own more than 
+50% or have management control. Our Supplier Code of Ethical Purchasing 
+and Code of Conduct extend our commitments through our supply chain.
+We align with the United Nations Guiding Principles on Business and Human 
+Rights (UNGPs). This means we work to make sure our policies, governance 
+and due diligence processes take account of human rights risks so that we 
+can properly manage and mitigate them. We set out below our policies 
+which are relevant to preventing the risk of modern slavery in our 
+business and supply chain.
+Vodafone Group Policy
+Application 
+Relevance to modern slavery
+Code of Conduct 
+Available at: 
+vodafone.com/code-of-conduct
+	– Underpins all Vodafone’s activities.
+	– Extends to everyone working for and on behalf of Vodafone.
+	– Owned by Vodafone’s Chief Executive.
+	– Details what we expect from our suppliers and business partners in upholding the same 
+standards and to act ethically.
+	– Refers to our commitment to prevent complicity in human rights abuses.
+	– Refers to Vodafone’s policy against any form of child labour.
+Responsible Mineral Policy 
+Vodafone’s Responsible 
+Minerals Statement available at: 
+vodafone.com/responsibleminerals 
+	– Applies to all Vodafone employees, contractors and direct suppliers.
+	– Owned by the Chief Commercial Officer.
+	– Seeks to ensure that Vodafone’s use of relevant minerals (tin, tantalum, tungsten, gold and 
+cobalt) does not directly or indirectly finance conflict or benefit non-state armed groups.
+	– Recognises the risks associated with the sourcing of certain minerals used throughout 
+the global electronics industry.
+	– Strives to ensure that we do not contribute to or profit from conflict nor human rights abuses 
+related to the sourcing of these minerals.
+Fair Pay Principles 
+Available at:  
+vodafone.com/fair-pay
+	– Applies to all Vodafone employees.
+	– The principles are monitored annually and a local action plan for any required 
+adjustments is implemented accordingly.
+	– Owned by Group Reward within Group Human Resources.
+	– Covers competitive and fair pay to our employees. This applies to all employees regardless 
+of level, location or role.
+	– Strives to ensure a good standard of living for all employees.
+Human Rights Policy 
+Vodafone’s Human Rights Policy 
+Statement is available at:  
+vodafone.com/human-rights-policy-
+statement
+	– Applies to all Vodafone companies in which Vodafone Group holds an interest 
+of over 50% or has management control.
+	– The Statement was reviewed and approved by the Vodafone Group Executive 
+Committee and signed by our Chief Executive.
+	– Owned by the Vodafone Chief External and Corporate Affairs Officer and 
+overseen by the Group ESG and Reputation Committee
+	– Sets out the minimum requirements we observe to respect the rights of our customers, 
+colleagues, business partners and communities.
+	– Includes our commitment to the prevention of slavery and human trafficking.
+Risk
+Progress
+Appendix
+Our business 
+5
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+Risk
+
+Modern slavery risks continued 
+Vodafone Group Policy
+Application 
+Relevance to modern slavery
+Speak Up Policy 
+Available at:  
+vodafone.com/about-vodafone/how-
+we-operate/suppliers/supplier-ethics
+It can also be found in Vodafone’s 
+Code of Conduct:  
+vodafone.com/code-of-conduct (p8) 
+	– Applies to all Vodafone employees, contractors and direct suppliers.
+	– We have reviewed the Speak Up process against the requirements of the UNGPs.
+	– Owned by the Chief Human Resources Officer and overseen by the Group Risk and 
+Compliance Committee.
+	– Encourages everyone to report suspected breaches of our codes and policies, 
+via our anonymous external confidential reporting service.
+	– Speak Up operates a non-retaliatory policy; everyone who raises a concern in good 
+faith is treated fairly, regardless of the outcome of any subsequent investigation.
+	– Speak Up reports can relate to danger to the health and safety of employees or the 
+public, or potential abuses of human rights. If we decide to proceed with an investigation, 
+a qualified expert will investigate, keeping the person who raised the concern informed 
+throughout the process. Where reports made to Speak Up require remedial action, 
+this could include consequences at the individual level, or changes to internal 
+processes and procedures.
+	– Speak Up is made available to everyone working for Vodafone or our direct suppliers 
+and is communicated through our Code of Ethical Purchasing. It is available in local 
+languages, online and phone reporting. For suppliers that decide to maintain their own 
+grievance mechanisms, we require that they inform us of any grievances raised relating 
+to work done for Vodafone.
+Supplier Code of Ethical Purchasing 
+Available at:  
+vodafone.com/code-of-ethical-
+purchasing
+	– Every supplier must comply with the Code and cascade it to sub-suppliers.
+	– The Code was developed in consultation with employees, suppliers and NGOs.
+	– The policy owner is the CEO of Vodafone Procurement Company and Group  
+Supply Chain Director.
+The Code of Ethical Purchasing sets out our expectations of our suppliers and covers the 
+following International Labour Organization (ILO) indicators:
+	– Freedom of workers to terminate employment
+	– Freedom of movement
+	– Freedom of association
+	– Prohibits any threat of violence, harassment and intimidation
+	– Prohibits the use of worker-paid recruitment fees
+	– Prohibits compulsory overtime
+	– Prohibits child labour
+	– Prohibits discrimination
+	– Prohibits confiscation of workers’ original identification documents.
+Talent Acquisition Policy
+(internal policy, not public) 
+	– Applies to all markets, resourcing teams, external providers and any other outsourced 
+teams and HR business partners who are involved in resourcing at all bands/levels of  
+our business.
+	– Applies to all internal or external hiring.
+	– Owned by the Global Resourcing Centre of Excellence.
+	– Sets out the overarching principles and controls to be followed and applied in each of 
+our local operating companies to ensure that employee resourcing is conducted in a fair, 
+open and transparent manner.
+	– Aligns Vodafone’s resourcing processes so that all resourcing activity is of a high 
+standard, and that every candidate’s experience will be similar across Vodafone.
+	– Ensures that resourcing is not used as a mechanism for bribery or to induce 
+a business advantage.
+Risk
+Progress
+Appendix
+Our business 
+6
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+Risk
+
+Modern slavery is a hidden risk, making 
+the evaluation of progress complex. 
+To monitor and report on the 
+effectiveness of our policies and 
+procedures in managing modern 
+slavery risks in our supply chain, 
+we include yearly data from our work 
+with JAC. JAC reports on progress with 
+respect to third party factory audits of 
+common suppliers carried out on behalf 
+of all its members in its own reporting.
+Evaluating our progress
+Assessments
+Key performance indicator (KPI)
+Reason for KPI 
+2020-211
+2021-22
+2022-23
+2023-24
+Number of site assessments conducted 
+collectively by JAC members2 
+In collaboration with other JAC members, we investigate practices by 
+suppliers in the ICT supply chain that could result in modern slavery 
+conditions. 
+76
+71
+83
+150
+Number of sites where JAC have conducted 
+a confidential survey of supplier employees 
+via their personal mobile phones
+The increased provision of an anonymous, local language, confidential 
+survey will support greater transparency of specific worker concerns and 
+indicators that may point to potential modern slavery conditions.
+13
+17
+15
+13
+Vodafone own (non-JAC supplier audits)3
+We investigate practices by suppliers in our supply chain who do not fall 
+within the JAC remit.
+–
+–
+2
+4
+Notes:
+1.	 For data on previous years, please refer to Vodafone Group Sustainable Business Reporting Centre. vodafone.com/sustainability-reports
+2.	 JAC assessments are reported on a calendar year basis. For data on previous JAC reports, please refer to JAC’s Annual KPI Reports: https://jac-initiative.com/resources/#. In the calendar year 2023, Vodafone carried out five onsite audits as 
+part of our contribution and cooperation within JAC
+3.	 Vodafone’s own (non-JAC) assessment numbers were not reported before FY23.
+Vodafone findings and actions
+This year, we are reporting on findings and actions in audits performed by Vodafone (both as a JAC member and independently). This is a change from previous years, where we 
+reported the overall JAC data1.
+Key performance indicator (KPI) Reason for KPI 
+2020-212
+2021-22
+2022-23
+2023-24
+Number of issues found 
+related to forced labour3 
+By monitoring the number of issues identified, we can better adapt our policies and procedures.
+For example, if the numbers significantly decrease, we would investigate greater awareness-
+raising activities and improved grievance mechanisms to gain confidence that issues are not 
+going unreported. If the numbers significantly increase, we would review our due diligence 
+processes to gain confidence that such activity is investigated and eliminated.
+(20)
+(16)
+(14)
+4
+Number of remedial actions 
+taken in response to forced 
+labour issues identified
+By monitoring the number of remedial actions taken, we gain greater confidence that 
+corrective plans are being actioned and any activity is investigated and eliminated. 
+(20)
+(11)
+(5)
+4
+Number of reports to 
+Vodafone’s external Speak 
+Up hotline related to modern 
+slavery concerns4 
+By monitoring the number of issues identified, we can better adapt our policies and procedures.
+For example, if the numbers significantly decrease, we would investigate greater awareness-
+raising activities and improved grievance mechanisms to gain confidence that issues are not 
+going unreported. If the numbers significantly increase, we would review our due diligence 
+processes to gain confidence that such activity is investigated and eliminated. 
+–
+–
+–
+1
+Notes:
+1.	 Figures in parentheses () are as reported in the relevant year, which figures included overall JAC data. They are therefore not for comparison on a like-for-like basis with the current year’s data.
+2.	 For data on previous years, please refer to Vodafone Group Sustainable Business Reporting Centre. https://www.vodafone.com/about-vodafone/reporting-centre/sustainability-reports
+3.	 Vodafone’s JAC audits identified one incident relating to forced labour (an employment contract not including the working hours and compensation). In our separate supplier quality assessments, we found three issues related to working 
+hours across two suppliers and agreed upon remedial action. We will assess compliance in a subsequent re-audit.
+4.	 This case was an allegation of excessive overtime and low wages in relation to a supplier below tier 1 in Vodafone’s supply chain. It was investigated and found not to be substantiated. 
+Risk
+Progress
+Appendix
+Our business 
+7
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+Progress
+
+The Act requires all large UK businesses (with a turnover of £36 million or 
+more) to publish a modern slavery statement. The following UK-registered 
+entities, which are part of Vodafone, are covered by the content of 
+this Statement:
+	– Vodafone Group Services Limited (VGSL), including Vodafone Group Plc 
+– which supports our local operating companies;
+	– Vodafone Sales and Services Limited (VSSL) – which supports our 
+commercial, marketing and brand functions;
+	– Vodafone Limited (also known as Vodafone UK) – our local UK 
+operating company;
+	– Talkmobile Limited – our online-only UK mobile brand;
+	– Vodafone Global Enterprise Limited (VGEL) – which supports our 
+multinational customers;
+	– Vodafone Enterprise Global Limited (VEGL) – which provides off-footprint 
+services and support to multinational business customers; and
+	– Vodafone Global Network Limited (VGNL) – which is responsible for 
+carrier services globally, including ownership of subsea cables and 
+associated assets.
+The Boards of each of these entities have reviewed and approved 
+this Modern Slavery Statement and the CEO from each has signed the 
+Statement. Separately, this Statement has also been reviewed and approved 
+by the Vodafone Group Plc Board, as required, and has been signed on its 
+behalf by the Vodafone Group Chief Executive.
+Margherita Della Valle
+Chief Executive
+Vodafone Group Plc
+24 May 2024
+This Statement describes the activities that Vodafone 
+Group Plc has undertaken in the financial year 
+2023/24 to prevent modern slavery in our business 
+operations and supply chains. This Statement is 
+published by Vodafone Group Plc (‘Vodafone’) and 
+its relevant subsidiaries in compliance with the UK 
+Modern Slavery Act 2015.
+Appendix
+Risk
+Progress
+Appendix
+Our business 
+8
+Vodafone Group Plc   
+Modern Slavery Statement 2023/24 
+Appendix
+

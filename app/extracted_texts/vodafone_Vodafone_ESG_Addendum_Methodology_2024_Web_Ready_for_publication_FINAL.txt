@@ -1,0 +1,2921 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ESG Addendum Methodology 2024 
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+Contents 
+ 
+1 
+2 
+Reporting Criteria Scope 
+4 
+Assurance 
+7 
+Protecting our Planet 
+10 Scope 1 Methodology 
+10 Scope 2 Methodology 
+11 Scope 3 Methodology 
+18 Carbon Enablement 
+26 Energy 
+28 Waste and Water 
+28 Intensity metrics 
+28 Environmental Accreditations 
+29 Empowering People 
+29 Closing the digital divide 
+30 Financial Inclusion 
+31 Maintaining Trust 
+31 People 
+33 Diversity and Inclusion 
+33 Health and Safety 
+34 Responsible Supply Chain 
+34 Board & Executive Committee 
+34 Remuneration 
+35 Other information 
+35 GRI Index 
+35 UNGC 
+35 SFDR 
+36 Definitions 
+ 
+Our purpose 
+To connect for a better future we aim 
+to build an inclusive, sustainable and 
+trusted digital society 
+We address Environmental, Social  
+and Governance topics through our 
+Purpose strategy which focuses on 
+‘Empowering People’ and ‘Protecting 
+our Planet’ in the Digital Society.  
+This is underpinned by our 
+commitment to ‘Maintaining Trust’  
+in everything we do.  
+ 
+Read more about our climate goals and performance  
+in our latest Annual Report and ESG Addendum:  
+vodafone.com/sustainability-reports  
+ 
+ 
+ 
+ Protecting our 
+Planet  
+Read more on p. 7 
+ 
+ Empowering 
+People 
+Read more on p. 29 
+ 
+ Maintaining Trust 
+Read more on p. 31 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+2 
+Reporting Criteria Scope 
+This document outlines the basis of preparation for our ESG 
+performance indicators (‘KPI’s) which are available on 
+investors.vodafone.com/esgaddendum.  
+In preparing the ESG-related information and KPIs, Vodafone has 
+made a number of key judgements, estimations and 
+assumptions. The processes, methodologies and topics involved 
+are complex. The ESG data, models and methodologies used are 
+often relatively new, are rapidly evolving and are not of the same 
+standard as those available in the context of financial information, 
+nor are they subject to the same or equivalent disclosure 
+standards, historical reference points, comparable benchmarks, 
+or globally accepted accounting principles. It is not possible to 
+rely on historical data as a strong indicator of future trajectories, 
+in the case of climate change and its evolution. Outputs of 
+models and methodologies are also likely to be affected by 
+underlying data quality, which can be hard to assess, and we 
+expect industry guidance, standards, market practice and 
+regulations in this field to continue to evolve. We also face 
+challenges in relation to the ability to access data on a timely 
+basis and the lack of consistency and comparability between 
+data that is available. This means the ESG-related forward-looking 
+statements, information and targets discussed in our Annual 
+Report carry an additional degree of inherent risk and 
+uncertainty. 
+In light of uncertainty as to the nature of future policy and market 
+response to climate change and other ESG-related topics, 
+including between regions, and the effectiveness of any such 
+response, and as market practice and data quality and availability 
+develops, Vodafone may have to update the models and/or 
+methodologies it uses, or alter its approach to ESG analysis and 
+may be required to amend, update and recalculate its ESG 
+disclosures and assessments in the future, its ESG ambitions, 
+goals, commitments and/or targets or its evaluation of its 
+progress towards its ESG ambitions, goals, commitments and/or 
+targets. Restatements of ESG data may mean it is not 
+reconcilable or comparable year on year. 
+With the exception of the metrics outlined in the Assurance 
+section, the information contained within this document and our 
+ESG Addendum, collectively our ESG data, has not been 
+independently verified or assured. All the information included in 
+our ESG data has been taken from sources which we deem 
+reliable. While all reasonable care has been taken to ensure the 
+accuracy of the data, Vodafone has not arranged for independent 
+verification of the data with respect to its accuracy or 
+completeness. Further information on methodologies is included 
+in the reporting methodology sections of this document. 
+This report includes information on: 
+– Operating companies in the countries where we had 
+operational control during the year 1 April 2023 to 31 March 
+2024: Albania, Czech Republic, Germany, Greece, Ireland, 
+Italy, Portugal, Romania, Spain, Turkey, UK and Vodacom 
+Group and its subsidiaries in the DRC, Egypt, Lesotho, 
+Mozambique, South Africa and Tanzania; and 
+– Shared operations in Albania, Egypt, Hungary, India, Romania 
+and Spain known as Vodafone Intelligent Solutions (‘_VOIS’) 
+and other group operations including Vodafone Business and 
+Vodafone Automotive. 
+This report excludes information on the following unless 
+otherwise stated in the exceptions section below: 
+– Joint ventures where Vodafone does not have operational 
+control: VodafoneZiggo in the Netherlands, TPG Telecom in 
+Australia, Vodafone Idea in India and Vantage Towers and its 
+subsidiaries in Czech Republic, Germany, Greece, Ireland, 
+Portugal, Romania and Spain; 
+– Associates where we do not have operational control: 
+Safaricom in Kenya and Ethiopia, and Indus Towers in India; 
+– Partner Market networks in which Vodafone neither has any 
+equity interests nor holds an operating license, including 
+those Partner Markets that operate under the Vodafone 
+brand; 
+– Countries in which we are required to hold an operating 
+licence in order to provide local customer support to 
+multinational enterprise customers but where we neither 
+own nor operate any licensed telecommunications network 
+infrastructure; and 
+– Retail stores that are Vodafone-branded by way of franchise 
+and exclusive dealer arrangements but are not owned or 
+operated by Vodafone. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+3 
+Exceptions to the reporting scope: 
+– Our joint ventures and associates where we don’t have 
+operational control which are included in our Scope 3 GHG 
+emissions based on our ownership as at 31 March 2024; 
+– Retail stores where we don’t have operational control which 
+are included in our Scope 3 GHG emissions, 
+– M-Pesa customer numbers, which includes 100% of our 
+associate Safaricom in Kenya and Ethiopia; and 
+– V-hub unique user number and target, which include 100% 
+of our joint venture VodafoneZiggo in the Netherlands. 
+Portfolio changes 
+The inclusion or exclusion of data from subsidiaries, joint 
+ventures or associates that have been acquired or sold, or where 
+there is a change in control or ownership that results in a change 
+in operational control (as defined in the GHG Protocol), is 
+determined by the date that the transaction in question is 
+formally concluded with all approvals received.  
+The impact of transactions completed in the year ended 31 
+March 2023 are detailed in the methodology for each metric 
+in this document. 
+There have been no transactions completed during the year 
+ended 31 March 2024. The impact of transactions announced 
+but not yet completed are reflected as performance from 
+discontinued operations. When those transactions complete 
+we will restate our data in accordance with the above policy.  
+Under 'IFRS 5 - Non-current Assets Held for Sale and 
+Discontinued Operations' our operations in Italy and Spain have 
+been classified as discontinued operations and are reported as 
+such in our financial statements. All other Group activities are 
+reported as continuing operations. This disaggregation has also 
+been reflected in our ESG reporting across all reporting periods. 
+In a limited number of circumstances, data granularity was not 
+available to disaggregate the information relating to 
+discontinued operations. Where this is the case it is noted in 
+the ESG Addendum in relevant footnotes to the data. 
+Estimates and Assumptions 
+The reported information on our operations is based on actual 
+performance data for the period. Where actual data is not 
+available, we have used estimates or assumptions based on 
+actual trends. More information on these estimates or 
+assumptions is set out in the reporting methodology sections 
+for each metric. 
+Data 
+This document includes selected ESG data which should be 
+read alongside the full ESG dataset in our ESG Addendum. 
+ 
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+4 
+Assurance: Independent Limited Assurance 
+Report to Vodafone Group Plc 
+KPMG LLP (“KPMG” or “we”) were engaged by Vodafone Group 
+plc (“Vodafone”) to provide limited assurance over the Selected 
+Information described below for the year ended 31 March 2024. 
+Our conclusion  
+Based on the work we have performed and the evidence we have 
+obtained, nothing has come to our attention that causes us to 
+believe that the Selected Information has not been properly 
+prepared, in all material respects, in accordance with the 
+Reporting Criteria. 
+This conclusion is to be read in the context of the remainder of 
+this report, in particular the inherent limitations explained below 
+and this report’s intended use. 
+Selected Information  
+The scope of our work includes only the information included 
+within the External ESG Assurance table on page 55 of 
+Vodafone’s Annual Report and Accounts and in Vodafone’s ESG 
+Addendum marked with the symbol ^ (“the Report”) for the year 
+ended 31 March 2024 (“the Selected Information”) and also 
+listed in Appendix 1. 
+We have not performed any work, and do not express any 
+conclusion, over any other information that may be included in 
+the Report or displayed on Vodafone’s website for the current 
+period or for previous periods unless otherwise indicated. 
+Reporting Criteria  
+The Reporting Criteria we used to form our judgements is 
+the ESG Addendum Methodology as set out at 
+https://www.vodafone.com/about-vodafone/reporting-
+centre/sustainability-reports (“the Reporting Criteria”). 
+The Selected Information needs to be read together with 
+the Reporting Criteria. 
+Inherent limitations  
+The nature of non-financial information; the absence of a 
+significant body of established practice on which to draw; and 
+the methods and precision used to determine non-financial 
+information, allow for different, but acceptable evaluation and 
+measurement techniques and can result in materially different 
+measurements, affecting comparability between entities and 
+over time. The Reporting Criteria has been developed to 
+assist Vodafone in providing the Selected Information only. 
+As a result, the Selected Information may not be suitable for 
+another purpose.  
+Directors’ responsibilities 
+The Directors of Vodafone are responsible for:  
+– designing, operating and maintaining internal controls 
+relevant to the preparation and presentation of the Selected 
+Information that is free from material misstatement, whether 
+due to fraud or error;  
+– selecting and/or developing objective Reporting Criteria;  
+– measuring and reporting the Selected Information in 
+accordance with the Reporting Criteria; and  
+– the contents and statements contained within the Report and 
+the Reporting Criteria.  
+Our responsibilities  
+Our responsibility is to plan and perform our work to obtain 
+limited assurance about whether the Selected Information has 
+been properly prepared, in all material respects, in accordance 
+with the Reporting Criteria and to report to Vodafone in the form 
+of an independent limited assurance conclusion based on the 
+work performed and the evidence obtained.  
+Assurance standards applied  
+We conducted our work in accordance with International 
+Standard on Assurance Engagements (UK) 3000 Assurance 
+Engagements other than Audits or Reviews of Historical Financial 
+Information (“ISAE (UK) 3000”) issued by the Financial Reporting 
+Council and in respect of the greenhouse gas emissions 
+information included within the Selected Information, in 
+accordance with International Standard on Assurance 
+Engagements 3410 Assurance Engagements on Greenhouse 
+Gas Statements (“ISAE 3410”), issued by the International 
+Auditing and Assurance Standards Board. Those standards 
+require that we obtain sufficient, appropriate evidence on which 
+to base our conclusion. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+5 
+Independence, professional standards and 
+quality control  
+We comply with the Institute of Chartered Accountants in 
+England and Wales (“ICAEW”) Code of Ethics, which includes 
+independence, and other requirements founded on fundamental 
+principles of integrity, objectivity, professional competence and 
+due care, confidentiality and professional behaviour, that are at 
+least as demanding as the applicable provisions of the IESBA 
+Code of Ethics. The firm applies International Standard on Quality 
+Management 1 Quality Management for Firms that Perform 
+Audits or Reviews of Financial Statements, or Other Assurance or 
+Related Services Engagements which requires the firm to design, 
+implement and operate a system of quality management 
+including policies or procedures regarding compliance with 
+ethical requirements, professional standards and applicable 
+legal and regulatory requirements. 
+Summary of work performed  
+A limited assurance engagement involves planning and 
+performing procedures to obtain sufficient appropriate evidence 
+to obtain a meaningful level of assurance over the Selected 
+Information as a basis for our limited assurance conclusion. 
+Planning the engagement involves assessing whether the 
+Reporting Criteria are suitable for the purposes of our limited 
+assurance engagement. The procedures selected depend on our 
+judgement, on our understanding of the Selected Information 
+and other engagement circumstances, and our consideration of 
+areas where material misstatements are likely to arise.  
+The procedures performed included:  
+– conducting interviews with Vodafone’s management to 
+obtain an understanding of the key processes, systems and 
+controls in place over the preparation of the Selected 
+Information;  
+– selected limited substantive testing, including agreeing a 
+selection of the Selected Information to source 
+documentation;  
+– considering the appropriateness of the carbon conversion 
+factor calculations and other unit conversion factor 
+calculations used by reference to widely recognised and 
+established conversion factors;  
+– reperforming a selection of the calculations used to prepare 
+the Selected Information;  
+– performing analytical procedures over a selection of the 
+Selected Information, including a comparison to the prior 
+period having due regard to changes in the business; and  
+– reading the narrative accompanying the Selected Information 
+in the Report with regard to the Reporting Criteria, and for 
+consistency with our findings.  
+The work performed in a limited assurance engagement varies 
+in nature and timing from, and is less in extent than for, a 
+reasonable assurance engagement. Consequently, the level 
+of assurance obtained in a limited assurance engagement is 
+substantially lower than the assurance that would have 
+been obtained had a reasonable assurance engagement 
+been performed. 
+ 
+Our work did not include testing the accuracy of the purchase 
+volumes in Vodafone’s Supply Chain IT system and Devices 
+dataset, which were used in calculating Total Scope 3 GHG 
+emissions (million tonnes CO2e).  
+This report’s intended use  
+Our report has been prepared for Vodafone solely in 
+accordance with the terms of our engagement. We have 
+consented to the publication of our report in Vodafone’s ESG 
+Addendum for the purpose of Vodafone showing that it has 
+obtained an independent assurance report in connection with 
+the Selected Information. 
+Our report was designed to meet the agreed requirements 
+of Vodafone determined by Vodafone's needs at the time. 
+Our report should not therefore be regarded as suitable to be 
+used or relied on by any party wishing to acquire rights against us 
+other than Vodafone for any purpose or in any context. Any party 
+other than Vodafone who obtains access to our report or a copy 
+and chooses to rely on our report (or any part of it) will do so at its 
+own risk. To the fullest extent permitted by law, KPMG LLP will 
+accept no responsibility or liability in respect of our report to 
+any other party. 
+ 
+KPMG LLP  
+Chartered Accountants  
+15 Canada Square  
+London  
+E14 5GL  
+14 May 2024 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+6 
+Appendix 1 – Selected Information 
+The KPIs that constitutes the Selected Information are listed below. The information in this Appendix needs to be read together with the limited assurance report and the Reporting Criteria. 
+KPI 
+Unit 
+Assured Value 
+Total Scope 1 GHG emissions 
+Million tonnes CO2e 
+0.27 
+Total Scope 2 GHG emissions (location-based method) 
+Million tonnes CO2e 
+2.11 
+Total Scope 2 GHG emissions (market-based method) 
+Million tonnes CO2e 
+0.44 
+Total Scope 1 and Scope 2 GHG emission (location-based method) 
+Million tonnes CO2e 
+2.38 
+Total Scope 1 and Scope 2 GHG emissions (market-based method) 
+Million tonnes CO2e 
+0.71 
+Total Scope 3 GHG emissions 
+Million tonnes CO2e 
+6.84 
+Grid renewable electricity purchased (% of purchased electricity) (Group) from all operations 
+% 
+88 
+Women in management and senior leadership roles from all operations 
+% 
+36 
+Number of financial inclusion customers 
+Millions 
+66.2 
+4G population coverage (outdoor 1Mbps) – from all operations (Group) 
+% 
+87 
+Cumulative V-Hub unique users 
+Millions 
+6.4 
+With the exception of the metrics outlined above, the information contained within the ESG Addendum has not been independently verified or assured. All the information included within these pages, 
+including the metrics outlined in the table above has been taken from sources which we deem reliable. While all reasonable care has been taken to ensure the accuracy of the data, Vodafone has not 
+arranged for independent verification of the data with respect to its accuracy or completeness.  
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+7 
+Protecting our 
+planet 
+10 Scope 1 Methodology 
+10 Scope 2 Methodology 
+11 Scope 3 Methodology 
+18 Carbon Enablement 
+26 Energy 
+28 Waste and Water 
+28 Intensity metrics 
+28 Environmental Accreditations 
+Digital technology has a huge role to play in enabling the 
+climate transition; helping reduce carbon emissions and 
+underpinning climate adaptation technologies. 
+Recognising that technology can create its own impact 
+on our climate and nature, we strive to minimise the 
+environmental footprint of our operations, value chain 
+and products and services. 
+Reducing our environmental impact and helping to 
+decarbonise society is an integral part of Vodafone’s purpose. 
+This year, the need for a green digital transition became  
+ever-more urgent, as the global climate and energy 
+crises deepened. 
+We are working towards achieving reduction of our 
+greenhouse gas emissions to net zero by 2040 across our 
+global operations. We continue to drive energy efficiency in 
+our operations and seek to match our energy with electricity 
+from renewable sources. 
+Digital technology has been recognised as a key enabler of 
+carbon savings. We work with our business customers to build 
+solutions reduce greenhouse gas emissions and lower their 
+planetary impact.  
+As use of technology expands, we are playing our part in the 
+growing circular economy. We aim to minimise the impact of 
+the waste we create from our own operations and encourage 
+greater re-use, repair and recycling of the hardware our 
+customers use. 
+Greenhouse gas (‘GHG’) emissions 
+Reporting Criteria  
+GHG emissions are calculated in millions of tonnes of carbon 
+dioxide equivalent (million tonnes CO2e) and reported in 
+accordance with the GHG Protocol Standards, UK Streamlined 
+Energy and Carbon Reporting (‘SECR’) requirements, RE100 
+Technical Guidance and the Carbon Disclosure Standards 
+Board (‘CDSB’) framework. 
+We have applied the operational control approach for the 
+accounting of our GHG emissions and the scope of the data 
+collected is based on this method. This is defined as operations 
+where we have control over how energy is being used (and 
+therefore associated services). 
+Emissions from operations where we do not have operational 
+control but have a financial interest i.e. shareholding, or are 
+part of our wider value chain (e.g. suppliers) where we do 
+not have a financial interest, are accounted for within our 
+Scope 3 GHG emissions. 
+Standards and guidance 
+Our methodology for the reporting of GHG emissions has been 
+developed using the following standards and guidance: GHG 
+Protocol standards and guidance, including the Corporate 
+Standard (revised edition); Scope 2 Guidance and Scope 3 
+Calculation Guidance; and Corporate Value Chain (Scope 3) 
+Standard; RE100 Technical Criteria (December 2022); and The 
+Climate Disclosure Standards Board Climate Change Reporting 
+Framework (January 2022). 
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+8 
+Portfolio changes 
+We include performance data from newly acquired businesses at the 
+end of their first full year of new ownership in line with our policy on 
+reporting environmental data. In terms of setting a revised baseline 
+to reflect acquisitions, disposals or a change of control, our policy is 
+determined as follows: 
+– Acquisitions are built into the baseline using either actual or 
+estimated data at the end of their first full year of ownership 
+based on our assessment of operational control;  
+– Disposals are removed from the baseline in the year of disposal if 
+part of the Group for less than six months or in the following year 
+if part of the Group for more than six months; 
+– Where prior year data has been re-stated to correct any 
+significant errors identified this will be noted along with the 
+reason for re-statement; and 
+– Where there is an update to the calculation methodology that 
+causes a significant change in the previously stated data all prior 
+year information will be restated. 
+This year we have restated our GHG emissions across all prior periods 
+to our 2020 baseline to reflect: 
+– Disposals of Hungary and Ghana on 31 January 2023 and 20 
+February 2023 respectively; and 
+– The change in control of the Vantage Towers Group on 23 March 
+2023 from a subsidiary to a joint venture.  
+On 13 December 2022 ownership of Egypt was transferred to the 
+Vodacom Group. Comparative information has been re-presented to 
+reflect the move of Vodafone Egypt from the ‘Other markets’ 
+segment to the Africa segment from 1 April 2023.  
+Data gathering process and methods 
+Energy usage data is based on invoices from our energy 
+suppliers, which in some cases include the supplier’s estimated 
+readings. Increasingly, we measure our energy consumption 
+through smart metering, a technology that uses mobile 
+communications to collect real-time consumption data from 
+energy meters. Under this approach we have accounted for 
+100% of emissions from the operations over which we have 
+operational control within the Scope 1 and 2 footprints. 
+We report on data collected using local market actual or 
+estimates sourced from invoices, purchasing requisitions 
+or direct data measurements. Emissions from our joint 
+ventures and associates are accounted for within our  
+Scope 3 GHG emissions. 
+Where actual data is not available for the full reporting period, 
+data for the missing period is estimated using an appropriate 
+and reasonable estimation method (for example, extrapolation 
+using the year-to-date monthly average, or based on prior year 
+data for the corresponding time period). Due to a time lag in 
+the availability of actual data, the majority of GHG emissions 
+data has been estimated for the month of March 2024. If in our 
+future year reporting the reconciliation of estimated data 
+against actual data identifies a material error we will restate our 
+reporting in accordance with our policy for restatement. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+9 
+Emissions across our value chain1 
+Million tonnes CO2e 
+2020 
+2021 
+2022 
+2023 
+2024 
+Total Scope 1 emissions from continuing operations 
+0.26 
+0.26 
+0.25 
+0.25 
+0.26 
+Total Scope 2 emissions (market-based method) from continuing 
+operations 
+1.44 
+1.06 
+0.77 
+0.66 
+0.43 
+Total Scope 3 emissions from continuing operations1 
+5.05 
+6.01 
+6.91 
+6.92 
+6.07 
+Total Scope 1, 2 and 3 GHG emissions from continuing operations2 
+6.75 
+7.33 
+7.93 
+7.83 
+6.76 
+Total Scope 1 emissions from discontinued operations3 
+0.05 
+0.04 
+0.01 
+0.01 
+0.01 
+Total Scope 2 emissions (market-based method) from discontinued3 
+operations 
+0.13 
+0.00 
+0.00 
+0.00 
+0.01 
+Total Scope 3 emissions from discontinued operations1,3 
+1.13 
+1.01 
+1.12 
+0.89 
+0.77 
+Total Scope 1, 2 and 3 GHG emissions from discontinued 
+operations2, 3 
+1.31 
+1.05 
+1.13 
+0.90 
+0.79 
+Total Scope 1 emissions^ 
+0.30 
+0.30 
+0.27 
+0.26 
+0.27 
+Total Scope 2 emissions (market-based method)^ 
+1.58 
+1.06 
+0.77 
+0.66 
+0.44 
+Total Scope 3 emissions^1 
+6.17 
+7.02 
+8.02 
+7.80 
+6.84 
+Total Scope 1, 2 and 3 GHG emissions2  
+8.05 
+8.38 
+9.06 
+8.73 
+7.55 
+Total revenue from continuing operations (EUR million)4 
+ 
+ 
+ 
+ 
+36,717 
+Market-based scope 1, 2 and 3 GHG emissions intensity from 
+continuing operations (tonnes per EUR million)4 
+ 
+ 
+ 
+ 
+184.2 
+Notes: 
+^ 2024 Limited assurance under ISAE (UK) 3000 and ISAE 3410 by KPMG LLP, see our Methodology below for further information. The information for comparative periods has been restated to reflect portfolio changes. 
+For information about assurance in comparative periods see ESG Addendum investors.vodafone.com/esg for information on assurance for 2023 and 2022 respectively. 
+1. During the current year, information relating to 2020, 2021, 2022 and 2023 has been restated to reflect portfolio changes completed during FY23. See our ESG Addendum Methodology for more information on 
+'Portfolio changes'. 
+2. Operations in Italy and Spain have been classified as discontinued operations in line with 'IFRS 5 - Non-current Assets Held for Sale and Discontinued Operations'. All remaining operations are reported as continuing 
+operations. This disaggregation of information has been reflected in all comparative periods. 
+3. Includes data relating to our operations in Italy and Spain. 
+4. Information for prior periods is not presented as the organisational boundaries for financial reporting are not consistent with those used in the calculation of GHG emissions. For information about intensity metrics for 
+prior periods, see our FY23 ESG Addendum (investors.vodafone.com/esg). 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+10 
+Scope 1 GHG emissions 
+These are emissions from operations under our operational 
+control and include those from: 
+– Diesel, petrol and other fuel used by cars and commercial 
+vehicles owned by Vodafone or leased for six months or 
+more; 
+– Natural gas and other heating fuels used for space heating 
+and hot water in our premises; 
+– Diesel and petrol used for generators in off-grid areas, or 
+where back-up capacity is required; and 
+– Fugitive releases of refrigerants or fire suppressants used for 
+air-conditioning or fire control systems in network buildings 
+and offices. 
+Conversion factors from the UK government’s Department for 
+Business, Energy and Industrial Strategy have been used to 
+calculate GHG emissions from other fuel sources such as diesel, 
+petrol, natural gas and fuel oil as well as those from vehicles.  
+Scope 2 GHG emissions 
+These are emissions from electricity, heat, steam and cooling 
+purchased to power our networks, technology centres, offices 
+and retail stores. 
+We report two different Scope 2 emission values: one using a 
+‘market-based’ method and one using a ‘location-based’ method. 
+The market-based method applies if we have operating 
+companies in any countries where energy certificates or supplier-
+specific information are available. The method involves using an 
+emissions factor that is specific to the electricity purchased. The 
+location-based method involves using an average emissions 
+factor that relates to the grid on which energy consumption 
+occurs. This usually relates to a country-level electricity, and 
+where applicable district heating or cooling, emissions factor. 
+The following external factor sources have been used to 
+calculate our market-based emissions: 
+Local market1 
+Source 
+Date of factor 
+Albania 
+Supplier Factor 
+2022/23 
+Czech Republic 
+Supplier factor 
+2022/23 
+DRC 
+IEA 
+2022 
+Egypt 
+Supplier factor 
+2022/23 
+Germany 
+Supplier factor 
+2022/23 
+Greece 
+Supplier factor  
+2022/23 
+Ireland 
+Supplier factor 
+2022/23 
+Italy 
+Supplier factor2  
+2022/23 
+Lesotho 
+IEA (for Africa) 
+2022 
+Mozambique 
+IEA 
+2022 
+Portugal 
+Supplier factor  
+2022/23 
+Romania 
+Supplier factor 
+2022/23 
+South Africa 
+Supplier factor 
+2022 
+Spain 
+Supplier factor 
+2022/23 
+Tanzania 
+IEA 
+2022/23 
+Turkey 
+Supplier factor 
+2022/23 
+UK 
+Supplier factor 
+2022/23 
+Notes: 
+1. Relates to emissions for our operating companies, other factors are used for emissions from share 
+services or other operations.  
+2. The IEA factor is used for the calculation of market-based emissions from district cooling. 
+Market-based emissions 
+Emissions are calculated using a kWh to CO2e conversion factor 
+based on one of the following sources (in order of the GHG 
+Protocol hierarchy): 
+– Supplier conversion factors specific to our contract; these 
+include some markets where supplies are 100% renewable, 
+and where we have sought evidence of singularity of supply;  
+– Residual mix figures for 2022 – where the conversion factor 
+reflects the removal of certificates, contracts and supplier-
+specific factors claimed by other organisations; and 
+– Location-based conversion factors as described below. 
+Location-based emissions 
+Emissions are calculated using a kWh to CO2e conversion 
+factor provided in the 2023 International Energy Agency (‘IEA’) 
+emissions factor database which uses data for the 2022 calendar 
+year where available (2021 is used if not available). For the 
+calculation of emissions from district heating in Germany the 
+Department for Food and Rural Affairs (‘DEFRA’) emissions 
+factor is applied. 
+The emission factor for South Africa has been restated across all 
+reported periods to apply the factor provided by the state-owned 
+electricity provider to more accurately reflect the emissions. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+11 
+Renewable electricity 
+We consider grid electricity to be purchased from renewable 
+sources if the grid electricity used in our operation is matched 
+with renewable energy certificates (‘RECs’). RECs certify that 
+power has been generated and added to the grid from a 
+renewable source such as wind, solar or hydro. In addition, we 
+purchase a growing proportion of our electricity directly from 
+renewable generators through Power Purchase Agreements 
+(‘PPAs’). We also generate a small proportion of the electricity 
+we use ourselves, for example through rooftop solar panels. 
+In some of the European countries where we operate, markets 
+for purchasing renewable electricity (traceable using RECs) are 
+not available. We match electricity used in these countries with 
+RECs originating from grid-connected neighbouring markets. 
+This means that the electricity used by our network in Europe is 
+100% matched with renewable sources. 
+The European markets where we match the grid electricity we 
+use with RECs for the financial year ending 31 March 2024 are: 
+Albania, Belgium, Czech Republic, France, Germany, Greece, 
+Hungary, Ireland Italy, Luxembourg, the Netherlands, Portugal, 
+Romania, Spain and the United Kingdom. 
+Renewable electricity includes all renewable electricity from 
+third-party suppliers which is traceable to Vodafone through a 
+signed contract or provision of surrendered RECs. Renewable 
+electricity excludes RECs passed on and retired by a third party. 
+Scope 3 GHG emissions 
+The GHG Protocol Corporate Standard defines 15 categories of 
+Scope 3 emissions. All 15 categories have been assessed for 
+inclusion within our reporting, where categories are excluded 
+because there are no emissions, this is reviewed annually to 
+ensure it remains valid and as part of our continued efforts to 
+improve transparency and completeness of disclosure for our 
+total GHG emissions footprint. 
+We are committed to continual improvement in the quality 
+and completeness of our Scope 3 emissions data inventory. We 
+partner with carbon accounting specialists at The Carbon Trust to 
+model and calculate our annual Scope 3 emissions. The Carbon 
+Trust are experts in sustainability and carbon reporting who 
+support us in identifying improvements to the completeness and 
+accuracy of the input datasets and making improvements to 
+methodology in line with emerging industry best practice.  
+This year we have completed a review of our methodologies 
+resulting in restatement of our Scope 3 emissions for all reported 
+periods. This was undertaken to improve our data quality and 
+estimation approach alongside the need to reflect portfolio 
+changes and latest developments in industry standards and 
+emission factors.  
+The methodological changes made this year are considered to 
+be insignificant. 
+As the methodology for measuring Scope 3 GHG emissions is 
+still developing and industry standards may change, we will 
+continue to evolve our methodology, and this may result in in 
+a need to amend or update our disclosures and/or our ESG 
+ambitions, goals, commitments and/or targets or our 
+evaluation against these. 
+We calculate our emissions for upstream and downstream 
+transportation and distribution using a hybrid approach of  
+spend-based and product specific data, which does not 
+differentiate between upstream and downstream 
+transportation and distribution activities.  
+In 2022 we improved our calculation methodology to enable 
+emissions from capital goods and transportation and distribution 
+to be reported separately from purchased goods and services. 
+Prior to 2022, emissions from capital goods were included in the 
+data reported for purchased goods and services together with 
+emissions from all transportation and distribution. 
+The table below provides a breakdown of our Scope 3 emissions 
+alongside an overview of the methodology for our Scope 3 
+calculations. Where the UK Government Department for 
+Business, Energy and Industrial Strategy (‘BEIS’) emission factors 
+are referenced, these refer to the conversion factors for company 
+reporting of greenhouse gas emissions (published by BEIS in 
+June 2023).  
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+1. Purchased goods and 
+services 
+Emissions from the 
+extraction, production and 
+transportation of goods and 
+services purchased by 
+Vodafone (through 
+operating expenditure). 
+ 
+We use a hybrid approach to calculating Scope 3 category 1 emissions.  
+For the majority of purchased goods and services, we use a spend-based approach whereby our 
+procurement spend on each product category is multiplied by a corresponding environmentally 
+extended input-output (‘EEIO’) emission factor (drawn from third-party EEIO datasets). 
+For a sub-set of purchased goods, namely mobile phone devices that are purchased from original 
+manufacturers for retail to our customers, we use a product-specific approach, whereby the units of 
+product purchased are multiplied by a corresponding cradle-to-gate product carbon footprint (‘PCF’). 
+The PCF data is drawn from EcoRating datasets.  
+For a sub-set of purchased services procured from 20 service-based suppliers, we use a supplier-specific 
+approach whereby our procurement spend on each supplier is multiplied by the supplier’s organisational 
+carbon footprint intensity (market-based Scope 1 and 2 plus upstream Scope 3 emissions) in 
+tCO2e/mUSD, as disclosed through publicly available 2023 Climate Disclosure Project (‘CDP’) disclosures. 
+ 
+Changes made to the methodology this year include: 
+– Further improvements to the mapping of EcoRating PCF data 
+(to mobile handset models based on storage capacity and 
+handset type e.g. smart or feature phone) applied to calculate 
+emissions using the product-specific approach; 
+– Increased the number of suppliers where CDP disclosure data 
+has been used; and;  
+– Recategorisation of spend data from Category 1 to Category 8 
+where the spend item relates to upstream leased assets.. 
+2. Capital Goods 
+Emissions from the 
+extraction, production and 
+transportation of capital 
+goods purchased by 
+Vodafone (through capital 
+expenditure). 
+ 
+We use a spend-based approach to calculating the emissions for capital goods purchased. Capital 
+expenditure on each type of capital good is multiplied by a corresponding EEIO emission factor (drawn 
+from third-party EEIO datasets). 
+ 
+ 
+Changes made to the methodology this year include: 
+– Recategorisation of spend data from Category 2 to Category 8 
+where the spend relates to upstream leased assets. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+3. Fuel and energy-
+related activities 
+Emissions from the 
+extraction, production and 
+transportation of fuels and 
+energy purchased by 
+Vodafone and not already 
+included in Scopes 1 and 2. 
+It includes emissions from 
+electricity transmission and 
+distribution. 
+ 
+Upstream fuel and energy emissions are calculated by applying BEIS emission factors for upstream  
+well-to-tank (‘WTT’) and transmission and distribution (‘T&D’) emissions to Vodafone’s fuel and energy 
+consumption data. International Energy Agency (‘IEA’) emissions factors are applied for international 
+electricity consumption.  
+ 
+ 
+There were no significant changes to the methodology for this 
+category for this year. 
+4. Upstream 
+transportation and 
+distribution 
+Emissions from the 
+transportation and 
+distribution of products 
+purchased by Vodafone 
+between the manufacturing 
+location of our Tier 1 
+suppliers and our own 
+operations. 
+ 
+We use a hybrid approach to calculating Scope 3 category 4 emissions.  
+For mobile phone devices that are purchased from original manufacturers for retail to our customers, we 
+continued to use our original methodology for calculating these emissions. For these, we estimate the 
+weight of products purchased based on desk-based research and multiply this by the distance between 
+China (representing the origin location for the majority of our products) and the top five countries of 
+purchased goods (representing the market destination of the majority of our products). A modal split of 
+5% air freight and 95% shipping has been assumed and average BEIS emission factors for freight have 
+been applied to estimate emissions.  
+For all other goods purchased and sold, we estimate associated transportation and distribution emissions 
+using a spend-based approach. These estimates account for transportation and distribution irrespective of 
+whether it is upstream (category 4) or downstream (category 9). Therefore category 9 emissions are 
+accounted for within this category.  
+Where CDP data is used to calculate category 1 emissions we do not disaggregate emissions data relating 
+to transportation and distribution for those purchased services. The emissions from transportation and 
+distribution related to those services are therefore accounted for within our category 1 emissions.  
+ 
+There were no significant changes to the methodology for this 
+category for this year. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+5. Waste generated in 
+operations 
+Emissions from the disposal 
+and treatment of waste 
+generated by our activities. 
+ 
+Emissions are estimated by applying BEIS emission factors to tonnage of waste generated by our 
+operations across all of our operating companies (not including post-consumer waste from our products). 
+Where actual waste tonnage is not available, this is estimated by extrapolating a per full-time equivalent 
+(‘FTE’) employee waste tonnage estimate, based on actual tonnage data for our UK operating company.  
+ 
+ 
+There were no significant changes to the methodology for this 
+category for this year. 
+6. Business travel 
+Emissions from 
+transportation of 
+employees for business-
+related flights (air travel) 
+and business-related travel 
+by road and rail. 
+ 
+Air travel emissions are calculated based on the distance travelled multiplied by the air travel emission 
+factor for the corresponding ticket-class and flight length. Emission factors are drawn from the BEIS 
+emission factors. The emissions factors applied were drawn from BEIS, for domestic (UK internal), 
+international (non-UK), and long-haul and short-haul (to/from UK) flights. Data for the distance travelled 
+is extracted from the database of Vodafone’s third-party travel booking provider. Distance data is 
+included for both outward and return legs of all flights booked with an outward departure date within 
+the reporting period.  
+Rail travel emissions are calculated based on the distance travelled multiplied by a BEIS rail travel 
+emission factor. Other business travel emissions are calculated based on Vodafone’s spend (on road, bus 
+and taxi travel) as measured through our travel expenses system, multiplied by corresponding EEIO 
+conversion factors. 
+ 
+Changes made to the methodology this year include: 
+– Calculating hotel emissions based on number of nights stayed, 
+previously this was based on spend, multiplied by 
+corresponding EEIO or BEIS conversion factors. 
+7. Employee 
+commuting 
+Transportation of 
+employees between their 
+homes and worksites and 
+energy use from home 
+working during the 
+reporting year. 
+ 
+Emissions are estimated by multiplying the total number of employees (average FTE) per country by the 
+estimated average distance travelled per day, estimated number of working days per year, estimated days 
+working from the office and home per week, estimated proportion travelling by a particular mode of travel 
+and energy use at home, and BEIS emission factors.  
+ 
+Changes made to the methodology this year include: 
+– Inclusion of working from home emissions based on the hybrid 
+working policies in each of our operating companies. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+15 
+ 
+ 
+ 
+ 
+8. Upstream leased 
+assets 
+Operation of assets leased 
+by Vodafone, including 
+third-party network sites. 
+This includes the relevant 
+sites leased from tower 
+companies. 
+ 
+The most significant upstream leased assets in Vodafone’s value chain are radio base station sites leased 
+from third-party tower companies. At the majority of these leased sites, Vodafone owns and operates 
+radio equipment. The electricity consumed by equipment owned and operated by Vodafone falls within 
+our operational control boundary and is therefore accounted for in our Scope 2 emissions. The energy 
+consumption of ancillary equipment (or ‘passive’ equipment) at these leased sites, which is owned and 
+operated by the third-party landlord, is not within Vodafone’s operational control boundary, and therefore 
+contributes to Vodafone’s Scope 3 category 8 emissions. These emissions are estimated based on the 
+number of leased radio base station sites multiplied by the estimated average energy consumption of 
+passive equipment, multiplied by the location-based emissions factor corresponding to the location of 
+the site. The estimated average energy consumption of passive equipment is based on energy 
+consumption data (electricity and diesel) of passive equipment at radio base station sites owned and 
+operated by Vodafone.  
+ 
+Changes made to the methodology this year include: 
+– Recategorisation of spend data from Categories 1 and 2 to 
+Category 8 where the spend relates to upstream leased assets. 
+9. Downstream 
+transportation and 
+distribution 
+Transportation of sold 
+products from the point of 
+sale to the customer. 
+ 
+Where transportation of sold products is paid for by Vodafone (through the procurement of services from 
+third-party logistics suppliers), the corresponding emissions are accounted for within Scope 3 category 4. 
+On the basis that downstream transportation and distribution activities (which generally occur within 
+country) are not significant compared to upstream transportation and distribution activities (which 
+generally involve international freight), the emissions for this category have not been disaggregated 
+to account for downstream transportation and distribution separately from upstream transportation 
+and distribution.  
+Therefore, no emissions are reported against this category. 
+ 
+There were no changes to the reporting for this category for 
+this year. 
+10. Processing of sold 
+products 
+Downstream processing of 
+sold products (prior to use 
+phase). 
+ 
+Vodafone does not sell products that require further processing before use. Therefore, this category of 
+emissions is not relevant and no emissions are reported against this category. 
+ 
+There were no changes to the reporting for this category for 
+this year. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+ 
+11. Use of sold 
+products 
+Emissions from the use of 
+goods and services sold by 
+Vodafone, principally from 
+the energy used by network 
+equipment, such as routers, 
+and the energy required to 
+charge mobile devices. 
+ 
+These emissions include the emissions from electricity required to use electronic devices that Vodafone 
+sells, including mobile phone handsets, fixed line equipment (such as broadband routers) and other 
+electronic devices. Emissions are calculated based on the number of devices, multiplied by the estimated 
+average lifetime energy use of each device, multiplied by the location-based emissions factor in the 
+country of product sale. The estimated average lifetime energy use of mobile phone handsets is drawn 
+from EcoRating data sets, if available, or else from desk-based research of publicly available information 
+on the energy use of similar devices. For all other devices, use-phase electricity consumption is estimated 
+based on proxies for the average energy use of similar products (based on publicly available information). 
+These emissions do not include the emissions from the use of SIM cards sold by Vodafone, on the basis 
+that SIM cards can be used in a wide range of equipment with a wide range of electricity consumption and 
+do not themselves create emissions. 
+ 
+Changes made to the methodology this year include: 
+– Improved use-phase electricity consumption data based on 
+storage capacity of mobile handsets. 
+12. End-of-life 
+treatment of sold 
+products 
+Waste disposal and 
+treatment of products sold 
+by the reporting company 
+at the end of their life. 
+ 
+These emissions are calculated based on the estimated weight of products sold by end-of-life disposal 
+channel (based on average rate of waste electronic recycling versus landfill), multiplied by the 
+corresponding BEIS emission factor for each end-of-life channel. The average rate of waste electronic 
+recycling versus landfill is calculated using the average recycling rates in four of our markets (Germany, 
+UK, Italy, Spain), based on desk research of publicly available information.  
+ 
+There were no significant changes to the methodology for this 
+category for this year.    
+13. Downstream leased 
+assets 
+Emissions from the use of 
+products or equipment 
+leased to third parties. 
+ 
+No emissions have previously been reported against this category.  
+ 
+We have reported emissions from downstream leased assets for 
+the first time this year and in all reported periods. This is based on 
+the leased revenue reported in our financial statements. Emissions 
+are calculated using the number of leased assets, multiplied by 
+the lifetime electricity consumption and the corresponding IEA 
+emission factor. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+ 
+ 
+14. Franchises 
+Operation of franchises in 
+the reporting year, not 
+included in Scope 1 or 2. 
+ 
+Retail stores where Vodafone has operational control (including ability to specify the equipment installed 
+in the store and how it is operated, irrespective of whether the store is owned or leased by Vodafone) fall 
+within our operational control boundary and are therefore accounted for in our Scope 1 and 2 emissions. 
+Vodafone operates a franchise model in some of its markets, where retail stores are not under Vodafone’s 
+operational control, and where the energy required to operate the store is primarily determined by the 
+decisions of a third-party franchisee. These franchised retail stores fall outside Vodafone’s operational 
+boundary and are therefore accounted for in our Scope 3 emissions. These emissions are calculated by 
+multiplying average energy use per retail store (based on the average electricity and natural gas use in 
+retail stores in Germany) by the corresponding IEA and BEIS emission factors for that country, multiplied 
+by number of franchise retail stores in each market.  
+ 
+There were no significant changes to the methodology for this 
+category for this year.    
+15. Investments 
+Emissions from activities 
+financed by Vodafone 
+through investments in 
+joint ventures and 
+associates where Vodafone 
+has significant influence.  
+ 
+Emissions from joint ventures and associates are calculated based on Vodafone’s equity ownership and 
+the corresponding proportion of the company’s Scope 1 and 2 emissions. In FY24, these investments 
+included network operators in Australia, the Netherlands, India, Ethiopia, Kenya and infrastructure 
+partners in India.  
+The company’s carbon emissions are based on the latest available annual carbon footprint data, either 
+provided directly to Vodafone through engagement with the investee company, or from publicly 
+disclosed company carbon reporting for the latest available reporting year. A proportion of the total 
+annual Scope 1 and 2 emissions of the investee company is reported based on our equity share as at the 
+end of the reporting period. 
+Scope 3 emissions from investee companies are not currently included in this category as we have not 
+yet been able to determine the significance of the Scope 3 emissions to each investee company’s 
+total emissions. 
+ 
+There were no significant changes to the methodology for this 
+category for this year.    
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+18 
+Carbon enablement 
+Carbon enablement – GHG savings for customers enabled by our 
+green digital solutions 
+Over the last few years Vodafone has been estimating the 
+potential global carbon abatement impact of their products and 
+services with the support of The Carbon Trust, an external 
+consultant.  
+Carbon abatement, also known as enablement or avoided 
+emissions, is an estimated measurement of carbon savings 
+resulting from the use of products and services. It is specifically 
+the measurement of the avoidance or reduction of greenhouse 
+gas emissions that would otherwise have occurred had these 
+connections and services in these use cases not been in place.  
+An estimate of the carbon abatement impact for each use case is 
+calculated by multiplying product volume (e.g., number of IoT 
+connections) by a carbon abatement factor. 
+A use case is a proposition within Vodafone’s business customer 
+portfolio that has the potential to reduce carbon emissions (e.g., 
+Smart metering, Fleet management, Health-care monitoring). 
+Vodafone has been working with The Carbon Trust to define and 
+identify these use cases, develop methodologies and estimate 
+the associated carbon abatement impact by applying a carbon 
+factor to each use case. The Carbon Trust is a third-party expert in 
+the field of carbon measurement, and we rely on their expertise 
+to determine the carbon abatement potential of the use case. 
+The carbon abatement factor for each use case is mainly 
+informed by either an external study, an internal Vodafone study 
+or documented expert assumptions. For use cases where the 
+location of the connection is relevant to the carbon abatement 
+factor, a country-specific input is included (e.g., for Fleet 
+Management, the carbon abatement factor includes average 
+annual emissions for a car in the country where the connection is 
+located). For countries where insufficient data is available, proxies 
+or other assumptions have been substituted.  
+We strive to develop measures of carbon enablement through 
+collaboration with carbon experts and technology sector industry 
+peers. As the science of measuring carbon enablement develops, 
+we recognise ongoing limitations with our current approach, and 
+will continue to evolve our methodology to address them in light 
+of emerging industry standards. These limitations include: 
+– We measure carbon abatement on a gross estimate basis. 
+This means that the carbon emissions avoided are not net of 
+the lifecycle carbon emissions of the product or service itself.  
+– We do not account for any potential rebound effects. This 
+means we do not measure any possible emissions associated 
+with unintended changes of behaviour that could result from 
+the implementation of the products or services.  
+As the methodology for measuring carbon enablement 
+emissions is still developing and industry standards may change, 
+we will continue to evolve our methodology. This may result in a 
+need to amend or update our disclosures and/or our ESG 
+ambitions, goals, commitments and/or targets or our evaluation 
+of progress against these. 
+We do not claim to be solely attributable for the carbon 
+emissions avoided by the products and services we sell. Rather, 
+we calculate carbon abatement so that we can better understand 
+the potential scale of the carbon emissions that could be 
+avoided, as a measure of how Vodafone contributes to the 
+decarbonisation of society. 
+Our carbon enablement metric has not been externally assured 
+this year. Our carbon enablement target and metrics are 
+currently under review in light of evolving methodologies for 
+measuring the ‘net carbon impact’ of digital solutions. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+19 
+Fleet Management Solutions 
+Description 
+ 
+Carbon abatement mechanism 
+Cars 
+Average car: 117 
+kgCO2e/connection 
+Car fleet management is primarily used for satellite navigation and feedback on driver 
+behaviour. This includes fleet management systems which may be used for optimised 
+routing and avoiding congested areas, reducing fuel consumption, and telematics 
+systems, which can offer real time feedback to drivers. 
+ 
+The implementation of fleet management systems enables optimised routing and 
+dispatching of vehicles, improved driving behaviour and reduced fuel consumption 
+that leads to carbon reduction. Fuel savings per vehicle due to the fleet 
+management system are assumed to be 6% for cars and 5% (when adjusted to 
+eliminate potential double counting of avoided emissions associated with the 
+Connected Car use case, which is listed as a separate use case). 
+Heavy goods vehicles 
+(‘HGVs’) 
+Average HGV: 1,967 
+kgCO2e/connection 
+HGV fleet management is primarily used for satellite navigation and feedback on driver 
+behaviour. This includes fleet management systems which may be used for optimised 
+routing and avoiding congested areas, reducing fuel consumption, and telematics 
+systems, which can offer real time feedback to drivers. 
+ 
+The implementation of fleet management systems enables optimised routing and 
+dispatching of vehicles, improved driving behaviour and reduced fuel consumption 
+that leads to carbon reduction. Fuel savings per vehicle due to the fleet 
+management system are assumed to be 6% for HGVs. 
+Light goods vehicle 
+(‘LGVs’) 
+Average LGV: 282 
+kgCO2e/connection 
+LGV fleet management is primarily used for optimised delivery and dispatch routing, 
+fuel consumption tracking, and monitoring of driver performance. Fleet management 
+systems optimise delivery and dispatch routing, minimising unnecessary journeys, 
+while telematics systems can offer real time feedback to drivers. 
+ 
+The implementation of fleet management systems enables optimised routing and 
+dispatching of vehicles, improved driving behaviour and reduced fuel consumption 
+that leads to carbon reduction. Fuel savings per vehicle due to the fleet 
+management system are assumed to be 6% for LGVs. 
+Bus 
+Average bus: 2,443 
+kgCO2e/connection 
+Connected telematics system that consist of an in-vehicle unit (IVU) connected to a 
+central server. This feeds back real-time information on the global positioning system 
+(‘GPS’) location of the vehicle and may include other performance metrics such as fuel 
+consumption and driver performance. 
+ 
+Connected buses can communicate with traffic light systems to prioritise bus routes, 
+improving fuel efficiency. GPS location services can also be used to inform 
+passengers of bus arrival times. Both features can help to increase bus patronage 
+and improve emissions per passenger. Fuel savings per vehicle due to the fleet 
+management system are assumed to be 6% for buses. 
+Mixed vehicles 
+Average vehicle: 289 
+kgCO2e/connection 
+Fleet management is primarily used for satellite navigation and feedback on driver 
+behaviour. This includes fleet management systems which may be used for optimised 
+routing and avoiding congested areas, reducing fuel consumption, and telematics 
+systems, which can offer real time feedback to drivers. 
+ 
+The implementation of fleet management systems enables optimised routing and 
+dispatching of vehicles, improved driving behaviour and reduced fuel consumption 
+that leads to carbon reduction. Fuel savings per vehicle due to the fleet 
+management system are assumed to be 6% for mixed vehicles. 
+Vodafone Business 
+Fleet Analytics (‘VBFA’) 
+Global average: 220 
+kgCO2e/connection 
+VBFA gathers real-time operational data and actionable insights on fleet performance 
+to maximise vehicle performance, keep employees safe and manage routes with 
+connected intelligence and in doing so the solution reduces fuel consumption. 
+ 
+The implementation of fleet management systems enables optimised routing and 
+dispatching of vehicles, improved driving behaviour and reduced fuel consumption 
+that leads to carbon reduction. Fuel savings per vehicle due to the fleet 
+management system are assumed to be 4.6%. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+Electric Vehicle Solutions 
+ 
+Description 
+ 
+Carbon abatement mechanism 
+Electric vehicles (‘EV’) 
+charging points  
+Average EV private charging 
+point: 1,318 
+kgCO2e/connection 
+Average EV public charging 
+point: 6,865 
+kgCO2e/connection 
+Global average EV mixed 
+charging point: 3,653 
+kgCO2e/connection 
+ 
+IoT enabled EV charging points interact with electric vehicles or driver mobile apps to 
+direct drivers to the most appropriate EV charging point, giving drivers the confidence 
+to carry out more journeys in electric vehicles. 
+ 
+The use of an electric vehicle over a traditional fuelled vehicle has significant carbon 
+savings. It is assumed each electric vehicle journey provided by the charging point 
+replaces a car journey travelled in an average car with an internal combustion engine 
+(i.e. petrol or diesel). 
+Healthcare Solutions 
+ 
+Description 
+ 
+Carbon abatement mechanism 
+Smart health care – 
+remote patient 
+monitoring  
+Average remote patient 
+monitor: 264 
+kgCO2e/connection 
+ 
+Remote patient monitoring devices allow chronic or high-risk patients to be monitored 
+within their own home. This prevents excess journeys to and from hospital by both 
+patients and healthcare professionals, as well as freeing up hospital beds. 
+ 
+The emissions associated with hospital stays (based on average emissions of a 
+patient occupying a hospital bed per day) are avoided by allowing the patient to 
+remain at home. There are also the avoided emissions from not having to make the 
+car journey to and from the hospital. 
+Cold Chain Logistics  
+53 kgCO2e/connection 
+ 
+Real-time data from connected data loggers, ensure effective monitoring of the 
+refrigeration temperatures of medical supplies along the cold chain, which allows for 
+intervention to take place if temperatures fall below the optimum level.. 
+ 
+Optimised medical refrigeration monitoring, reduces wastage along the cold chain 
+because of real-time temperature tracking and intervention. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+21 
+Other Transport and  
+Logistics Solutions 
+ 
+Description 
+Carbon abatement mechanism 
+Satellite navigation  
+Global average: 241 
+kgCO2e/connection 
+ 
+Satellite navigation systems help drivers find the quickest route to their destination 
+and, increasingly, are also able to advise on avoiding congestion. 
+Savings from reduced mileage and avoided stop-start driving. Real-time traffic 
+information, enabled by IoT connections can deliver additional emission savings 
+over and above the baseline of a stand-alone satellite navigation system. Assumed 
+8% in fuel savings enabled by satellite navigation. 
+ 
+Smart bins 
+Global average: 5 
+kgCO2e/smart bin 
+ 
+Municipal waste bins are linked to a computer server by IoT connections and update 
+the server on a regular basis to relay information on how full the bins are, when the 
+bins are full sensors trigger the system to include that particular bin in a collection 
+round. 
+Smart bins allow optimised routing for the bin collections, which leads to reduced 
+number of trips for the same waste collection, resulting in reduced fuel usage. 
+Taxi computers 
+Global average: 473 
+kgCO2e/connection 
+ 
+A central taxi dispatch and control system is able to communicate electronically with 
+taxis and receive automatic updates on location of all taxis in a fleet, which allows for 
+optimised dispatch of taxis. 
+Savings in distance travelled enabled by optimised dispatch of taxis across the fleet. 
+Assumed 5% fuel savings per connection. 
+Usage-based car 
+insurance 
+Global average: 189 
+kgCO2e/connection 
+ 
+Usage based car insurance involves collecting data telematics from vehicles to 
+monitor how the vehicles are driven, offering feedback to the drivers for improvement 
+of safety, efficiency and best practice. 
+Carbon savings will be due to reduced fuel consumption from improved driver 
+behaviour as a result of feedback provided to the drivers, and the incentive for 
+reduced insurance premiums. There are also carbon savings due to reduced 
+number of accidents and the emissions associated with vehicle repairs. 
+Handheld terminals 
+Global average: 470 
+kgCO2e/connection 
+ 
+Handheld terminals are used in the route optimisation of delivery vehicles (LGVs). The 
+route optimisation solution allows the most fuel-efficient route to be used to deliver 
+the same service or number of deliveries. 
+Savings come from fuel efficiencies in shorter distances travelled due to the route 
+optimisation. Fuel savings per delivery vehicle assumed to be 10% while using 
+handheld terminals. 
+Connected car 
+Global average: 302 kg 
+CO2e/connection 
+ 
+Connected car technology enables over the air software updates, allowing remote and 
+immediate software updates (to correct issues). This helps reduce the need to call 
+back cars to the service partners. It also allows for dynamic routing to reduce travel 
+time and fuel/energy consumption. Remote monitoring reduces the change of 
+damage parts with new parts (reduces carbon footprint for producing new or spare 
+parts) and tyre management. Lastly, its start stop capability further reduces fuel 
+consumption while driving. 
+Savings from reduced mileage and excess fuel consumption. Assumed 12.1% in 
+fuel savings, this comes from a weighted average savings of cars pre and post 2019 
+as well as taking into consideration any potential double counting from fleet 
+management. The fuel savings per mechanism are: 3.3% for adaptive cruise control, 
+1.5% for tyre pressure monitoring, 8.7% from general connected car savings and 2% 
+from incremental telematics increases. 
+ 
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+22 
+ 
+Smart metering solutions 
+ 
+Description 
+ 
+Carbon abatement mechanism 
+Commercial 
+Global average: 1,798 
+kgCO2e/smart meter  
+ 
+IoT-enabled meters, which regularly record utility consumption (gas or electricity) and 
+communicate the information back to the energy or utility company to allow remote 
+reporting.  
+Commercial settings also often have multiple smart meters to isolate different areas of 
+consumption. Sub-meters and district heating are allocated under commercial smart 
+meters. 
+ 
+Smart meters in commercial property provide visibility to building managers as to 
+where and when an organisation is consuming energy. Smart meters have been 
+shown to lead to energy savings, as consumption can be better monitored and 
+optimised. The electricity and gas use avoided per commercial building with a smart 
+meter were assumed to be 16.8% (based on publicly available research of 
+commercial building metering).   
+Residential 
+Global average for 
+residential gas: 29 
+kgCO2e/connection 
+Global average for 
+residential electricity: 98 
+kgCO2e/ connection  
+Global average for 
+residential dual fuel 
+customers: 127 
+kgCO2e/connection  
+Global average for 
+residential mixed metering: 
+69 kgCO2e/connection 
+ 
+IoT-enabled meters, which regularly record utility consumption (electricity or gas) 
+and communicate the information back to the energy or utility company to allow 
+remote reporting.  
+ 
+Smart meters are seen as an important tool to reduce domestic utility consumption 
+and manage utility networks more efficiently. Many studies have demonstrated that 
+the installation of smart meters and associated initiatives have resulted in energy 
+consumption reductions. The electricity use avoided per residential home with a 
+smart meter were assumed to be 3.5%, and 3% for gas use (based on Vodafone 
+industry insights research).   
+Mixed metering 
+Global average range: 45-
+160 kgCO2e/connection  
+ 
+IoT-enabled meters, which regularly record utility consumption (gas and/or electricity) 
+and communicate the information back to the energy or utility company to allow 
+remote reporting. 
+Mixed metering includes mixed electricity and gas meters, mixed commercial and 
+residential electricity meters, and mixed commercial and residential gas meters. 
+ 
+Smart meters are seen as an important tool to reduce domestic utility consumption 
+and manage utility networks more efficiently. Many studies have demonstrated that 
+the installation of smart meters and associated initiatives have resulted in energy 
+consumption reductions. For customer with a relatively low level of consumption 
+but for which the metering type (residential or commercial) was not known, a mixed 
+metering abatement factor was applied representative of a weighted average of 
+emissions avoided from residential and commercial metering solutions). 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+23 
+ 
+Other green solutions 
+ 
+Description 
+ 
+Carbon abatement mechanism 
+Street lighting 
+Global average: 9 
+kgCO2e/connection 
+ 
+IoT enabled street lighting allows variable levels of lighting depending on the time of 
+day and the extent to which people are nearby. 
+ 
+The carbon saving is achieved through avoiding the use of streetlights when it is not 
+necessary. Lower levels of street lighting may be used in less busy areas. Emissions 
+avoided are from the reduced use of electricity. 
+Connected E-mobility 
+Global e-bike average: 162 
+kgCO2e/connection  
+Global e-scooter average: 
+187 kgCO2e/connection 
+Global mixed e-mobility 
+average: 167 
+kgCO2e/connection 
+ 
+IoT connection for electric scooters and electric bikes that are used instead of the 
+normal mix of transportation (car, public transport, walking etc.). 
+ 
+Vodafone provides IoT connections for e-vehicles such as e-scooters and e-bikes. 
+Avoided emissions arise from customers that opt to use electric vehicles instead of 
+using cars or some forms of public transport. The avoided emissions are calculated 
+based on the fuel use from the journey avoided using the alternative mode of 
+transport. 
+Connected solar panels 
+Global average: 18 
+kgCO2e/SIM 
+ 
+Solar panels connected through SIM cards. 
+ 
+The IoT-enabled network of solar panels communicate if there is a fault and can 
+raise alarm if the system crashes. Having the connected solar panels allows 
+technicians to remotely restart the system without having to travel to the solar park, 
+reducing truck roll. This results in the avoidance of emissions associated with the 
+saved fuel from not having to be at the solar park to restart the system. 
+Device Lifecycle 
+Management (‘DLM’) 
+Green 
+Global phone range: 20 – 
+44 kgCO2e/device  
+Global tablet range: 37 – 82 
+kgCO2e/device 
+ 
+The DLM Green scheme supplies and manages Vodafone’s customers with leased 
+mobile phones and tablets, which are refurbished and resold at the end of the lease. 
+The device leases range from 12-36 months. 
+ 
+The devices are refurbished and redistributed (or recycled) at the end of the lease 
+period. The devices’ lifespan is effectively extended. Avoided emissions are enabled 
+as the devices lifecycle emissions are spread over a greater period of time, and 
+through their redistribution as refurbished products, the production of a new device 
+(and associated lifecycle emissions from the extraction of raw materials, production 
+and manufacture, transportation and distribution etc.) is avoided. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+24 
+Other green solutions 
+ 
+Description 
+ 
+Carbon abatement mechanism 
+Software defined wide 
+area network (‘SD-
+WAN’)  
+Global average: 46 
+kgCO2e/site 
+ 
+Vodafone’s connectivity enables its customers to switch from traditional wide area 
+network (‘WAN’) to SD-WAN networks in their sites. The solution allows for optimised 
+logistics, reduced on-site equipment as well as remote management capabilities. 
+ 
+The switch and replacement of traditional WAN devices with Vodafone’s SD-WAN 
+cloud-based devices reduces the number of equipment and logistics. 
+Dematerialisation reduces the overall energy consumption of the SD-WAN solution 
+which translates to carbon savings. The remote management capabilities enabled 
+by the cloud-based network reduces the number of site visits required per year. 
+Reduced travel to and from the sites leads to reduced fuel consumption. 
+Software defined local 
+area network (‘SD-
+LAN’)  
+Global average: 239 
+kgCO2e/site 
+ 
+Vodafone’s connectivity enables its customers to switch from traditional LAN to SD 
+LAN networks in their sites. 
+ 
+There is a reduction in on-site equipment for customers as traditional LAN controller 
+devices are replaced with a Cloud-based solution, in turn this results in a reduction in 
+energy consumption. 
+Water leak detection 
+742 kgCO2e/connection 
+ 
+Vodafone’s narrow-band IoT service enabled acoustic loggers (water sensors) allow for 
+real time data to be transmitted to a control room. Detected leaks can therefore be 
+rapidly responded to and repaired.   
+ 
+The annual reduction in leakage enabled by streamlined repairs saves water which 
+would have otherwise been lost from the network. There are carbon savings 
+associated with this retained water as less water needs to be processed each day 
+reducing the energy consumed daily.  
+Working from home 
+(avoided commuting) 
+Global average: 312 
+kgCO2e/license 
+ 
+Vodafone’s connectivity enables access to remote working and collaboration 
+platforms. Using these platforms, companies can allow employees to work from home, 
+avoiding or reducing the need to commute to and from their usual workplace. 
+ 
+This avoidance or reduction in commuting results in a decrease in transport related 
+fuel and energy consumption and its associated emissions. While commuting 
+patterns vary by country, the avoided travel emissions typically come from the 
+reduced fuel consumption of cars or trains. 
+Smart parking 
+15 kgCO2e/parking space 
+ 
+IoT enabled smart parking spaces with sensors identify free spaces for users and 
+provide routing options. This optimises parking operations and reduces the time and 
+fuel consumption wasted searching for parking, leading to a reduction in emissions. 
+ 
+IoT enabled smart parking spaces with sensors lead to carbon savings by reducing 
+the time spent by vehicles searching for parking spaces and therefore lead to 
+reduced fuel consumption and reduced emissions. 
+Cloud & hosting – 
+Vodafone data centres 
+United Kingdom: 56 
+kgCO2e/VM  
+ 
+Vodafone provides shared centralised data centre hosting services through the data 
+centres they own and manage. 
+ 
+The carbon savings are due to efficiencies of operation within a dedicated managed 
+data centre environment, compared to on premises computing facilities. This being 
+primarily from increased utilisation of servers through virtualisation, and improved 
+power usage effectiveness (PUE). This results in a reduction in electricity use per 
+data server, and associated reduction in emissions. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+25 
+Other green solutions 
+ 
+Description 
+ 
+Carbon abatement mechanism 
+Germany: 35 kgCO2e/VM  
+Ireland: 27 kgCO2e/VM 
+Cloud & hosting – 
+Equinix data centres 
+60 kgCO2e/VM 
+ 
+Equinix provides shared centralised data centre hosting services that Vodafone 
+customers are transferred to. 
+ 
+The carbon savings are due to efficiencies of operation within a dedicated managed 
+data centre environment, compared to on premises computing facilities. This being 
+primarily from increased utilisation of servers through virtualisation, and improved 
+PUE. 
+Cloud & hosting – 
+colocation  
+United Kingdom: 381,004 
+kgCO2e/MW 
+Germany: 304,020 
+kgCO2e/MW  
+Ireland: 219,898 
+kgCO2e/MW 
+ 
+Vodafone offers a shared datacentre for customers to use that has a lower power usage 
+effectiveness (‘PUE’) than on-site server use.  
+ 
+Carbon emissions are avoided through Vodafone’s more energy efficient colocation 
+solution, reducing electricity consumption compared to the average regional energy 
+efficiency of datacentres. The savings are due to Vodafone’s improved PUE. This 
+results in a reduction in electricity use per square metre area of utilisation in the data 
+centre, and associated reduction in emissions. 
+Call conferencing  
+0.15 kgCO2e/minute 
+ 
+Call conferencing technology allows companies to conduct business remotely through 
+call conferencing, from 2024 this includes International Voice data. 
+ 
+Call conferencing enables carbon savings through the reduction of emissions from 
+travel for business purposes. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+26 
+Energy use 
+Improving energy efficiency continued to be a strategic priority for Vodafone, to control both energy 
+costs and GHG emissions. Energy use by our mobile access network, fixed-line network and 
+technology centres accounted for 93% of our total global energy consumption across all 
+operations. Energy efficiencies were achieved through a wide range of initiatives including 
+modernisation of legacy equipment with new generation and highly efficient network equipment, 
+new software functionality that reduces energy consumption in low-load conditions, improving 
+energy efficiency in our data centres, digital solutions for energy optimisation, and rationalisation of 
+our properties. 
+Energy Sources 
+GWh 
+2020 
+2021 
+2022 
+2023 
+2024 
+Totall energy coonsumption from continuing operations1 
+4,995 
+4,991 
+4,926 
+5,052 
+5,217 
+Renewable energy consumption from continuing operations1 
+430 
+1,620 
+2,759 
+3,083 
+3,504 
+Non-renewable energy consumption from continuing operations2 
+4,565 
+3,371 
+2,168 
+1,969 
+1,713 
+Totall energy coonsumption from discontinued operations 
+1,343 
+1,343 
+1,358 
+1,431 
+1,392 
+Renewable energy consumption from continuing operations1 
+796 
+1,308 
+1,316 
+1,378 
+1,357 
+Non-renewable energy consumption from discontinued operations 
+547 
+35 
+43 
+53 
+35 
+Totall energy coonsumption from all operations 
+6,338 
+6,334 
+6,284 
+6,484 
+6,609 
+Renewable energy consumption from all operations1 
+1,226 
+2,928 
+4,074 
+4,461 
+4,860 
+Non-renewable energy consumption from all operations 
+5,111 
+3,406 
+2,210 
+2,022 
+1,748 
+Notes: 
+1. Renewable transport includes only renewable electricity from charging points at office locations used to charge electric vehicles. It excludes any biofuel 
+content in diesel or petrol vehicle fuel which is included in the non-renewable transport category. 
+2. Previously reported information has been restated to remove the estimate for electricity generated from stationary diesel and petrol generators using a 
+conversion efficiency factor.  
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+27 
+Renewable energy 
+The majority of the energy we use in our operations comes from purchased grid electricity. Our 
+network also uses electricity generated by stationary generators, which are mostly powered by fossil 
+fuels (diesel or petrol). Our fleet of vehicles is fuelled by a mix of diesel, petrol and, increasingly, 
+purchased electricity. This year, we continued our efforts to phase out fossil fuels from our 
+operations in favour of renewable energy sources. 
+Renewable energy1 
+Percentage (%) 
+2020 
+2021 
+2022 
+2023 
+2024 
+Renewable grid electricity purchased (% of purchased electricity) (Europe) 
+from all operations 
+33% 
+78% 
+96% 
+100% 
+100% 
+Renewable grid electricity purchased (% of purchased electricity) (Europe) 
+from continuing operations 
+18% 
+66% 
+93% 
+100% 
+100% 
+Renewable grid electricity purchased (% of purchased electricity) (Europe) 
+from discontinued operations2 
+62% 
+100% 
+100% 
+100% 
+100% 
+Renewable grid electricity purchased (% of purchased electricity) 
+(Group) from all operations^ 
+23% 
+54% 
+77% 
+81% 
+88% 
+Renewable energy (% of total energy consumption)3 
+19% 
+46% 
+65% 
+69% 
+74% 
+Notes: 
+^  2024 Assured by KPMG LLP, see our ESG Addendum Methodology for further information. The information for comparative periods has been restated to reflect 
+portfolio changes. For information about assurance in comparative periods see ESG Addendum investors.vodafone.com/esg for information on assurance for 
+2023 and 2022 respectively. 
+1. During the current year, information relating to 2020, 2021, 2022 and 2023 has been restated to reflect portfolio changes completed during FY23. See our ESG 
+Addendum Methodology for more information on 'Portfolio changes'. 
+2. Includes data relating to our operations in Italy and Spain. 
+3. Includes all energy from electricity and fuels. 
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+28 
+Waste and Water 
+Our goal is to reuse, resell or recycle 100% of our network waste 
+by 2025. We consistently seek to manage our own waste impact 
+in a responsible manner and support our customers with their 
+efforts. All of our operations are required to follow our global 
+waste policy, which includes minimum requirements on waste 
+measures and prioritises the reuse, resale or recycling of surplus 
+or obsolete network equipment. We aim to keep resources in 
+use for as long as possible and then recover and reuse 
+materials responsibly. 
+Waste Management  
+We report on the following waste generated from our network 
+operations, which includes used telecommunications equipment 
+and other waste equipment (including electrical and electronic 
+equipment). Network waste excludes waste from activities not 
+directly related to the operation of our network including waste 
+from passive network infrastructure or waste that requires 
+secure disposal. 
+Hazardous waste is excluded and reported separately. 
+Reuse is defined as the redeployment of used equipment from 
+our network in one operating company to a network in a different 
+operating company, or resale of used equipment for use by a 
+third party. 
+Recycling is defined as the process where authorised third parties 
+are contracted to recover certain materials from our network 
+waste for treatment or re-processing so they can be converted 
+into new materials or objects.  
+Disposed network waste refers to waste that cannot be reused or 
+recycled and is therefore sent to landfill or incineration via a 
+third-party waste management partner in line with our waste 
+management policy. 
+We report our network waste information excluding data relating 
+to reused batteries from reused network waste. 
+Devices 
+In accordance with our partnership with WWF we report on the 
+number of used mobile phones collected for refurbishment and 
+re-use recycling or donation of social causes. 
+Water usage 
+We report the total amount of water withdrawn from the 
+following sources in cubic metres (M3): 
+– Surface water; 
+– Ground water; 
+– Seawater; and 
+– Third party water. 
+We also report the total amount of water withdrawn in water-
+stressed countries, based on the World Resources Institute (‘WRI’) 
+Aqueduct database of water-stressed areas. 
+We report our water usage excluding bottled water and rainwater 
+collected. 
+Intensity Metrics 
+We report our carbon, energy and water intensity metrics which 
+enables us to measure our energy efficiency over time. These 
+metrics are calculated using the revenue figure reporting in our 
+consolidated financial statements. 
+Environmental Accreditations 
+We continue to implement international standards for energy 
+and environmental management systems across the Group to 
+improve the way we manage our energy use and 
+environmental impacts.  
+ISO 50001 is based on the management system model of 
+continuous improvement also used for other standards such as 
+ISO 9001 or ISO 14001. This makes it easier for organisations to 
+integrate energy management into their overall efforts to 
+improve quality and environmental management. It provides a 
+framework of requirements for organisations to develop a policy 
+for more efficient use of energy; fix targets and objectives to 
+meet the policy; use data to better understand and make 
+decisions about energy use; measure results; review how well 
+the policy works; and continually improve energy management. 
+ISO 14001 is a systematic framework to manage the immediate 
+and long-term environmental impacts of an organisation’s 
+products, services and processes to help organisations: minimise 
+their environmental footprint; diminish the risk of pollution 
+incidents; provide operational improvements; ensure compliance 
+with relevant environmental legislation; and develop their 
+business in a sustainable manner. 
+We report on our environmental accreditations using ISO140001 
+and ISO50001, using the accreditation scope defined by the 
+relevant accreditation body in each country. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+29 
+Empowering  
+people 
+29 Closing the digital divide 
+30 Financial Inclusion 
+ 
+Closing the digital divide 
+We believe everyone should fully benefit from the digital 
+society, regardless of who they are or where they live. However, 
+with a third of the world’s population still offline, a digital divide 
+between the connected and unconnected persists. We focus 
+on overcoming the main barriers to connectivity by increasing 
+network coverage, increasing access to smart devices, and 
+providing services aimed specifically at bringing more 
+women online. 
+4G population coverage 
+This KPI measures the proportion of the nationwide population 
+that is within range of a 4G mobile network with sufficient radio 
+signal strength in outdoor scenarios for a user’s mobile device 
+to remain connected to the network and be able to receive 
+downstream (from the Internet to the device) data at a 
+throughput rate of at least 1Mbps. 
+A data rate of at least 1Mbps is considered as the minimum 
+required for users to connect to the Internet for the purposes 
+of web-browsing, using online applications as well as to provide 
+a basic level of video streaming. 
+As the data rate on a mobile device is directly linked to the 
+radio signal strength it receives, we are able to calculate the 
+minimum signal strength required to support the minimum 
+threshold of 1Mbps. 
+We use radio planning tools to map out the population spread 
+and densities as well as terrain criteria by using 3rd party 
+databases containing this information for a specific country or 
+region. We use this tool to identify optimum locations to build a 
+new radio base station site as well as to optimise the existing 
+network to ensure our customers enjoy a reliable and 
+consistent data experience. 
+By mapping all our radio base station sites and their individual 
+technical characteristics such as antenna direction and radio 
+signal strength for example within the tool, we are able to 
+calculate the proportion of the population within a country or 
+geographic area who will typically obtain sufficient radio signal 
+strength for their device to maintain a downstream data rate of 
+at least 1Mbps. 
+On-net gigabit connections 
+We report the number of fixed access networks in Europe 
+where the Group owns and manages the active equipment 
+which is capable of downloading data at a rate of at least one 
+gigabit per second (1Gps). We use our inventory database of 
+fixed access networks to identify the number of gigabit capable 
+connections; industry standard DOCSIS 3.1 and Fibre to the 
+Premise (FTTP). 
+5G availability 
+We report the number of countries where the Group provides a 
+commercially live 5G service from at least one radio access site 
+and the number of cities with a population over 100,000 with 
+this service. Commercially live 5G services are defined as those 
+where customers are able to obtain 5G access and use it to 
+send or receive mobile traffic over the 5G network. We use our 
+inventory database and radio planning tools to identify the 
+locations of 5G services and to map out the population spread 
+for a specific country or city. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+30 
+IoT SIM connections 
+We report the number of IoT SIM connections that are assigned to an 
+external customer as at 31 March of the reporting year.  
+Number of unique users accessing Vodafone’s V-Hub 
+service 
+The V-Hub service is designed to support self-employed people and 
+small businesses. We report the cumulative number of unique users 
+who have accessed Vodafone’s V-Hub service since it launched in 
+July 2020.  
+A ‘user’ of the service is a unique visitor to the V-Hub website, tracked 
+by analytics software – this could be an individual or a business. 
+‘Access’ is a single instance of entering a page on a V-Hub website. 
+The metric covers all locations that have launched V-Hub in:” 
+– All European operating companies; 
+– The Netherlands; 
+– South Africa; 
+– Egypt; and 
+– Turkey. 
+Number of farmers registered on agricultural platform 
+(millions) 
+We report the total number of farmers and commercial farms using 
+one or more of our agriculture platform. The total number is the 
+cumulative number of unique active users (identified by mobile 
+phone number) per product. This accommodates seasonal use of 
+select platforms. 
+Provided by Mezzanine: 
+– MYFARMWEBTM; 
+– eVuna (dairy management; seasonal; vouchering and 
+marketplace) 
+Provided by Vodacom Tanzania:  
+– M-Kulima 
+Financial inclusion 
+We offer the below financial service-related solutions, which are 
+considered as being in line with the World Bank definition of 
+financial inclusion: 
+– M-Pesa (or equivalent) 
+– VodaSure insurance 
+– VodaLend – Business loans and cash advance 
+– VodaPay 
+Financial inclusion customers are defined as the unique 
+number of 30-day active customers holding one or more of the 
+products listed above. A customer may hold multiple qualifying 
+products however will only be counted once as a ‘unique 
+customer’. These are measured at a point in time, on 31 March 
+in each reported year. 
+Mobile money (M-Pesa or equivalent) 
+M-Pesa is a simple, secure, inexpensive and convenient solution 
+now offered to customers across eight markets: the 
+Democratic Republic of the Congo, Egypt, Ethiopia Kenya, 
+Lesotho, Mozambique, South Africa and Tanzania. The service 
+enables customers to send, receive and store money via a basic 
+mobile phone and, more recently in some markets, using a 
+smartphone app. safely and securely 
+In most markets, this solution is branded as M-Pesa. However, 
+in some markets (e.g. Egypt) the same mobile money transfer 
+service is branded as ‘VF Cash’. 
+M-Pesa (or equivalent) customers are defined as those who 
+have used their account (to check their balance or to initiate a 
+financial transaction) within the last 30 days. M-Pesa agents (or 
+equivalent) are defined as companies or persons authorised to 
+offer cash deposit or redemption services to customers. M-Pesa 
+(or equivalent) merchants are defined as companies that 
+accept M-Pesa (or equivalent) as one of their methods of 
+payment . These are measured at a point in time, at 31 March 
+in each reported year.
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+31 
+Maintaining Trust 
+31 People 
+33 Diversity and Inclusion 
+33 Health and Safety 
+34 Responsible Supply Chain 
+34 Board & Executive Committee 
+34 Remuneration 
+ 
+ 
+Integrity is core to who we and how we act at Vodafone. 
+Recognising that digitisation can be disruptive and pose new 
+challenges, we want to be a trusted partner to customers, 
+employees, suppliers and the communities we serve in the digital 
+society. We protect their data, ensure that services are delivered 
+securely and responsibly, and provide guidance on how to 
+navigate new technology. We respect human rights across all our 
+operations, and proactively manage risks in our supply chain. 
+We continue to foster a diverse and inclusive global workforce 
+that reflects the customers and societies we serve. We behave 
+responsibly and transparently and always strive to uphold the 
+highest industry standards. 
+People 
+We report the average headcount in our direct operations for the 
+financial year. This is calculated using monthly headcount 
+information which is averaged for the year and includes both 
+employees and contractors. 
+Employees are individuals holding a permanent or fixed 
+term employment contract with Vodafone and paid via 
+company payroll. 
+Contractors include: 
+– Individuals that provide a service for a fixed period of time and 
+are employed by a company or agency that contracts with 
+Vodafone for the provision of the service; and 
+– Temporary workers who are supervised by Vodafone 
+employees, not paid via company payroll but are employed 
+and paid via an agency. 
+All headcount figures exclude Associates and Joint Ventures and 
+include any acquisitions or disposals in the year pro-rated from or 
+to the date of the transaction. 
+Contract type, employee turnover and footprint disclosures are 
+based solely on employees average headcount and excludes 
+contractors. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+32 
+Headcount1 
+ 
+2020 
+2021 
+2022 
+2023 
+2024 
+Employee nationalities 
+128 
+137 
+146 
+146 
+146 
+Average number of employees from continuing operations 
+78,346 
+80,952 
+81,563 
+83,186 
+85,887 
+Average number of contractors from continuing operations 
+10,954 
+10,455 
+8,775 
+8,225 
+6,848 
+Average headcount from all direct continuing operations 
+89,300 
+91,407 
+90,337 
+91,410 
+92,735 
+Average number of employees from discontinued operations2 
+9,673 
+9,473 
+9,444 
+9,283 
+8,747 
+Average number of contractors from discontinued operations2 
+35 
+6 
+4 
+2 
+2 
+Average headcount from all direct discontinued operations2 
+9,708 
+9,479 
+9,447 
+9,285 
+8,749 
+Average number of employees from all direct operations 
+88,019 
+90,425 
+91,006 
+92,468 
+94,634 
+Average number of contractors from all direct operations 
+10,989 
+10,461 
+8,779 
+8,227 
+6,850 
+Average headcount direct operations 
+99,008 
+100,886 
+99,785 
+100,695 
+101,484 
+Notes: 
+1. During the current year, information relating to 2020, 2021, 2022 and 2023 has been restated to reflect portfolio changes completed during FY23. See our ESG Addendum Methodology for more information on 
+'Portfolio changes'. 
+2. Relates to operations in Italy and Spain. 
+ 
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+33 
+Employee Turnover 
+We calculate employee turnover as the number of male or 
+female leavers compared to total overall leavers during the 
+reported year. Turnover of employees on fixed term and 
+temporary contracts is included where the contract has 
+terminated before the contractual end date. 
+Voluntary turnover is the departure of the employee by their 
+own decision (which includes retirements and death-in-service), 
+whereas involuntary turnover is the termination of employment 
+by Vodafone. 
+Diversity and Inclusion 
+We are an inclusive employer and diversity is important to us. Our 
+focus is on removing barriers to workplace equality and we are 
+committed to developing a diverse and inclusive global 
+workforce that reflects the customers and societies we serve. 
+Percentage of women in management and senior 
+leadership roles 
+Calculation of progress against our target of 40% women in 
+management and senior leadership roles includes the diversity 
+figures for all management bands. Vodafone’s definition of 
+‘management’ is aligned with the Willis Towers Watson guidance. 
+The methodology refers to a management role as: 
+– The primary focus or purpose of the job and its key 
+responsibilities relate to the management of people, projects, 
+programmes, or processes; 
+– Incumbents’ performance objectives are primarily focused on 
+the work of the team, unit, project, programme or process 
+that is being managed; and 
+– For people manager jobs, incumbents have full hire, fire, 
+performance review, and pay decision-making accountability. 
+The diversity figures are based on the average number of 
+employees (full-time/part-time) as at the end of the financial 
+year. An employee is defined in the Headcount policy above and 
+includes graduates and people on international assignments as 
+well as people on work experience who are on the payroll or have 
+been at Vodafone (or an operating company) for longer than six 
+months. The numbers exclude pensioners and non-employees. 
+Race, ethnicity, and cultural heritage (‘REACH’) targets 
+We collect this information through our ‘#CountMeIn’ initiative 
+which encourages employees to voluntarily self-declare their 
+diversity demographics. These include race, ethnicity, disability, 
+sexual orientation, gender identity and caring responsibilities, in 
+line with local privacy and legal requirements. sexual orientation, 
+gender identity and caring responsibilities, in line with local 
+privacy and legal requirements. 
+Health and Safety 
+Keeping people safe is one of the most important responsibilities 
+we hold as an employer. Our ongoing focus is to provide a safe 
+working environment for everyone working for and on behalf 
+of Vodafone and the communities in which we operate.  
+We want everyone working with Vodafone to return home 
+safely every day. 
+Our health and safety management system is based on 
+international standards for occupational health and safety, is 
+aligned to internationally recognised best practice, and always 
+meets local requirements at a minimum. In addition, some of our 
+local markets have chosen to undergo certification to ISO 45001, 
+the international standard for occupational health and safety. 
+We report in accordance with the Group Health and Safety 
+policies and standards, all work-related incidents are reported 
+through the Global Incident Reporting database. Investigations 
+are proportionate to the severity of the incident. We report on 
+employees and contractors in accordance with headcount 
+reporting methodology (see Headcount section above). 
+Work-related injuries or ill health (excluding fatalities) 
+We report on work-related employee injury or illness (excluding 
+fatalities) that resulted in days away from work (not including the 
+day the injury occurred or the illness began). An injury or illness is 
+work-related if an event or exposure in the work environment 
+either caused or contributed to the resulting condition or 
+significantly aggravated a pre-existing injury or illness. 
+Lost time incidents (‘LTI’) 
+Lost time incident (‘LTI’) is the term we use when an employee 
+is injured while carrying out a work-related task and is 
+consequently unable to perform regular duties for a complete 
+shift or period of time after the incident. Lost time is equivalent 
+to 1 working day. 
+Total recordable fatalities 
+A recordable fatality is a fatal incident that has been reported to 
+the Chief Human Resources Officer and Head of Health, Safety 
+and Wellbeing and their review of the completed investigation 
+has concluded that the incident is within Vodafone control. 
+ 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+34 
+Responsible Supply Chain 
+We spend approximately €24 billion a year with approximately 
+8,000 suppliers around the world to meet our businesses and 
+customers’ needs across our network infrastructure, IT and 
+services related to fixed lines, mobile masts and data centres 
+that run our networks. 
+Board and Executive Committee 
+Appointments 
+The Nominations and Governance Committee (‘the Committee’) 
+continues to ensure that the Board has an appropriate balance of 
+skills, knowledge, experience and diversity so that it is effective in 
+discharging its responsibilities and in having oversight of all 
+matters relating to corporate governance. 
+Remuneration 
+The Remuneration Committee sets, assesses and recommends 
+for shareholder approval the Remuneration Policy for Executive 
+Directors, sets the remuneration of the Executive Directors and 
+approves the remuneration for the Chair of the Board and 
+members of the Executive Committee. It also reviews 
+remuneration arrangements across the Group to ensure they are 
+aligned with our strategy, support our purpose and celebrate the 
+‘Spirit of Vodafone’. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+35 
+Other information 
+35 GRI Index 
+35 UNGC 
+35 SFDR 
+36 Definitions 
+ 
+ 
+Global Reporting Initiative (‘GRI’) 
+Vodafone’s ESG addendum 2024 and related reporting are in 
+reference to the GRI standards: core option. The GRI Standards 
+allow companies to report their material impacts for a range of 
+economic, environmental and social issues. 
+United Nations Global Compact (‘UNGC’) 
+Vodafone’s communication on progress is structured using 
+the 10 principals of the United Nations Global Compact 
+(‘UNGC’). The UN now require online submission of this 
+process and Vodafone’s response can be accessed on the 
+UNGC CoP platform1. 
+SFDR Principal Adverse Impacts (‘PAI’) 
+Indicators 
+We have prepared an Index in line with the European Union’s 
+Sustainable Finance Disclosure Regulation (‘SFDR’), to help 
+stakeholders navigate our disclosures easily and to assist 
+investors who are required to collect information for their 
+own disclosures on Principal Adverse Impacts (‘PAI’). 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: 
+1. https://unglobalcompact.org/participation/report/cop/advanced/469630 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+36 
+Definitions 
+Term 
+Definition 
+#CountMeIn 
+In November 2020 we launched the ‘#CountMeIn initiative which encourages employees to voluntarily self-declare their diversity demographics. These include race, ethnicity, 
+disability, sexual orientation, gender identity and caring responsibilities, in line with local privacy and legal requirements. 
+_VOIS 
+_VOIS (Vodafone Intelligent Solutions) has grown from a single entity service provider to a global purpose-driven company that provides a comprehensive portfolio of services to 
+Vodafone and other telecommunications operators throughout the world. 
+3G 
+A cellular technology based on wide band code division multiple access delivering voice and faster data services. 
+4G 
+4G or long-term evolution (‘LTE’) technology offers even faster data transfer speeds than 3G. 
+5G  
+5G is the fifth-generation wireless broadband technology which provides better speeds and coverage than the current 4G. 
+Africa 
+Comprises the Vodacom Group (including Egypt).  
+AGM 
+Annual General Meeting 
+Agricultural platforms 
+Includes eVuna, Connected Farmer and MYFARMWEB. 
+Applications (‘Apps’) 
+Apps are software applications usually designed to run on a smartphone or tablet device and provide a convenient means for the user to perform certain tasks. They cover a wide 
+range of activities including banking, ticket purchasing, travel arrangements, social networking and games. For example, the MyVodafone app lets customers check their bill 
+totals on their smartphone and see the minutes, texts and data allowance remaining. 
+Carbon Disclosures 
+Standards Board (‘CDSB’) 
+The CDSB is an international consortium of business and environmental non-governmental organisations (‘NGOs’), which provides companies a framework for reporting 
+environmental information with the same rigour as financial information. 
+Carbon 
+abatement/enablement 
+Carbon abatement, also known as enablement or avoided emissions, is an estimated measurement of carbon savings resulting from the use of identified products and services. 
+Carbon intensity 
+Carbon intensity is a measure of carbon dioxide and other greenhouse gases (CO2e) per specific product unit or financial output. 
+Climate Disclosure Project 
+(‘CDP’) 
+CDP is a not-for-profit charity that runs the global environmental disclosure system for investors, companies, cities, states and regions to manage their environmental impacts. 
+Cloud/hosted services 
+This means the customer has little or no equipment, data and software at their premises. The capability associated with the service is run from the Vodafone network and data 
+centres instead. This removes the need for customers to make capital investments and instead they have an operating cost model with a recurring monthly fee. 
+CO2e 
+‘CO2e’ or ‘Carbon dioxide equivalent’ is a term for describing different greenhouse gases in a common unit. For any quantity and type of greenhouse gas, CO2e signifies the 
+amount of CO2 which would have the equivalent global warming impact. 
+Common Functions 
+Comprises central teams and business functions. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+37 
+Term 
+Definition 
+Conversion Factors 
+A conversion factor is a multiplier that describes the rate at which a given activity releases greenhouse gases (‘GHG’s) into the atmosphere. 
+Downstream activities 
+Downstream activities include emissions-producing activities required to consume Vodafone’s products and services. These include those relating to the use of sold products 
+and end-of-life treatment. 
+Electric vehicles (‘EV’) 
+EVs are vehicles that are either partially or fully powered on electric power. 
+Enablement ratio 
+The ratio of GHG emissions that our solutions enabled our customers to avoid to the Scope 1 and 2 greenhouse gas ‘GHG’ emissions from our own operations 
+Energy Intensity 
+Energy intensity is the amount of energy used to produce a given level of output or activity. 
+Europe 
+Comprises the Group’s European businesses and the UK. 
+Fibre to the cabinet (‘FTTC’) Involves running fibre optic cables from the telephone exchange or distribution point to the street cabinets which then connect to a standard phone line to provide broadband. 
+Fibre to the home (‘FTTH’) Provides an end-to-end fibre optic connection the full distance from the exchange to the customer’s premises. 
+Full time equivalent (‘FTE’) Full time equivalent or FTE refers to the number of employee hours considered full-time. 
+GHG Protocol Standards 
+GHG Protocol provides greenhouse gas accounting standards, designed to provide a framework for businesses, governments, and other entities to measure and report their 
+greenhouse gas emissions in ways that support their missions and goals. 
+Gigawatt hours (‘GWh’) 
+GWh is a unit of energy representing one billion (1,000,000,000) watt hours and is equivalent to one million kilowatt hours. 
+Global Positioning System 
+(‘GPS’) 
+GPS is a satellite-based radio navigation system 
+Green Digital Solutions 
+Products and services that can help our customers reduce their carbon emissions and optimise efficiency. 
+Greenhouse gas ‘GHG’ 
+emissions  
+Greenhouse gases (‘GHG’) are gases in the earth’s atmosphere that trap heat. 
+High Speed Packet Access 
+(‘HSPA’) 
+HSPA is an amalgamation of two mobile protocols—High Speed Downlink Packet Access (‘HSDPA’) and High Speed Uplink Packet Access (‘HSUPA’)—that extends and improves 
+the performance of existing 3G mobile telecommunication networks. 
+International Energy 
+Agency (‘IEA’) 
+The International Energy Agency is an autonomous intergovernmental organisation, that provides policy recommendations, analysis and data on the entire global energy sector. 
+Internet of Things (‘IoT’) 
+The network of physical objects embedded with electronics, software, sensors, and network connectivity, including built-in mobile SIM cards, that enables these objects to collect 
+data and exchange communications with one another or a database. 
+ISO 
+International Organisation for Standardisation. 
+KWh 
+A kilowatt hour (‘kWh’) is a measure of how much energy is used per hour. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+38 
+Term 
+Definition 
+Location-based 
+A location-based method reflects the average emissions intensity of grids on which energy consumption occurs.  
+LTM 
+Last twelve months. 
+Market-based 
+A market-based method reflects emissions from electricity that a company has purposefully chosen (or their lack of choice). 
+Mbps 
+Megabits (millions) of bits per second. 
+Metric tonne 
+A metric tonne is equal to 1,000 kilograms. 
+Mobile broadband 
+Mobile broadband allows internet access through a browser or a native application using any portable or mobile device such as smartphone, tablet or laptop connected to a 
+cellular network. 
+MWh 
+A megawatt hour (‘MWh’) equals 1,000 kilowatts of electricity generated per hour and is used to measure electric output. 
+Net Promoter Score (‘NPS’) Net Promoter Score is a customer loyalty metric used to monitor customer satisfaction. 
+Net zero 
+In line with the SBTi’s Corporate Net Zero Standard, ‘net zero’ means that we will reduce our carbon emissions in absolute terms by 90-95% by our net zero target year (and in line 
+with a science-based 1.5-degree pathway), and neutralise any residual emissions through high quality carbon offsetting. 
+Non-renewable 
+Non-renewable energy comes from sources that will run out or will not be naturally replenished in our lifetimes such as oil and gas. 
+Other Europe 
+Other Europe comprises Portugal, Ireland, Greece, Romania, Czech Republic and Albania. 
+Operating company 
+Group companies in countries where we had operational control during the year to 31 March 2024: Albania, Czech Republic, Germany, Greece, Ireland, Italy, Portugal, Romania, 
+Spain, Turkey, UK and Vodacom Group and its subsidiaries in the DRC, Egypt, Lesotho, Mozambique, South Africa and Tanzania; 
+Partner Markets 
+Markets in which the Group has entered into a partner agreement with a local mobile operator enabling a range of Vodafone’s global products and services to be marketed in that 
+operator’s territory and extending Vodafone’s reach into such markets. 
+pps 
+Percentage points. 
+Product carbon footprint 
+(‘PCF’) 
+A product carbon footprint (‘PCF’) is a means for measuring, managing and communicating greenhouse gas (‘GHG’) emissions related to goods and services. 
+RAN 
+Radio access network is the part of a mobile telecommunications system which provides cellular coverage to mobile phones via a radio interface, managed by thousands of base 
+stations installed on towers and rooftops across the coverage area, and linked to the core nodes through a backhaul infrastructure which can be owned, leased or a mix of both. 
+RE100 technical guidance RE100 is the global corporate renewable energy initiative bringing together businesses committed to 100% renewable electricity. As a member Vodafone reports annually to the 
+initiative. 
+Renewable 
+Renewable energy is energy that comes from a source that won’t run out. They are natural and self-replenishing, and usually have a low- or zero-carbon footprint for example 
+solar or wind power. 
+
+ 
+Vodafone Group Plc 
+ 
+Protecting our Planet 
+Empowering People 
+Maintaining Trust 
+Other information 
+ 
+ 
+ 
+ 
+39 
+Term 
+Definition 
+Renewable energy 
+certificates (‘RECs’) 
+Renewable energy certificates (‘RECs’) are a market-based instrument that certifies the bearer owns one megawatt-hour (MWh) of electricity generated from a renewable energy 
+resource. 
+Science Based Targets 
+initiative (‘SBTi’) 
+The SBTi is a collaboration between the CDP, the United Nations Global Compact (‘UNGC’), WRI and the World Wide Fund for Nature (‘WWF’). It defines and promotes best 
+practices in emissions reductions and net-zero targets in line with climate science. 
+Scope 1 
+Scope 1 covers direct emissions from owned or operationally controlled sources 
+Scope 2 
+Scope 2 covers indirect emissions from the purchase and use of electricity, steam, heating and cooling in our owned or operationally controlled activities. 
+Scope 3 
+Scope 3 includes all other indirect emissions that occur in the upstream and downstream activities. 
+Supplier factor 
+The emissions factor reported by the utility provider. 
+Task Force on Climate-
+related Financial 
+Disclosures (‘TCFD’) 
+TCFD is a global framework for companies and other organisations to develop more effective climate-related financial disclosures through their existing reporting processes. 
+The Carbon Trust 
+The Carbon Trust provides independent certification and assurance services in sustainability. 
+UK Streamlined Energy 
+and Carbon Reporting 
+(‘SECR’) 
+The UK Streamlined Energy and Carbon Reporting (SECR) policy requires organisations to share energy use and carbon emissions information in their annual reports.  
+Upstream activities 
+Upstream activities include all emissions-producing activities required to produce Vodafone’s products and services. These include the purchase of goods from manufacturers 
+and transportation costs. 
+Vodafone Business 
+Vodafone Business supports organisations in a digital world. With Vodafone’s expertise in connectivity, our leading IoT platform and our global scale, we deliver the results that 
+organisations need to progress and thrive. We support businesses of all sizes and sectors. 
+Vodafone Procurement 
+Company (‘VPC’) 
+VPC is Vodafone’s procurement company, leading purchasing and supplier management for Vodafone as a whole. Based in Luxembourg, VPC manages most of Vodafone’s 
+spending with suppliers worldwide. VPC supports the needs of Vodafone’s operating companies and group functions and sells procurement services to third parties. 
+Water intensity 
+Water intensity is the amount of water a company withdraws per a specific product unit or financial output. 
+Water stressed 
+Water stress occurs when the demand for water exceeds the available amount during a certain period or when poor quality restricts its use. 
+World Resources Institute 
+(‘WRI’) 
+The World Resources Institute is a global research non-profit organisation. WRI’s activities are focused on seven areas: food, forests, water, energy, cities, climate and ocean. 
+ 
+
