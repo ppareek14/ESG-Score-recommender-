@@ -15,6 +15,9 @@ from query_chroma_and_score import analyze_forced_labor_disclosure
 # Page config
 st.set_page_config(page_title="ESG Forced Labor Analyzer", page_icon="🌱", layout="wide")
 
+st.markdown("<h1 style='text-align: center; color: #4CAF50;'>TEXpert.AI</h1>", unsafe_allow_html=True)
+
+
 # Determine companies dynamically from chroma_store folder structure
 chroma_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "chroma_store"))
 companies = sorted([
